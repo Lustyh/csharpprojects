@@ -1,0 +1,71 @@
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.pdb
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Properties.Resources.resources
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.GenerateResource.cache
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CoreCompileInputs.cache
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.exe
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.pdb
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Socket_Server.resources
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe.config
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CopyComplete
+D:\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Password.resources
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe.config
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.pdb
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csprojAssemblyReference.cache
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Password.resources
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Socket_Server.resources
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Properties.Resources.resources
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.GenerateResource.cache
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CoreCompileInputs.cache
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CopyComplete
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.exe
+D:\Code\C#\Test\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.pdb
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe.config
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.pdb
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Password.resources
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Socket_Server.resources
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Properties.Resources.resources
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.GenerateResource.cache
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CoreCompileInputs.cache
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CopyComplete
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.exe
+D:\Code\C#\Central Controller\Socket_Server_Robot\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.pdb
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe.config
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.pdb
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Password.resources
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Socket_Server.resources
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Properties.Resources.resources
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.GenerateResource.cache
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CoreCompileInputs.cache
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CopyComplete
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.exe
+D:\Code\C#\Central Controller\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.pdb
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe.config
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.pdb
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.AssemblyReference.cache
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.SuggestedBindingRedirects.cache
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Password.resources
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Socket_Server.resources
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Properties.Resources.resources
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.GenerateResource.cache
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CoreCompileInputs.cache
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CopyComplete
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.exe
+D:\Code\C#\Robot\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.pdb
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe.config
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.exe
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\bin\Debug\Socket_Server_Robot.pdb
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.AssemblyReference.cache
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Password.resources
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Socket_Server.resources
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.Properties.Resources.resources
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.GenerateResource.cache
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CoreCompileInputs.cache
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.csproj.CopyComplete
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.exe
+C:\Users\Lorain\source\c#code\Socket_Server_Robot_Mars\Socket_Server_Robot\obj\Debug\Socket_Server_Robot.pdb

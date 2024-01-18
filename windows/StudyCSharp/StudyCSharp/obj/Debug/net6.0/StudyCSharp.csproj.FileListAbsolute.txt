@@ -1,0 +1,15 @@
+E:\C#\windows\StudyCSharp\StudyCSharp\bin\Debug\net6.0\StudyCSharp.exe
+E:\C#\windows\StudyCSharp\StudyCSharp\bin\Debug\net6.0\StudyCSharp.deps.json
+E:\C#\windows\StudyCSharp\StudyCSharp\bin\Debug\net6.0\StudyCSharp.runtimeconfig.json
+E:\C#\windows\StudyCSharp\StudyCSharp\bin\Debug\net6.0\StudyCSharp.dll
+E:\C#\windows\StudyCSharp\StudyCSharp\bin\Debug\net6.0\ref\StudyCSharp.dll
+E:\C#\windows\StudyCSharp\StudyCSharp\bin\Debug\net6.0\StudyCSharp.pdb
+E:\C#\windows\StudyCSharp\StudyCSharp\obj\Debug\net6.0\StudyCSharp.csproj.AssemblyReference.cache
+E:\C#\windows\StudyCSharp\StudyCSharp\obj\Debug\net6.0\StudyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\StudyCSharp\StudyCSharp\obj\Debug\net6.0\StudyCSharp.AssemblyInfoInputs.cache
+E:\C#\windows\StudyCSharp\StudyCSharp\obj\Debug\net6.0\StudyCSharp.AssemblyInfo.cs
+E:\C#\windows\StudyCSharp\StudyCSharp\obj\Debug\net6.0\StudyCSharp.csproj.CoreCompileInputs.cache
+E:\C#\windows\StudyCSharp\StudyCSharp\obj\Debug\net6.0\StudyCSharp.dll
+E:\C#\windows\StudyCSharp\StudyCSharp\obj\Debug\net6.0\ref\StudyCSharp.dll
+E:\C#\windows\StudyCSharp\StudyCSharp\obj\Debug\net6.0\StudyCSharp.pdb
+E:\C#\windows\StudyCSharp\StudyCSharp\obj\Debug\net6.0\StudyCSharp.genruntimeconfig.cache

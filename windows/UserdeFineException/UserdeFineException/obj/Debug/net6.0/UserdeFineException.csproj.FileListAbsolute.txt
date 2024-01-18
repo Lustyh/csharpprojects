@@ -1,0 +1,15 @@
+E:\C#\windows\UserdeFineException\UserdeFineException\bin\Debug\net6.0\UserdeFineException.exe
+E:\C#\windows\UserdeFineException\UserdeFineException\bin\Debug\net6.0\UserdeFineException.deps.json
+E:\C#\windows\UserdeFineException\UserdeFineException\bin\Debug\net6.0\UserdeFineException.runtimeconfig.json
+E:\C#\windows\UserdeFineException\UserdeFineException\bin\Debug\net6.0\UserdeFineException.dll
+E:\C#\windows\UserdeFineException\UserdeFineException\bin\Debug\net6.0\ref\UserdeFineException.dll
+E:\C#\windows\UserdeFineException\UserdeFineException\bin\Debug\net6.0\UserdeFineException.pdb
+E:\C#\windows\UserdeFineException\UserdeFineException\obj\Debug\net6.0\UserdeFineException.csproj.AssemblyReference.cache
+E:\C#\windows\UserdeFineException\UserdeFineException\obj\Debug\net6.0\UserdeFineException.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\UserdeFineException\UserdeFineException\obj\Debug\net6.0\UserdeFineException.AssemblyInfoInputs.cache
+E:\C#\windows\UserdeFineException\UserdeFineException\obj\Debug\net6.0\UserdeFineException.AssemblyInfo.cs
+E:\C#\windows\UserdeFineException\UserdeFineException\obj\Debug\net6.0\UserdeFineException.csproj.CoreCompileInputs.cache
+E:\C#\windows\UserdeFineException\UserdeFineException\obj\Debug\net6.0\UserdeFineException.dll
+E:\C#\windows\UserdeFineException\UserdeFineException\obj\Debug\net6.0\ref\UserdeFineException.dll
+E:\C#\windows\UserdeFineException\UserdeFineException\obj\Debug\net6.0\UserdeFineException.pdb
+E:\C#\windows\UserdeFineException\UserdeFineException\obj\Debug\net6.0\UserdeFineException.genruntimeconfig.cache

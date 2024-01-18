@@ -1,0 +1,15 @@
+E:\C#\windows\OverloadingScript\OverloadingScript\bin\Debug\net6.0\OverloadingScript.exe
+E:\C#\windows\OverloadingScript\OverloadingScript\bin\Debug\net6.0\OverloadingScript.deps.json
+E:\C#\windows\OverloadingScript\OverloadingScript\bin\Debug\net6.0\OverloadingScript.runtimeconfig.json
+E:\C#\windows\OverloadingScript\OverloadingScript\bin\Debug\net6.0\OverloadingScript.dll
+E:\C#\windows\OverloadingScript\OverloadingScript\bin\Debug\net6.0\ref\OverloadingScript.dll
+E:\C#\windows\OverloadingScript\OverloadingScript\bin\Debug\net6.0\OverloadingScript.pdb
+E:\C#\windows\OverloadingScript\OverloadingScript\obj\Debug\net6.0\OverloadingScript.csproj.AssemblyReference.cache
+E:\C#\windows\OverloadingScript\OverloadingScript\obj\Debug\net6.0\OverloadingScript.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\OverloadingScript\OverloadingScript\obj\Debug\net6.0\OverloadingScript.AssemblyInfoInputs.cache
+E:\C#\windows\OverloadingScript\OverloadingScript\obj\Debug\net6.0\OverloadingScript.AssemblyInfo.cs
+E:\C#\windows\OverloadingScript\OverloadingScript\obj\Debug\net6.0\OverloadingScript.csproj.CoreCompileInputs.cache
+E:\C#\windows\OverloadingScript\OverloadingScript\obj\Debug\net6.0\OverloadingScript.dll
+E:\C#\windows\OverloadingScript\OverloadingScript\obj\Debug\net6.0\ref\OverloadingScript.dll
+E:\C#\windows\OverloadingScript\OverloadingScript\obj\Debug\net6.0\OverloadingScript.pdb
+E:\C#\windows\OverloadingScript\OverloadingScript\obj\Debug\net6.0\OverloadingScript.genruntimeconfig.cache

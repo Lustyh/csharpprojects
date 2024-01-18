@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6002aaed-609c-425a-94f8-092816e46aca": {
+      "ProjectGuid": "6002aaed-609c-425a-94f8-092816e46aca",
+      "DisplayName": "cectool",
+      "ColorIndex": 0
+    },
+    "bc99666f-5057-4be0-809a-d0df6a9034fe": {
+      "ProjectGuid": "bc99666f-5057-4be0-809a-d0df6a9034fe",
+      "DisplayName": "Hdv72CEC",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

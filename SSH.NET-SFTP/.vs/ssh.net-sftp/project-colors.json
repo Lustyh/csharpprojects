@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24a0ce7e-eb75-4730-9ffb-7b0c0e0acf51": {
+      "ProjectGuid": "24a0ce7e-eb75-4730-9ffb-7b0c0e0acf51",
+      "DisplayName": "SamsaraSFTP",
+      "ColorIndex": 0
+    },
+    "217b4eb8-afee-4997-8590-ea2aec952417": {
+      "ProjectGuid": "217b4eb8-afee-4997-8590-ea2aec952417",
+      "DisplayName": "bigbird_check",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

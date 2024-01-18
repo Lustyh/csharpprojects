@@ -1,0 +1,1939 @@
+Tata,D/N,Config,Test time,Line,Fixture,SN,Failure Mode,Failure Description,Retest,NTF,Fail,SOF,OFFLINE
+2020-08-05,D,GA00781-GB,2020-08-05T07:56:12Z,K49,PROVISION-K4903,WIP0803105APAL31D,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T07:24:37Z,K49,PROVISION-K4907,WIP0803105APAL3CK,"flash_fsi
+","flash_fsi  FAIL
+",0,1,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T07:32:26Z,k49,PROVISION-k4902,WIP0803105APALAE9,"flash_fsi
+","flash_fsi  FAIL
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:00:58Z,L29,PROVISION-L2901,WIP0803105APAL74D,"check_led_file
+push_hwtxt
+check_sounds_file
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+led_cal
+set_color
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+check_sounds_file  None
+check_mode  None
+sku_otp  None
+set_locale  None
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+led_cal  None
+set_color  FAIL
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:04:37Z,L29,PROVISION-L2903,WIP0803105APAL75T,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:04:37Z,L29,PROVISION-L2903,WIP0803105APAL74R,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T07:44:47Z,K49,PROVISION-K4908,WIP0803105APAL3GP,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:08:29Z,L29,PROVISION-L2903,WIP0803105APAL7JP,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:14:43Z,K49,PROVISION-K4904,WIP0803105APALADB,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:15:31Z,L29,PROVISION-L2901,WIP0803105APAL7DC,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:18:06Z,L29,PROVISION-L2901,WIP0803105APALA84,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:23:40Z,K49,PROVISION-K4907,WIP0803105APAKMK6,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:21:00Z,L29,PROVISION-L2909,WIP0803105APALFEJ,"led_cal
+check_mode
+sku_otp
+set_anim
+sku_fsi
+sku_fdv
+store_wifi_txpower
+boot_mode
+","led_cal  FAIL
+check_mode  None
+sku_otp  None
+set_anim  None
+sku_fsi  None
+sku_fdv  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:24:52Z,L29,PROVISION-L2904,WIP0803105APAL47C,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:26:05Z,L29,PROVISION-L2908,WIP0803105APALFE7,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:26:30Z,L29,PROVISION-L2907,WIP0803105APAL460,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:27:23Z,K49,PROVISION-K4903,WIP0803105APAKN3H,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-04,D,GA00781-ES,2020-08-04T19:25:33Z,L39,PROVISION-L3905,WIP0722105APAHLE0,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:29:37Z,L29,PROVISION-L2904,WIP0803105APAKWKP,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:31:21Z,K49,PROVISION-K4906,WIP0803105APAKN40,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:30:48Z,L29,PROVISION-L2901,WIP0803105APAL78U,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:33:16Z,L29,PROVISION-L2909,WIP0803105APAL7CW,"led_cal
+check_mode
+sku_otp
+set_anim
+sku_fsi
+sku_fdv
+store_wifi_txpower
+boot_mode
+","led_cal  FAIL
+check_mode  None
+sku_otp  None
+set_anim  None
+sku_fsi  None
+sku_fdv  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-04,D,GA00781-ES,2020-08-04T19:53:53Z,L29,PROVISION-L2908,WIP0803105APAL7XC,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:36:46Z,K49,PROVISION-K4901,WIP0803105APAKNTW,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:43:51Z,K49,PROVISION-K4909,WIP0803105APAKNL3,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:43:51Z,K49,PROVISION-K4909,WIP0803105APAKNM8,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:43:51Z,K49,PROVISION-K4909,WIP0803105APAKNLC,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+
+2020-08-04,D,GA00781-ES,2020-08-04T19:53:53Z,L29,PROVISION-L2908,WIP0803105APAL7X2,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-04,D,GA00781-ES,2020-08-04T19:53:53Z,L29,PROVISION-L2908,WIP0803105APAKWTW,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-04,D,GA00781-ES,2020-08-04T17:00:58Z,L29,PROVISION-L2902,WIP0803105APAKLJE,"flash_fsi
+","flash_fsi  FAIL
+",0,1,0,0,0,
+2020-08-04,D,GA00781-ES,2020-08-04T19:53:53Z,L29,PROVISION-L2908,WIP0803105APAL7XD,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:43:57Z,L29,PROVISION-L2903,WIP0803105APALB38,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:44:24Z,L29,PROVISION-L2903,WIP0803105APALB34,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:44:15Z,L29,PROVISION-L2908,WIP0803105APAL4B3,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-04,D,GA00781-ES,2020-08-04T16:36:05Z,L29,PROVISION-L2902,WIP0803105APAKMDE,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:16:32Z,L29,PROVISION-L2905,WIP0803105APAL7HB,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:18:26Z,L29,PROVISION-L2905,WIP0803105APAL34C,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:48:42Z,L29,PROVISION-L2908,WIP0803105APAL7RU,"check_fct
+check_led_file
+push_hwtxt
+check_sounds_file
+check_mode
+fct_version
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+led_cal
+set_color
+store_wifi_txpower
+boot_mode
+","check_fct  None
+check_led_file  None
+push_hwtxt  None
+check_sounds_file  None
+check_mode  None
+fct_version  None
+sku_otp  None
+set_locale  None
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+led_cal  None
+set_color  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:48:08Z,k49,PROVISION-k4902,WIP0803105APAKND5,"flash_fsi
+","flash_fsi  FAIL
+",0,1,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:56:54Z,K49,PROVISION-K4907,WIP0803105APAKMUT,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:02:25Z,L29,PROVISION-L2907,WIP0803105APAKNN5,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:03:54Z,L29,PROVISION-L2908,WIP0803105APAKN7G,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:05:43Z,L29,PROVISION-L2902,WIP0803105APAKNP1,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:06:54Z,k49,PROVISION-k4902,WIP0803105APAL3F1,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:06:41Z,L29,PROVISION-L2905,WIP0803105APAKNUK,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:11:11Z,L29,PROVISION-L2905,WIP0803105APAKNB6,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:13:04Z,k49,PROVISION-k4902,WIP0801105APAKBD5,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",0,0,1,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:16:26Z,K49,PROVISION-K4907,WIP0801105APAKC7T,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:16:01Z,L29,PROVISION-L2901,WIP0803105APAKN8E,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:13:04Z,L29,PROVISION-L2902,WIP0803105APAKN5M,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:31:17Z,L29,PROVISION-L2906,WIP0803105APAL4GA,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:39:04Z,L29,PROVISION-L2901,WIP0803105APAL3W7,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:23:19Z,k49,PROVISION-k4902,WIP0801105APAKBJC,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:21:14Z,L29,PROVISION-L2908,WIP0803105APAKMVP,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:43:08Z,L29,PROVISION-L2908,WIP0803105APAL44D,"wifi_check
+","wifi_check  Timeout
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:22:27Z,L29,PROVISION-L2902,WIP0803105APAKMW5,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:24:47Z,K49,PROVISION-K4908,WIP0801105APAKCCG,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:37:49Z,L29,PROVISION-L2903,WIP0803105APAL3XG,"wifi_check
+","wifi_check  Timeout
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:20:06Z,L29,PROVISION-L2909,WIP0803105APAL349,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:27:59Z,K49,PROVISION-K4904,WIP0801105APAKC3U,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:30:16Z,L29,PROVISION-L2908,WIP0803105APAKNGP,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:29:09Z,L29,PROVISION-L2901,WIP0803105APAKNGA,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:29:11Z,L29,PROVISION-L2901,WIP0803105APAKNGG,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:31:05Z,L29,PROVISION-L2903,WIP0803105APAKNGX,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:31:05Z,L29,PROVISION-L2903,WIP0803105APAKNGL,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:33:15Z,L29,PROVISION-L2907,WIP0803105APAKNJ2,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:35:18Z,K49,PROVISION-K4906,WIP0801105APAKCEH,"sku_speaker
+sku_id
+check_led_file
+check_sounds_file
+sku_otp
+set_anim
+sku_mlbsn
+store_wifi_txpower
+boot_mode
+mlbsn
+push_hwtxt
+led_cal
+fct_version
+sku_color
+sku_lang
+sku_country
+sku_build
+sku_fdv
+check_mode
+sku_fsi
+check_mlbsn
+check_fct
+get_mlbsn
+get_sku
+set_locale
+sku_spk_pn
+set_color
+","sku_speaker  None
+sku_id  None
+check_led_file  None
+check_sounds_file  None
+sku_otp  None
+set_anim  None
+sku_mlbsn  None
+store_wifi_txpower  None
+boot_mode  None
+mlbsn  None
+push_hwtxt  None
+led_cal  None
+fct_version  None
+sku_color  None
+sku_lang  None
+sku_country  None
+sku_build  None
+sku_fdv  None
+check_mode  None
+sku_fsi  None
+check_mlbsn  None
+check_fct  None
+get_mlbsn  FAIL
+get_sku  None
+set_locale  None
+sku_spk_pn  None
+set_color  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:14:20Z,L29,PROVISION-L2906,WIP0803105APAKN7J,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:58:33Z,L29,PROVISION-L2906,WIP0803105APAKMJT,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:56:40Z,L29,PROVISION-L2905,WIP0803105APAL7K3,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:42:37Z,K49,PROVISION-K4904,WIP0801105APAKB8J,"push_key
+cat_macaddr
+BSSID_MAC
+WLMAC
+set_serial
+BTMAC
+OTP
+","push_key  None
+cat_macaddr  None
+BSSID_MAC  None
+WLMAC  None
+set_serial  FAIL
+BTMAC  None
+OTP  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:45:07Z,K49,PROVISION-K4908,WIP0801105APAKB8X,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:46:31Z,L29,PROVISION-L2908,WIP0801105APAKCVN,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:46:45Z,L29,PROVISION-L2905,WIP0801105APAKCV3,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:40:38Z,K49,PROVISION-K4909,WIP0801105APAKBRB,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",0,1,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:46:55Z,k49,PROVISION-k4902,WIP0801105APAKC1C,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",0,1,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:20:17Z,K49,PROVISION-K4908,WIP0803105APAKMGH,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:02:11Z,L29,PROVISION-L2904,WIP0803105APAKNN9,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:03:37Z,K49,PROVISION-K4901,WIP0801105APAKB9W,"sku_speaker
+sku_id
+check_led_file
+check_sounds_file
+sku_otp
+set_anim
+sku_mlbsn
+store_wifi_txpower
+boot_mode
+mlbsn
+push_hwtxt
+led_cal
+fct_version
+sku_color
+sku_lang
+sku_country
+sku_build
+sku_fdv
+check_mode
+sku_fsi
+check_mlbsn
+check_fct
+get_mlbsn
+get_sku
+set_locale
+sku_spk_pn
+set_color
+","sku_speaker  None
+sku_id  None
+check_led_file  None
+check_sounds_file  None
+sku_otp  None
+set_anim  None
+sku_mlbsn  None
+store_wifi_txpower  None
+boot_mode  None
+mlbsn  None
+push_hwtxt  None
+led_cal  None
+fct_version  None
+sku_color  None
+sku_lang  None
+sku_country  None
+sku_build  None
+sku_fdv  None
+check_mode  None
+sku_fsi  None
+check_mlbsn  None
+check_fct  None
+get_mlbsn  FAIL
+get_sku  None
+set_locale  None
+sku_spk_pn  None
+set_color  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:02:31Z,L29,PROVISION-L2901,WIP0801105APAKD60,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:30:30Z,L39,PROVISION-L3903,WIP0722105APAHLTD,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:43:14Z,k49,PROVISION-k4902,WIP0801105APAKB7Y,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T09:27:24Z,k49,PROVISION-k4902,WIP0801105APAKC1Y,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:08:35Z,K49,PROVISION-K4906,WIP0801105APAKBBW,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:13:19Z,L39,PROVISION-L3904,WIP0803105APALFJP,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:16:04Z,L29,PROVISION-L2908,WIP0801105APAKD49,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:12:28Z,K49,PROVISION-K4906,WIP0801105APAKB5B,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:13:01Z,K49,PROVISION-K4907,WIP0801105APAKB6H,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:22:01Z,L29,PROVISION-L2906,WIP0801105APAKCLT,"set_anim
+sku_fdv
+sku_fsi
+sku_otp
+","set_anim  FAIL
+sku_fdv  None
+sku_fsi  None
+sku_otp  None
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:22:01Z,L29,PROVISION-L2906,WIP0801105APAKCKJ,"set_anim
+sku_fdv
+sku_fsi
+sku_otp
+","set_anim  FAIL
+sku_fdv  None
+sku_fsi  None
+sku_otp  None
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:22:01Z,L29,PROVISION-L2906,WIP0801105APAKCNU,"set_anim
+sku_fdv
+sku_fsi
+sku_otp
+","set_anim  FAIL
+sku_fdv  None
+sku_fsi  None
+sku_otp  None
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:22:01Z,L29,PROVISION-L2906,WIP0801105APAKCLJ,"set_anim
+sku_fdv
+sku_fsi
+sku_otp
+","set_anim  FAIL
+sku_fdv  None
+sku_fsi  None
+sku_otp  None
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:23:53Z,L29,PROVISION-L2902,WIP0801105APAKCMM,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:28:21Z,K49,PROVISION-K4905,WIP0803105APALANF,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:20:43Z,L29,PROVISION-L2901,WIP0803105APAKMV0,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:21:05Z,L29,PROVISION-L2905,WIP0803105APAKMVU,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:13:27Z,L29,PROVISION-L2903,WIP0722105APAHM3M,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:59:25Z,L29,PROVISION-L2905,WIP0803105APAKMWE,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:16:13Z,L29,PROVISION-L2904,WIP0801105APAKD41,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:26:47Z,L29,PROVISION-L2904,WIP0803105APAKN4K,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:33:25Z,K49,PROVISION-K4904,WIP0801105APAKDB3,"check_led_file
+push_hwtxt
+check_sounds_file
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+led_cal
+set_color
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+check_sounds_file  None
+check_mode  None
+sku_otp  None
+set_locale  None
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+led_cal  None
+set_color  FAIL
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:35:51Z,L39,PROVISION-L3905,WIP0801105APAK9Y2,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:36:57Z,L29,PROVISION-L2908,WIP0722105APAHLHK,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:36:42Z,L29,PROVISION-L2905,WIP0722105APAHLK0,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:37:30Z,K49,PROVISION-K4907,WIP0801105APAKDD4,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:41:23Z,L29,PROVISION-L2902,WIP0803105APAKMR6,"OTP
+BSSID_MAC
+BTMAC
+cat_macaddr
+WLMAC
+","OTP  FAIL
+BSSID_MAC  None
+BTMAC  None
+cat_macaddr  None
+WLMAC  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:41:31Z,K49,PROVISION-K4903,WIP0803105APAL3E1,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:40:24Z,K49,PROVISION-K4905,WIP0803105APALAG0,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T07:52:06Z,k49,PROVISION-k4902,WIP0803105APAL2YP,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T07:25:12Z,K49,PROVISION-K4904,WIP0803105APALAH0,"flash_fsi
+","flash_fsi  FAIL
+",0,1,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T08:13:25Z,K49,PROVISION-K4905,WIP0803105APALAA0,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:48:55Z,L29,PROVISION-L2907,WIP0803105APAL5MR,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:13:14Z,L29,PROVISION-L2905,WIP0803105APAKN6U,"flash_fsi
+","flash_fsi  FAIL
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:26:07Z,L29,PROVISION-L2903,WIP0801105APAKCDF,"flash_fsi
+","flash_fsi  FAIL
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:47:50Z,L29,PROVISION-L2904,WIP0803105APAL7PV,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:08:00Z,L29,PROVISION-L2905,WIP0801105APAKCJ4,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:09:14Z,L29,PROVISION-L2906,WIP0801105APAKCLF,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T10:51:36Z,L29,PROVISION-L2902,WIP0803105APALAM1,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:42:59Z,K49,PROVISION-K4905,WIP0803105APAL3DB,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T10:54:56Z,L29,PROVISION-L2904,WIP0803105APALALW,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:04:02Z,L29,PROVISION-L2902,WIP0803105APAKNML,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:58:03Z,K49,PROVISION-K4903,WIP0801105APAKD83,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:59:54Z,K49,PROVISION-K4906,WIP0801105APAKD8W,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T11:00:28Z,k49,PROVISION-k4902,WIP0801105APAKD88,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:50:16Z,L29,PROVISION-L2904,WIP0801105APAKD59,"wifi_check
+","wifi_check  Timeout
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:42:35Z,L29,PROVISION-L2908,WIP0801105APAKCFK,"wifi_check
+","wifi_check  Timeout
+",0,1,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:03:50Z,L29,PROVISION-L2907,WIP0801105APAKAUW,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:05:53Z,L29,PROVISION-L2905,WIP0801105APAKAW3,"check_led_file
+push_hwtxt
+check_sounds_file
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+led_cal
+set_color
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+check_sounds_file  None
+check_mode  None
+sku_otp  None
+set_locale  None
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+led_cal  None
+set_color  FAIL
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T11:05:27Z,K49,PROVISION-K4904,WIP0801105APAKCP2,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T11:09:28Z,K49,PROVISION-K4906,WIP0803105APAL2YK,"sku_speaker
+sku_id
+check_led_file
+check_sounds_file
+sku_otp
+set_anim
+sku_mlbsn
+store_wifi_txpower
+boot_mode
+mlbsn
+push_hwtxt
+led_cal
+fct_version
+sku_color
+sku_lang
+sku_country
+sku_build
+sku_fdv
+check_mode
+sku_fsi
+check_mlbsn
+check_fct
+get_mlbsn
+get_sku
+set_locale
+sku_spk_pn
+set_color
+","sku_speaker  None
+sku_id  None
+check_led_file  None
+check_sounds_file  None
+sku_otp  None
+set_anim  None
+sku_mlbsn  None
+store_wifi_txpower  None
+boot_mode  None
+mlbsn  None
+push_hwtxt  None
+led_cal  None
+fct_version  None
+sku_color  None
+sku_lang  None
+sku_country  None
+sku_build  None
+sku_fdv  None
+check_mode  None
+sku_fsi  None
+check_mlbsn  None
+check_fct  None
+get_mlbsn  FAIL
+get_sku  None
+set_locale  None
+sku_spk_pn  None
+set_color  None
+",1,0,0,0,0,
+
+2020-08-05,D,GA00781-GB,2020-08-05T11:09:55Z,k49,PROVISION-k4902,WIP0803105APAL2Y2,"check_fct
+check_led_file
+push_hwtxt
+check_sounds_file
+check_mode
+fct_version
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+led_cal
+set_color
+store_wifi_txpower
+boot_mode
+","check_fct  None
+check_led_file  None
+push_hwtxt  None
+check_sounds_file  None
+check_mode  None
+fct_version  None
+sku_otp  None
+set_locale  None
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+led_cal  None
+set_color  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:10:55Z,L29,PROVISION-L2908,WIP0801105APAKB8W,"sku_speaker
+sku_id
+check_led_file
+check_sounds_file
+sku_otp
+set_anim
+sku_mlbsn
+store_wifi_txpower
+boot_mode
+mlbsn
+push_hwtxt
+led_cal
+fct_version
+sku_color
+sku_lang
+sku_country
+sku_build
+sku_fdv
+check_mode
+sku_fsi
+check_mlbsn
+check_fct
+get_mlbsn
+get_sku
+set_locale
+sku_spk_pn
+set_color
+","sku_speaker  None
+sku_id  None
+check_led_file  None
+check_sounds_file  None
+sku_otp  None
+set_anim  None
+sku_mlbsn  None
+store_wifi_txpower  None
+boot_mode  None
+mlbsn  None
+push_hwtxt  None
+led_cal  None
+fct_version  None
+sku_color  None
+sku_lang  None
+sku_country  None
+sku_build  None
+sku_fdv  None
+check_mode  None
+sku_fsi  None
+check_mlbsn  None
+check_fct  None
+get_mlbsn  FAIL
+get_sku  None
+set_locale  None
+sku_spk_pn  None
+set_color  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:13:00Z,L29,PROVISION-L2907,WIP0801105APAKB35,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:12:38Z,L29,PROVISION-L2905,WIP0801105APAKB4G,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T10:51:42Z,L29,PROVISION-L2905,WIP0803105APALAM0,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T11:20:12Z,k49,PROVISION-k4902,WIP0803105APAKLLV,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:21:26Z,L29,PROVISION-L2905,WIP0801105APAKACP,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T10:13:27Z,L29,PROVISION-L2903,WIP0722105APAHM3W,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:07:46Z,L29,PROVISION-L2904,WIP0801105APAKAWM,"sku_speaker
+sku_id
+check_led_file
+check_sounds_file
+sku_otp
+set_anim
+sku_mlbsn
+store_wifi_txpower
+boot_mode
+mlbsn
+push_hwtxt
+led_cal
+fct_version
+sku_color
+sku_lang
+sku_country
+sku_build
+sku_fdv
+check_mode
+sku_fsi
+check_mlbsn
+check_fct
+get_mlbsn
+get_sku
+set_locale
+sku_spk_pn
+set_color
+","sku_speaker  None
+sku_id  None
+check_led_file  None
+check_sounds_file  None
+sku_otp  None
+set_anim  None
+sku_mlbsn  None
+store_wifi_txpower  None
+boot_mode  None
+mlbsn  None
+push_hwtxt  None
+led_cal  None
+fct_version  None
+sku_color  None
+sku_lang  None
+sku_country  None
+sku_build  None
+sku_fdv  None
+check_mode  None
+sku_fsi  None
+check_mlbsn  None
+check_fct  None
+get_mlbsn  FAIL
+get_sku  None
+set_locale  None
+sku_spk_pn  None
+set_color  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T11:24:03Z,K49,PROVISION-K4903,WIP0803105APAKMG7,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T11:27:18Z,K49,PROVISION-K4905,WIP0803105APAKMFW,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:24:57Z,L29,PROVISION-L2901,WIP0801105APAKA7N,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",0,1,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:34:55Z,L29,PROVISION-L2908,WIP0803105APAKM84,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T11:31:46Z,L39,PROVISION-L3908,WIP0801105APAKACY,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:39:46Z,L29,PROVISION-L2908,WIP0803105APAKNTU,"sku_speaker
+sku_id
+check_led_file
+check_sounds_file
+sku_otp
+set_anim
+sku_mlbsn
+store_wifi_txpower
+boot_mode
+mlbsn
+push_hwtxt
+led_cal
+fct_version
+sku_color
+sku_lang
+sku_country
+sku_build
+sku_fdv
+check_mode
+sku_fsi
+check_mlbsn
+check_fct
+get_mlbsn
+get_sku
+set_locale
+sku_spk_pn
+set_color
+","sku_speaker  None
+sku_id  None
+check_led_file  None
+check_sounds_file  None
+sku_otp  None
+set_anim  None
+sku_mlbsn  None
+store_wifi_txpower  None
+boot_mode  None
+mlbsn  None
+push_hwtxt  None
+led_cal  None
+fct_version  None
+sku_color  None
+sku_lang  None
+sku_country  None
+sku_build  None
+sku_fdv  None
+check_mode  None
+sku_fsi  None
+check_mlbsn  None
+check_fct  None
+get_mlbsn  FAIL
+get_sku  None
+set_locale  None
+sku_spk_pn  None
+set_color  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T11:18:31Z,K49,PROVISION-K4904,WIP0803105APAKLJ4,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:16:38Z,K49,PROVISION-K4904,WIP0803105APAKMDG,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:19:44Z,K49,PROVISION-K4907,WIP0803105APAKLT6,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:19:29Z,K49,PROVISION-K4907,WIP0801105APAKCEL,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:59:14Z,K49,PROVISION-K4908,WIP0801105APAKD4K,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:22:28Z,K49,PROVISION-K4907,WIP0803105APAKM2W,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:23:23Z,K49,PROVISION-K4908,WIP0803105APAKM3D,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:24:20Z,k49,PROVISION-k4902,WIP0803105APAKM2P,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:23:31Z,K49,PROVISION-K4906,WIP0803105APAKLT8,"wifi_check
+","wifi_check  Timeout
+",0,1,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T12:25:05Z,L29,PROVISION-L2907,WIP0803105APAKM4W,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_anim
+sku_fsi
+sku_fdv
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  FAIL
+led_cal  None
+check_mode  None
+sku_otp  None
+set_anim  None
+sku_fsi  None
+sku_fdv  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:29:27Z,K49,PROVISION-K4904,WIP0803105APAKLYU,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:31:36Z,K49,PROVISION-K4908,WIP0803105APAKLFR,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:31:53Z,K49,PROVISION-K4903,WIP0803105APAKLK2,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:48:37Z,K49,PROVISION-K4908,WIP0801105APAKDDH,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:28:20Z,K49,PROVISION-K4904,WIP0803105APAKLY2,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:38:20Z,K49,PROVISION-K4904,WIP0801105APAKDET,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T10:50:09Z,K49,PROVISION-K4907,WIP0803105APALACY,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:36:20Z,K49,PROVISION-K4908,WIP0804105APALX6K,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T09:10:07Z,L39,PROVISION-L3905,WIP0803105APAL4F1,"flash_fsi
+","flash_fsi  FAIL
+",0,0,1,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T12:27:45Z,L29,PROVISION-L2904,WIP0803105APAKM4A,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:39:48Z,K49,PROVISION-K4906,WIP0803105APAL25L,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:09:01Z,L29,PROVISION-L2903,WIP0801105APAKAWL,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:34:03Z,L29,PROVISION-L2903,WIP0801105APAKA5R,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:41:44Z,K49,PROVISION-K4906,WIP0803105APAL295,"sku_speaker
+sku_id
+check_led_file
+check_sounds_file
+sku_otp
+set_anim
+sku_mlbsn
+store_wifi_txpower
+boot_mode
+mlbsn
+push_hwtxt
+led_cal
+fct_version
+sku_color
+sku_lang
+sku_country
+sku_build
+sku_fdv
+check_mode
+sku_fsi
+check_mlbsn
+check_fct
+get_mlbsn
+get_sku
+set_locale
+sku_spk_pn
+set_color
+","sku_speaker  None
+sku_id  None
+check_led_file  None
+check_sounds_file  None
+sku_otp  None
+set_anim  None
+sku_mlbsn  None
+store_wifi_txpower  None
+boot_mode  None
+mlbsn  None
+push_hwtxt  None
+led_cal  None
+fct_version  None
+sku_color  None
+sku_lang  None
+sku_country  None
+sku_build  None
+sku_fdv  None
+check_mode  None
+sku_fsi  None
+check_mlbsn  None
+check_fct  None
+get_mlbsn  FAIL
+get_sku  None
+set_locale  None
+sku_spk_pn  None
+set_color  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T12:44:37Z,L29,PROVISION-L2907,WIP0803105APAKP6B,"data_secure
+data_verify
+","data_secure  FAIL
+data_verify  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T12:45:13Z,L29,PROVISION-L2906,WIP0803105APAKP81,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T12:51:19Z,L29,PROVISION-L2907,WIP0803105APAKLP4,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:58:38Z,K49,PROVISION-K4901,WIP0804105APALVT0,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:03:01Z,K49,PROVISION-K4906,WIP0804105APALVD7,"OTP
+BSSID_MAC
+BTMAC
+cat_macaddr
+WLMAC
+","OTP  FAIL
+BSSID_MAC  None
+BTMAC  None
+cat_macaddr  None
+WLMAC  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T11:08:35Z,L29,PROVISION-L2901,WIP0801105APAKAWY,"QRCODE
+data_secure
+get_qrcode
+isQRCODE
+data_verify
+","QRCODE  None
+data_secure  None
+get_qrcode  FAIL
+isQRCODE  None
+data_verify  None
+",0,0,1,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T12:29:22Z,L29,PROVISION-L2905,WIP0803105APAKM0N,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T13:09:40Z,L29,PROVISION-L2902,WIP0803105APAKP4J,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T13:09:40Z,L29,PROVISION-L2902,WIP0803105APAL51W,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T13:09:40Z,L29,PROVISION-L2902,WIP0803105APAKP4P,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:12:20Z,k49,PROVISION-k4902,WIP0804105APALXA2,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:18:51Z,k49,PROVISION-k4902,WIP0804105APALN6F,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",0,1,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:23:39Z,K49,PROVISION-K4906,WIP0804105APALNEG,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:30:36Z,K49,PROVISION-K4903,WIP0804105APALNN7,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T13:31:36Z,L29,PROVISION-L2908,WIP0804105APALND4,"check_led_file
+push_hwtxt
+check_sounds_file
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+led_cal
+set_color
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+check_sounds_file  None
+check_mode  None
+sku_otp  None
+set_locale  None
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+led_cal  None
+set_color  FAIL
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:27:21Z,K49,PROVISION-K4909,WIP0804105APALNEF,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:14:18Z,K49,PROVISION-K4901,WIP0804105APALVBX,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T12:40:31Z,K49,PROVISION-K4909,WIP0804105APALV9J,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:14:18Z,K49,PROVISION-K4901,WIP0804105APALVD1,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T13:29:38Z,L29,PROVISION-L2902,WIP0804105APALND9,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",0,1,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:37:36Z,K49,PROVISION-K4908,WIP0804105APALNWU,"flash_fsi
+","flash_fsi  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T13:37:36Z,L29,PROVISION-L2903,WIP0804105APALNTU,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:44:09Z,K49,PROVISION-K4907,WIP0804105APALN8L,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T13:14:21Z,L29,PROVISION-L2902,WIP0803105APAKP47,"wifi_check
+","wifi_check  Timeout
+",0,1,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T08:31:29Z,L29,PROVISION-L2903,WIP0803105APALFEW,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:51:02Z,K49,PROVISION-K4906,WIP0804105APALP3G,"data_secure
+data_verify
+","data_secure  FAIL
+data_verify  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:52:00Z,K49,PROVISION-K4907,WIP0804105APALNGG,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:52:52Z,K49,PROVISION-K4901,WIP0804105APALNGK,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:51:36Z,K49,PROVISION-K4909,WIP0804105APALNYB,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:52:05Z,K49,PROVISION-K4909,WIP0804105APALNHD,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T13:55:43Z,L29,PROVISION-L2908,WIP0804105APALNAA,"data_secure
+data_verify
+","data_secure  FAIL
+data_verify  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T14:01:27Z,K49,PROVISION-K4904,WIP0804105APALX6C,"file_gatekeeper_test_chamber_cal
+","file_gatekeeper_test_chamber_cal  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T14:02:41Z,L29,PROVISION-L2901,WIP0803105APAKTK4,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T14:07:03Z,K49,PROVISION-K4907,WIP0803105APAKT8F,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",0,1,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T14:15:01Z,K49,PROVISION-K4907,WIP0803105APAKU2D,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T14:17:35Z,L29,PROVISION-L2908,WIP0803105APAKUCY,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T14:17:20Z,L39,PROVISION-L3908,WIP0803105APAL2BF,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T14:18:38Z,L29,PROVISION-L2902,WIP0803105APAKUE7,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T14:23:29Z,k49,PROVISION-k4902,WIP0803105APAKUEM,"QRCODE
+data_secure
+get_qrcode
+isQRCODE
+data_verify
+","QRCODE  None
+data_secure  None
+get_qrcode  FAIL
+isQRCODE  None
+data_verify  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T14:23:34Z,L29,PROVISION-L2908,WIP0803105APAKTE9,"OTP
+BSSID_MAC
+BTMAC
+cat_macaddr
+WLMAC
+","OTP  FAIL
+BSSID_MAC  None
+BTMAC  None
+cat_macaddr  None
+WLMAC  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T14:25:12Z,k49,PROVISION-k4902,WIP0803105APAKTVB,"flash_fsi
+push_fsi
+check_fsi
+check_sku
+","flash_fsi  None
+push_fsi  FAIL
+check_fsi  None
+check_sku  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T14:21:18Z,L29,PROVISION-L2903,WIP0803105APAKTD8,"flash_fsi
+","flash_fsi  FAIL
+",0,0,1,0,0,
+2020-08-05,D,GA00781-IN,2020-08-05T14:28:09Z,L29,PROVISION-L2908,WIP0803105APAKTRH,"OTP
+BSSID_MAC
+BTMAC
+cat_macaddr
+WLMAC
+","OTP  FAIL
+BSSID_MAC  None
+BTMAC  None
+cat_macaddr  None
+WLMAC  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T14:34:32Z,K49,PROVISION-K4903,WIP0803105APAKTX3,"check_led_file
+push_hwtxt
+led_cal
+check_mode
+sku_otp
+set_locale
+set_anim
+sku_fdv
+sku_fsi
+check_sounds_file
+store_wifi_txpower
+boot_mode
+","check_led_file  None
+push_hwtxt  None
+led_cal  None
+check_mode  None
+sku_otp  None
+set_locale  FAIL
+set_anim  None
+sku_fdv  None
+sku_fsi  None
+check_sounds_file  None
+store_wifi_txpower  None
+boot_mode  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-ES,2020-08-05T14:39:08Z,L39,PROVISION-L3908,WIP0804105APALV6H,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T14:39:16Z,K49,PROVISION-K4901,WIP0803105APAKTMN,"sku_speaker
+sku_id
+check_led_file
+check_sounds_file
+sku_otp
+set_anim
+sku_mlbsn
+store_wifi_txpower
+boot_mode
+mlbsn
+push_hwtxt
+led_cal
+fct_version
+sku_color
+sku_lang
+sku_country
+sku_build
+sku_fdv
+check_mode
+sku_fsi
+check_mlbsn
+check_fct
+get_mlbsn
+get_sku
+set_locale
+sku_spk_pn
+set_color
+","sku_speaker  None
+sku_id  None
+check_led_file  None
+check_sounds_file  None
+sku_otp  None
+set_anim  None
+sku_mlbsn  None
+store_wifi_txpower  None
+boot_mode  None
+mlbsn  None
+push_hwtxt  None
+led_cal  None
+fct_version  None
+sku_color  None
+sku_lang  None
+sku_country  None
+sku_build  None
+sku_fdv  None
+check_mode  None
+sku_fsi  None
+check_mlbsn  None
+check_fct  None
+get_mlbsn  FAIL
+get_sku  None
+set_locale  None
+sku_spk_pn  None
+set_color  None
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:52:11Z,K49,PROVISION-K4904,WIP0804105APALNNF,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T14:22:55Z,K49,PROVISION-K4905,WIP0803105APAKUDM,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:54:11Z,K49,PROVISION-K4909,WIP0804105APALNPC,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T14:48:24Z,K49,PROVISION-K4904,WIP0804105APAM513,"wifi_check
+","wifi_check  Timeout
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T14:49:46Z,K49,PROVISION-K4906,WIP0804105APAM6WJ,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:58:11Z,K49,PROVISION-K4905,WIP0804105APAM7DK,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,
+2020-08-05,D,GA00781-GB,2020-08-05T13:01:39Z,K49,PROVISION-K4908,WIP0804105APALVL6,"flash_fsi
+","flash_fsi  FAIL
+",1,0,0,0,0,

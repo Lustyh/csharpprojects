@@ -1,0 +1,33 @@
+Tata,D/N,Config,Test time,Line,Fixture,SN,Failure Mode,Failure Description,Retest,NTF,Fail,SOF
+2019-10-28,D,SCOR1,2019-10-28T09:06:05Z,P3-C29,NHE_P3-C29_FATP-RF-OTA-01_04,WIP9A25105DD00258,"current_after_tx_status
+current_after_rx_status
+current_base_line_status
+","current_after_tx_status  Open_connection_on_port__COM8__error__could_not_open_port__COM8___WindowsError(2___\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3_)
+current_after_rx_status  Open_connection_on_port__COM8__error__could_not_open_port__COM8___WindowsError(2___\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3_)
+current_base_line_status  Open_connection_on_port__COM8__error__could_not_open_port__COM8___WindowsError(2___\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3_)
+",1,0,0,0
+2019-10-28,D,P2-SDOE5,2019-10-28T09:34:31Z,P3-C29,NHE_P3-C29_FATP-RF-OTA-01_05,WIP9A24105DD0021K,"WIFI_N_BW20_MCS7_CH36_C0_P14.0_max_txp_avg
+WIFI_N_BW40_MCS0_CH38_C0_P15.0_max_txp_avg
+WIFI_AC_BW80_MCS9_CH42_C0_P9.0_max_txp_avg
+WIFI_AG_BW20_OFDM-6_CH36_C0_P16.0_max_txp_avg
+WIFI_AC_BW40_MCS9_CH38_C0_P9.0_max_txp_avg
+WIFI_N_BW20_MCS0_CH36_C0_P16.0_max_txp_avg
+","WIFI_N_BW20_MCS7_CH36_C0_P14.0_max_txp_avg  6.99
+WIFI_N_BW40_MCS0_CH38_C0_P15.0_max_txp_avg  8.57
+WIFI_AC_BW80_MCS9_CH42_C0_P9.0_max_txp_avg  3.31
+WIFI_AG_BW20_OFDM-6_CH36_C0_P16.0_max_txp_avg  9.36
+WIFI_AC_BW40_MCS9_CH38_C0_P9.0_max_txp_avg  2.79
+WIFI_N_BW20_MCS0_CH36_C0_P16.0_max_txp_avg  9.45
+",0,0,1,0
+2019-10-28,D,SP2M2-RCP2,2019-10-28T13:02:45Z,P3-C29,NHE_P3-C29_FATP-RF-OTA-01_03,WIP9A23105DD001P1,"WIFI_N_BW20_MCS7_CH36_C0_P14.0_max_txp_avg
+WIFI_N_BW40_MCS0_CH38_C0_P15.0_max_txp_avg
+WIFI_B_BW20_CCK-11_CH7_C0_P-82.0_sense_per
+WIFI_AC_BW40_MCS9_CH38_C0_P9.0_max_txp_avg
+","WIFI_N_BW20_MCS7_CH36_C0_P14.0_max_txp_avg  9.58
+WIFI_N_BW40_MCS0_CH38_C0_P15.0_max_txp_avg  10.86
+WIFI_B_BW20_CCK-11_CH7_C0_P-82.0_sense_per  20.6
+WIFI_AC_BW40_MCS9_CH38_C0_P9.0_max_txp_avg  4.97
+",1,0,0,0
+2019-10-28,D,SP2M2-RCP2,2019-10-28T13:06:20Z,P3-C29,NHE_P3-C29_FATP-RF-OTA-01_03,WIP9A23105DD001NH,"WIFI_N_BW20_MCS7_CH36_C0_P14.0_max_txp_avg
+","WIFI_N_BW20_MCS7_CH36_C0_P14.0_max_txp_avg  9.99
+",1,0,0,0

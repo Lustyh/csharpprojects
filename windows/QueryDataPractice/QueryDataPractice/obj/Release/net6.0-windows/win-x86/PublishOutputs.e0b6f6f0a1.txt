@@ -1,0 +1,3 @@
+C:\Users\A907A919\Desktop\QueryDataPractice.pdb
+C:\Users\A907A919\Desktop\System.Data.SqlClient.xml
+C:\Users\A907A919\Desktop\QueryDataPractice.exe

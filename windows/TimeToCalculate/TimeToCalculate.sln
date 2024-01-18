@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeToCalculate", "TimeToCalculate\TimeToCalculate.csproj", "{4122983F-0AB7-456C-8AD8-2A2DE7147858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4122983F-0AB7-456C-8AD8-2A2DE7147858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4122983F-0AB7-456C-8AD8-2A2DE7147858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4122983F-0AB7-456C-8AD8-2A2DE7147858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4122983F-0AB7-456C-8AD8-2A2DE7147858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04AD5D45-DE96-471F-B625-5F82A65CDAFB}
+	EndGlobalSection
+EndGlobal

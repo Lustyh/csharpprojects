@@ -1,0 +1,119 @@
+Station,Tata,D/N,Config,Test time,Line,Fixture,SN,Failure Mode,Failure Description,Retest,NTF,Fail,SCOF
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+FFT-2,2023-06-15,D,N-CLVRKDS14UIA,2023-06-15T15:11:09Z,S36,UIA_F6-S36_FFT-2_01,WIP3613MUIAX000PW,"Type-A
+","Type-A  
+",1,0,0,0,0,2023-06-15,D,N-CLVRKDS14UIA,2023-06-15T15:35:21Z,S36,UIA_F6-S36_FFT-2_01,WIP3613MUIAX000Q0,"Press Enter for start the test
+","Press Enter for start the test  
+",1,0,0,0,0,2023-06-16,D,N-CLVRKDS14UIA,2023-06-16T12:56:29Z,S36,UIA_F6-S36_FFT-2_01,WIP3613MUIAX000XN,"Type-A
+","Type-A  
+",0,0,1,0,0,2023-06-17,D,N-CLVRKDS14UIA,2023-06-17T08:29:35Z,S36,UIA_F6-S36_FFT-2_01,WIP3614MUIAX00122,"Type-A
+","Type-A  
+",1,0,0,0,0,2023-06-17,D,N-CLVRKDS14UIA,2023-06-17T12:06:49Z,S36,UIA_F6-S36_FFT-2_01,WIP3614MUIAX0014G,"Type-A
+","Type-A  
+",1,0,0,0,0,2023-06-17,D,N-CLVRKDS14UIA,2023-06-17T13:15:10Z,S36,UIA_F6-S36_FFT-2_01,WIP3614MUIAX00142,"Type-A
+","Type-A  
+",1,0,0,0,0,2023-06-17,D,N-CLVRKDS14UIA,2023-06-17T13:22:37Z,S36,UIA_F6-S36_FFT-2_01,WIP3615MUIAX0016R,"lcd_brightness_check
+","lcd_brightness_check  
+",1,0,0,0,0,2023-06-19,D,N-CLVRKDS14UIA,2023-06-19T08:12:38Z,S36,UIA_F6-S36_FFT-2_01,WIP3615MUIAX001A0,"Type-A
+","Type-A  
+",1,0,0,0,0,2023-06-19,D,N-CLVRKDS14UIA,2023-06-19T09:02:22Z,S36,UIA_F6-S36_FFT-2_01,WIP3615MUIAX001AE,"lcd_display_check
+","lcd_display_check  
+",1,0,0,0,0,2023-06-19,D,N-CLVRKDS14UIA,2023-06-19T10:59:35Z,S36,UIA_F6-S36_FFT-2_01,WIP3612MUIAX000FQ,"ask_question_to_op
+","ask_question_to_op  
+",1,0,0,0,0,2023-06-19,D,N-CLVRKDS14UIA,2023-06-19T13:10:56Z,S36,UIA_F6-S36_FFT-2_01,WIP3615MUIAX001DC,"Type-A
+","Type-A  
+",1,0,0,0,0,2023-06-19,D,N-CLVRKDS14UIA,2023-06-19T16:28:45Z,S36,UIA_F6-S36_FFT-2_01,WIP3615MUIAX001B1,"Type-A
+","Type-A  
+",1,0,0,0,0,,
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+FFT-5,2023-06-17,D,N-CLVRKDS14UIA,2023-06-17T10:58:40Z,S36,UIA_F6-S36_FFT-5_01,WIP3614MUIAX0013X,"check_multi_pentest_log
+","check_multi_pentest_log  
+",0,0,1,0,0,2023-06-17,D,N-CLVRKDS14UIA,2023-06-17T12:29:51Z,S36,UIA_F6-S36_FFT-5_01,WIP3614MUIAX0014W,"start_multi_pentest
+","start_multi_pentest  
+",0,0,1,0,0,2023-06-17,D,N-CLVRKDS14UIA,2023-06-17T13:25:37Z,S36,UIA_F6-S36_FFT-5_01,WIP3615MUIAX0016X,"powerButton_test
+","powerButton_test  
+",1,0,0,0,0,2023-06-17,D,N-CLVRKDS14UIA,2023-06-17T10:58:40Z,S36,UIA_F6-S36_FFT-5_01,WIP3614MUIAX0013X,"check_multi_pentest_log
+","check_multi_pentest_log  
+",1,0,0,0,0,2023-06-19,D,N-CLVRKDS14UIA,2023-06-19T15:21:08Z,S36,UIA_F6-S36_FFT-5_01,WIP3616MUIAX001F5,"powerButton_test
+","powerButton_test  
+",1,0,0,0,0,,
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+FFT,2023-06-15,D,N-CLVRKDS14UIA,2023-06-15T12:33:57Z,S36,UIA_F6-S36_FFT_01,WIP3613MUIAX000MH,"UARTdebugport
+","UARTdebugport  
+",1,0,0,0,0,2023-06-15,D,N-CLVRKDS14UIA,2023-06-15T15:28:08Z,S36,UIA_F6-S36_FFT_02,WIP3613MUIAX000NL,"uart_rx_test
+","uart_rx_test  
+",1,0,0,0,0,2023-06-15,D,N-CLVRKDS14UIA,2023-06-15T15:49:16Z,S36,UIA_F6-S36_FFT_01,WIP3613MUIAX000QG,"UARTdebugport
+","UARTdebugport  
+",1,0,0,0,0,2023-06-16,D,N-CLVRKDS14UIA,2023-06-16T09:28:41Z,S36,UIA_F6-S36_FFT_02,WIP3613MUIAX000M1,"BatteryCapacity
+","BatteryCapacity  43
+",1,0,0,0,0,2023-06-16,D,N-CLVRKDS14UIA,2023-06-16T10:32:04Z,S36,UIA_F6-S36_FFT_01,WIP3613MUIAX000W3,"Please listen the sound
+","Please listen the sound  
+",1,0,0,0,0,2023-06-16,D,N-CLVRKDS14UIA,2023-06-16T11:02:56Z,S36,UIA_F6-S36_FFT_01,WIP3613MUIAX000TG,"BatteryCapacity
+","BatteryCapacity  24
+",1,0,0,0,0,2023-06-16,D,N-CLVRKDS14UIA,2023-06-16T11:14:34Z,S36,UIA_F6-S36_FFT_01,WIP3613MUIAX000WG,"Please listen the sound
+","Please listen the sound  
+",1,0,0,0,0,2023-06-16,D,N-CLVRKDS14UIA,2023-06-16T14:40:30Z,S36,UIA_F6-S36_FFT_01,WIP3613MUIAX000XK,"BatteryCapacity
+","BatteryCapacity  58
+",1,0,0,0,0,2023-06-17,D,N-CLVRKDS14UIA,2023-06-17T12:32:42Z,S36,UIA_F6-S36_FFT_01,WIP3614MUIAX0014S,"uart_rx_test
+","uart_rx_test  
+",1,0,0,0,0,2023-06-17,D,N-CLVRKDS14UIA,2023-06-17T13:28:57Z,S36,UIA_F6-S36_FFT_01,WIP3615MUIAX00174,"uart_rx_test
+","uart_rx_test  
+",1,0,0,0,0,2023-06-19,D,N-CLVRKDS14UIA,2023-06-19T10:22:52Z,S36,UIA_F6-S36_FFT_01,WIP3615MUIAX001BX,"uart_rx_test
+","uart_rx_test  
+",1,0,0,0,0,2023-06-20,D,N-CLVRKDS14UIA,2023-06-20T09:01:06Z,S36,UIA_F6-S36_FFT_01,WIP3616MUIAX001LF,"Sperker_test_check
+","Sperker_test_check  
+",1,0,0,0,0,2023-06-20,D,N-CLVRKDS14UIA,2023-06-20T12:58:36Z,S36,UIA_F6-S36_FFT_01,WIP3616MUIAX001KM,"BatteryCapacity
+","BatteryCapacity  23
+",0,0,1,0,0,,
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+FWT,2023-06-15,D,N-CLVRKDS14UIA,2023-06-15T11:26:55Z,S36,UIA_F6-S36_FWT_01,WIP3613MUIAX000M1,"WiFi_BT_test
+","WiFi_BT_test  
+",0,0,1,0,0,2023-06-15,D,N-CLVRKDS14UIA,2023-06-15T20:09:09Z,S36,UIA_F6-S36_FWT_01,WIP3613MUIAX000TG,"WiFi_BT_test
+","WiFi_BT_test  
+",0,0,1,0,0,2023-06-15,D,N-CLVRKDS14UIA,2023-06-15T20:20:20Z,S36,UIA_F6-S36_FWT_01,WIP3613MUIAX000SF,"WiFi_BT_test
+","WiFi_BT_test  
+",0,0,1,0,0,2023-06-15,D,N-CLVRKDS14UIA,2023-06-15T20:32:47Z,S36,UIA_F6-S36_FWT_01,WIP3613MUIAX000S4,"WiFi_BT_test
+","WiFi_BT_test  
+",0,0,1,0,0,2023-06-16,D,N-CLVRKDS14UIA,2023-06-16T13:12:14Z,S36,UIA_F6-S36_FWT_01,WIP3613MUIAX000XK,"WiFi_BT_test
+","WiFi_BT_test  
+",0,0,1,0,0,2023-06-16,D,N-CLVRKDS14UIA,2023-06-16T17:41:52Z,S36,UIA_F6-S36_FWT_01,WIP3614MUIAX0016P,"WiFi_BT_test
+","WiFi_BT_test  
+",0,0,1,0,0,2023-06-19,D,N-CLVRKDS14UIA,2023-06-19T11:27:06Z,S36,UIA_F6-S36_FWT_01,WIP3615MUIAX001B1,"WiFi_BT_test
+","WiFi_BT_test  
+",0,0,1,0,0,,
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********
+*********,************,************,********

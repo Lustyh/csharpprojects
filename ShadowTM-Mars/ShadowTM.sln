@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowTM", "ShadowTM\ShadowTM.csproj", "{AD09E630-1FF2-44A3-8212-0115AF68EBBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginCmd", "PluginCmd\PluginCmd.csproj", "{2A282921-D222-4F05-ACB3-40EAB228019D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowTM-Sa", "ShadowTM-Sa\ShadowTM-Sa.csproj", "{7CD28C62-2FC9-42A3-8825-E4AD4BA6CBE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD09E630-1FF2-44A3-8212-0115AF68EBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD09E630-1FF2-44A3-8212-0115AF68EBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD09E630-1FF2-44A3-8212-0115AF68EBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD09E630-1FF2-44A3-8212-0115AF68EBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A282921-D222-4F05-ACB3-40EAB228019D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A282921-D222-4F05-ACB3-40EAB228019D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A282921-D222-4F05-ACB3-40EAB228019D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A282921-D222-4F05-ACB3-40EAB228019D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD28C62-2FC9-42A3-8825-E4AD4BA6CBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD28C62-2FC9-42A3-8825-E4AD4BA6CBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD28C62-2FC9-42A3-8825-E4AD4BA6CBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD28C62-2FC9-42A3-8825-E4AD4BA6CBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

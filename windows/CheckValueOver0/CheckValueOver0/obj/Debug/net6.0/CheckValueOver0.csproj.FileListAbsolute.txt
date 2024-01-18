@@ -1,0 +1,15 @@
+E:\C#\windows\CheckValueOver0\CheckValueOver0\bin\Debug\net6.0\CheckValueOver0.exe
+E:\C#\windows\CheckValueOver0\CheckValueOver0\bin\Debug\net6.0\CheckValueOver0.deps.json
+E:\C#\windows\CheckValueOver0\CheckValueOver0\bin\Debug\net6.0\CheckValueOver0.runtimeconfig.json
+E:\C#\windows\CheckValueOver0\CheckValueOver0\bin\Debug\net6.0\CheckValueOver0.dll
+E:\C#\windows\CheckValueOver0\CheckValueOver0\bin\Debug\net6.0\ref\CheckValueOver0.dll
+E:\C#\windows\CheckValueOver0\CheckValueOver0\bin\Debug\net6.0\CheckValueOver0.pdb
+E:\C#\windows\CheckValueOver0\CheckValueOver0\obj\Debug\net6.0\CheckValueOver0.csproj.AssemblyReference.cache
+E:\C#\windows\CheckValueOver0\CheckValueOver0\obj\Debug\net6.0\CheckValueOver0.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\CheckValueOver0\CheckValueOver0\obj\Debug\net6.0\CheckValueOver0.AssemblyInfoInputs.cache
+E:\C#\windows\CheckValueOver0\CheckValueOver0\obj\Debug\net6.0\CheckValueOver0.AssemblyInfo.cs
+E:\C#\windows\CheckValueOver0\CheckValueOver0\obj\Debug\net6.0\CheckValueOver0.csproj.CoreCompileInputs.cache
+E:\C#\windows\CheckValueOver0\CheckValueOver0\obj\Debug\net6.0\CheckValueOver0.dll
+E:\C#\windows\CheckValueOver0\CheckValueOver0\obj\Debug\net6.0\ref\CheckValueOver0.dll
+E:\C#\windows\CheckValueOver0\CheckValueOver0\obj\Debug\net6.0\CheckValueOver0.pdb
+E:\C#\windows\CheckValueOver0\CheckValueOver0\obj\Debug\net6.0\CheckValueOver0.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+[Start Server][18:42:16:180]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][18:43:02:100]:IP=10.18.196.37:63127 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "test_mode": "PRODUCTION", "test_profile": "Production", "slot_num_by_group": [1]}^
+[Split][18:43:02:125]:{"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "test_mode": "PRODUCTION", "test_profile": "Production", "slot_num_by_group": [1]}^
+[TCP send][18:43:04:120]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "test_mode": "PRODUCTION", "test_profile": "Production", "slot_num_by_group": [ 1]}^
+[TCP send][18:43:05:172]:IP=10.18.196.37:63127 {"message_id": "station_verify_result","station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "result": "OK"}^
+[TCP recv][18:43:05:418]:IP=10.18.196.37:63127 {"message_id": "ack", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "result": "OK", "ack_id": "station_verify_result"}^
+[Split][18:43:05:426]:{"message_id": "ack", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][18:43:05:528]:IP=10.18.196.37:63127 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0}^
+[Split][18:43:05:543]:{"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0}^
+[TCP send][18:43:05:556]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0}^
+[Start Server][18:43:55:938]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][18:44:10:760]:IP=10.18.196.37:63184 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "test_mode": "PRODUCTION", "test_profile": "Production", "slot_num_by_group": [1]}^
+[Split][18:44:10:784]:{"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "test_mode": "PRODUCTION", "test_profile": "Production", "slot_num_by_group": [1]}^
+[TCP send][18:44:10:807]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "test_mode": "PRODUCTION", "test_profile": "Production", "slot_num_by_group": [ 1]}^
+[TCP send][18:44:11:355]:IP=10.18.196.37:63184 {"message_id": "station_verify_result","station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "result": "OK"}^
+[TCP recv][18:44:11:586]:IP=10.18.196.37:63184 {"message_id": "ack", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "result": "OK", "ack_id": "station_verify_result"}^
+[Split][18:44:11:596]:{"message_id": "ack", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][18:44:25:202]:IP=10.18.196.37:63228 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "test_mode": "PRODUCTION", "test_profile": "Production", "slot_num_by_group": [1]}^
+[Split][18:44:25:212]:{"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "test_mode": "PRODUCTION", "test_profile": "Production", "slot_num_by_group": [1]}^
+[TCP send][18:44:25:216]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "test_mode": "PRODUCTION", "test_profile": "Production", "slot_num_by_group": [ 1]}^
+[TCP send][18:44:25:623]:IP=10.18.196.37:63228 {"message_id": "station_verify_result","station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "result": "OK"}^
+[TCP recv][18:44:25:824]:IP=10.18.196.37:63228 {"message_id": "ack", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "result": "OK", "ack_id": "station_verify_result"}^
+[Split][18:44:25:839]:{"message_id": "ack", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][18:44:33:571]:IP=10.18.196.37:63228 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0}^
+[Split][18:44:33:578]:{"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0}^
+[TCP send][18:44:33:583]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0}^
+[TCP recv][18:45:19:150]:IP=10.18.196.37:63269 TYPE=START;SN=WIP05291HFAK004DC;FIX=01
+[TCP send][18:45:48:060]:IP=10.18.196.37 {"message_id": "test_start","station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0, "dut_id": [""]}^
+[TCP send][18:45:48:161]:IP=10.18.196.37:63269 PASS
+[TCP recv][18:45:48:333]:IP=10.18.196.37:63228 {"message_id": "ack", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0, "dut_id": [""], "ack_id": "test_start"}^
+[Split][18:45:48:344]:{"message_id": "ack", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0, "dut_id": [""], "ack_id": "test_start"}^
+[TCP recv][18:47:44:055]:IP=10.18.196.37:63228 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP2523105H400CXF", "result": "PASS", "extra_info": ""}^
+[Split][18:47:44:063]:{"message_id": "test_complete", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP2523105H400CXF", "result": "PASS", "extra_info": ""}^
+[TCP send][18:47:44:066]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP2523105H400CXF", "result": "PASS", "extra_info": ""}^
+[TCP recv][18:47:44:384]:IP=10.18.196.37:63228 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0}^
+[Split][18:47:44:394]:{"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0}^
+[TCP send][18:47:44:398]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K39_FATP-RF-WIFIBT-02_01", "group_id": 0}^
+[ERE][18:56:00:390]:line 301 远程主机强迫关闭了一个现有的连接。

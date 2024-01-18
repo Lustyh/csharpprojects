@@ -1,0 +1,862 @@
+Tata,D/N,Config,Test time,Line,Fixture,SN,Failure Mode,Failure Description,Retest,NTF,Fail,SOF,OFFLINE
+
+
+2020-07-20,D,GA01919-US,2020-07-20T08:18:08Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07171HFDE01H7B,"Arc Test
+","Arc Test  FAIL
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:02:10Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07171HFDE01H6R,"CEC Test
+HDMI +5V Power
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","CEC Test  FAIL
+HDMI +5V Power  
+PCLK locked  
+HDCP State  
+TMDS Char Clk  0
+Video Code  
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:03:32Z,F4-B64,NHE_F4-B64_FATP-HDMI_04,WIP07171HFDE01H7L,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07E0081B_device_1HF65003928060B07E0098B_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:06:46Z,F4-B54,NHE_F4-B54_FATP-HDMI_02,WIP07161HFDE01BT9,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07F00050_device_1HF65003928060B07F00051_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:06:36Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07171HFDE01HPC,"CEC Test
+HDMI +5V Power
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","CEC Test  FAIL
+HDMI +5V Power  
+PCLK locked  
+HDCP State  
+TMDS Char Clk  0
+Video Code  
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",0,0,1,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:03:52Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07171HFDE01H7E,"CEC Test
+HDMI +5V Power
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","CEC Test  FAIL
+HDMI +5V Power  
+PCLK locked  
+HDCP State  
+TMDS Char Clk  0
+Video Code  
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",0,1,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:24:32Z,F4-B64,NHE_F4-B64_FATP-HDMI_04,WIP07171HFDE01H6M,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07E00908_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:19:32Z,F4-B64,NHE_F4-B64_FATP-HDMI_04,WIP07171HFDE01H6U,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07E009C6_device_1HF65003928060B07E00EA1_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:12:23Z,F4-B44,NHE_F4-B44_FATP-HDMI_02,WIP07161HFDE01BT2,"Arc Test
+PCLK locked
+HDCP State
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",0,1,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:13:39Z,F4-B44,NHE_F4-B44_FATP-HDMI_02,WIP07161HFDE01BT4,"Arc Test
+","Arc Test  FAIL
+",0,1,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:54:23Z,F4-B54,NHE_F4-B54_FATP-HDMI_02,WIP07171HFDE01JD1,"White LED Test_R
+White LED Test_G
+White LED Test_B
+read white LED brightness
+","White LED Test_R  1.0
+White LED Test_G  3.0
+White LED Test_B  0.0
+read white LED brightness  2.06
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:45:58Z,F4-B64,NHE_F4-B64_FATP-HDMI_03,WIP07171HFDE01H4Y,"Button press
+","Button press  FAIL
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:54:13Z,F4-B54,NHE_F4-B54_FATP-HDMI_02,WIP07171HFDE01JD2,"Amber LED Test_R
+Amber LED Test_G
+Amber LED Test_B
+read Amber LED brightness
+","Amber LED Test_R  0
+Amber LED Test_G  0
+Amber LED Test_B  0
+read Amber LED brightness  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:02:00Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07171HFDE01JDX,"Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Video Code  OK__No_AVI_InfoFrame_
+AVI InfoFrame  
+H Total Pixels  3300.0
+H Active Pixels  2880.0
+V Total Lines  1601.0
+V Active Lines  1511.0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:04:33Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07171HFDE01JE3,"White Lum.Ampl Chr.Ampl_Lum.Ampl
+Yellow Lum.Ampl Chr.Ampl_Lum.Ampl
+Yellow Lum.Ampl Chr.Ampl_Chr.Ampl
+Yellow Lum.Ampl Chr.Ampl_Chr.Phase
+Cyan Lum.Ampl Chr.Ampl_Lum.Ampl
+Cyan Lum.Ampl Chr.Ampl_Chr.Ampl
+Cyan Lum.Ampl Chr.Ampl_Chr.Phase
+Green Lum.Ampl Chr.Ampl_Lum.Ampl
+Green Lum.Ampl Chr.Ampl_Chr.Ampl
+Green Lum.Ampl Chr.Ampl_Chr.Phase
+Magenta Lum.Ampl Chr.Ampl_Lum.Ampl
+Magenta Lum.Ampl Chr.Ampl_Chr.Ampl
+Magenta Lum.Ampl Chr.Ampl_Chr.Phase
+Red Lum.Ampl Chr.Ampl_Lum.Ampl
+Red Lum.Ampl Chr.Ampl_Chr.Ampl
+Red Lum.Ampl Chr.Ampl_Chr.Phase
+Blue Lum.Ampl Chr.Ampl_Lum.Ampl
+Blue Lum.Ampl Chr.Ampl_Chr.Ampl
+Blue Lum.Ampl Chr.Ampl_Chr.Phase
+","White Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Yellow Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Yellow Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Yellow Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+Cyan Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Cyan Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Cyan Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+Green Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Green Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Green Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+Magenta Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Magenta Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Magenta Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+Red Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Red Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Red Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+Blue Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Blue Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Blue Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:04:00Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07171HFDE01JDT,"Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Video Code  OK__No_AVI_InfoFrame_
+AVI InfoFrame  
+H Total Pixels  3300.0
+H Active Pixels  2880.0
+V Total Lines  1700.0
+V Active Lines  1610.0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:01:19Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07171HFDE01H7H,"CEC Test
+HDMI +5V Power
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","CEC Test  FAIL
+HDMI +5V Power  
+PCLK locked  
+HDCP State  
+TMDS Char Clk  0
+Video Code  
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:06:13Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07171HFDE01JBV,"White Lum.Ampl Chr.Ampl_Lum.Ampl
+Yellow Lum.Ampl Chr.Ampl_Lum.Ampl
+Yellow Lum.Ampl Chr.Ampl_Chr.Ampl
+Yellow Lum.Ampl Chr.Ampl_Chr.Phase
+Cyan Lum.Ampl Chr.Ampl_Lum.Ampl
+Cyan Lum.Ampl Chr.Ampl_Chr.Ampl
+Cyan Lum.Ampl Chr.Ampl_Chr.Phase
+Green Lum.Ampl Chr.Ampl_Lum.Ampl
+Green Lum.Ampl Chr.Ampl_Chr.Ampl
+Green Lum.Ampl Chr.Ampl_Chr.Phase
+Magenta Lum.Ampl Chr.Ampl_Lum.Ampl
+Magenta Lum.Ampl Chr.Ampl_Chr.Ampl
+Magenta Lum.Ampl Chr.Ampl_Chr.Phase
+Red Lum.Ampl Chr.Ampl_Lum.Ampl
+Red Lum.Ampl Chr.Ampl_Chr.Ampl
+Red Lum.Ampl Chr.Ampl_Chr.Phase
+Blue Lum.Ampl Chr.Ampl_Lum.Ampl
+Blue Lum.Ampl Chr.Ampl_Chr.Ampl
+Blue Lum.Ampl Chr.Ampl_Chr.Phase
+","White Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Yellow Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Yellow Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Yellow Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+Cyan Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Cyan Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Cyan Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+Green Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Green Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Green Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+Magenta Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Magenta Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Magenta Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+Red Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Red Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Red Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+Blue Lum.Ampl Chr.Ampl_Lum.Ampl  -1.0
+Blue Lum.Ampl Chr.Ampl_Chr.Ampl  -1.0
+Blue Lum.Ampl Chr.Ampl_Chr.Phase  -1.0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:58:43Z,F4-B54,NHE_F4-B54_FATP-HDMI_02,WIP07171HFDE01JCG,"PCLK locked
+HDCP State
+","PCLK locked  UNL
+HDCP State  NAV
+",0,0,1,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:08:19Z,F4-B54,NHE_F4-B54_FATP-HDMI_04,WIP07171HFDE01JDL,"Attr_420
+CEC Test
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:31:59Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07171HFDE01GTW,"PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  325.9729
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",0,0,1,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:15:09Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07171HFDE01JDW,"H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","H Total Pixels  3300.0
+H Active Pixels  2880.0
+V Total Lines  2064.0
+V Active Lines  1974.0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:03:01Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07171HFDE01H7M,"CEC Test
+HDMI +5V Power
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","CEC Test  FAIL
+HDMI +5V Power  
+PCLK locked  
+HDCP State  
+TMDS Char Clk  0
+Video Code  
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",0,1,0,0,0,
+2020-07-20,D,GA01920-GB,2020-07-20T09:21:49Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07181HFDE01M1U,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07F00194_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:31:58Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07171HFDE01J9X,"Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Video Code  OK__No_AVI_InfoFrame_
+AVI InfoFrame  
+H Total Pixels  3300.0
+H Active Pixels  2880.0
+V Total Lines  2242.0
+V Active Lines  2152.0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:32:17Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07171HFDE01J8A,"H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","H Total Pixels  3300.0
+H Active Pixels  2880.0
+V Total Lines  2242.0
+V Active Lines  2152.0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:14:40Z,F4-B64,NHE_F4-B64_FATP-HDMI_03,WIP07171HFDE01H57,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07E00DCC_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:02:50Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07171HFDE01HKF,"Attr_420
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",0,0,1,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:48:57Z,F4-B54,NHE_F4-B54_FATP-HDMI_02,WIP07171HFDE01J67,"Attr_420
+CEC Test
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:34:41Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07171HFDE01HER,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07E00EAA_device_1HF65003928060B07E00EAB_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:13:47Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07171HFDE01GUL,"Button press
+","Button press  FAIL
+",0,0,1,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:47:53Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07171HFDE01HEJ,"CEC Test
+HDMI EDID
+Arc Test
+","CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:47:46Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07171HFDE01HEH,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1234567890_device_1HF65003928060B07E00D53_device_1HF65003928060B07E00D7A_device__
+",0,1,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T10:18:09Z,F4-B54,NHE_F4-B54_FATP-HDMI_01,WIP07171HFDE01J3W,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07F001B7_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T10:11:59Z,F4-B54,NHE_F4-B54_FATP-HDMI_02,WIP07171HFDE01J4M,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1234567890_device_1HF65003928060B07F01718_device_1HF65003928060B07F01785_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T10:57:21Z,F4-B54,NHE_F4-B54_FATP-HDMI_01,WIP07171HFDE01HWW,"Attr_420
+CEC Test
+HDMI EDID
+Arc Test
+","Attr_420  rgb_8bit
+CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T11:00:21Z,F4-B54,NHE_F4-B54_FATP-HDMI_01,WIP07171HFDE01HWH,"Attr_420
+CEC Test
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T11:05:42Z,F4-B54,NHE_F4-B54_FATP-HDMI_01,WIP07181HFDE01PYF,"Attr_420
+CEC Test
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T11:11:05Z,F4-B54,NHE_F4-B54_FATP-HDMI_01,WIP07181HFDE01PX3,"Attr_420
+CEC Test
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T11:16:10Z,F4-B54,NHE_F4-B54_FATP-HDMI_01,WIP07181HFDE01PWF,"Attr_420
+CEC Test
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:17:23Z,F4-B54,NHE_F4-B54_FATP-HDMI_04,WIP07181HFDE01PV5,"CEC Test
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:20:38Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07181HFDE01JNC,"CEC Test
+HDMI EDID
+Arc Test
+","CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:38:31Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07181HFDE01K0F,"PCLK locked
+HDCP State
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","PCLK locked  UNL
+HDCP State  NAV
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:41:53Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07181HFDE01PTL,"Attr_420
+CEC Test
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  17.34087
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:40:07Z,F4-B64,NHE_F4-B64_FATP-HDMI_03,WIP07181HFDE01JY2,"USB_C_CC1_check
+","USB_C_CC1_check  1294.26
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:40:18Z,F4-B54,NHE_F4-B54_FATP-HDMI_04,WIP07181HFDE01PT5,"NTC Check1
+NTC Check2
+NTC Check3
+Check FCT image version
+","NTC Check1  0
+NTC Check2  0
+NTC Check3  0
+Check FCT image version  FAIL_
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:39:42Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07181HFDE01PNL,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07F01624_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:47:53Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07181HFDE01PMR,"Attr_420
+CEC Test
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  17.95744
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:50:08Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07181HFDE01K4L,"Attr_420
+CEC Test
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:42:51Z,F4-B54,NHE_F4-B54_FATP-HDMI_01,WIP07181HFDE01PN8,"PCLK locked
+HDCP State
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","PCLK locked  UNL
+HDCP State  NAV
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",0,1,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:59:58Z,F4-B54,NHE_F4-B54_FATP-HDMI_01,WIP07181HFDE01PK3,"Attr_420
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T13:07:14Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07181HFDE01K3R,"Button press
+","Button press  FAIL
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T13:02:15Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07181HFDE01PJM,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07F004C8_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:08:58Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07171HFDE01HTU,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07E00D5E_device_1HF65003928060B07E00DA4_device__
+",0,0,1,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:01:40Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07181HFDE01JU4,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_WIP07171HFDE01G33_device_1HF65003928060B07F00704_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:56:51Z,F4-B64,NHE_F4-B64_FATP-HDMI_03,WIP07181HFDE01K51,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T13:07:28Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07181HFDE01K32,"CEC Test
+HDMI EDID
+Arc Test
+","CEC Test  FAIL
+HDMI EDID  FAIL
+Arc Test  FAIL
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T12:26:28Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07181HFDE01JVM,"Attr_420
+HDMI EDID
+TMDS Char Clk
+Video Code
+V Total Lines
+V Active Lines
+","Attr_420  rgb_8bit
+HDMI EDID  FAIL
+TMDS Char Clk  148.3547
+Video Code  OK__1920_x_1080p_@_59.94/60Hz_(16)_
+V Total Lines  1125.0
+V Active Lines  1080.0
+",0,0,1,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:02:50Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07171HFDE01HKF,"Attr_420
+HDMI EDID
+Arc Test
+PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Attr_420  444_8bit
+HDMI EDID  FAIL
+Arc Test  FAIL
+PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  0.0
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",0,0,1,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T08:31:59Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07171HFDE01GTW,"PCLK locked
+HDCP State
+TMDS Char Clk
+Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","PCLK locked  UNL
+HDCP State  NAV
+TMDS Char Clk  325.9729
+Video Code  NAV
+AVI InfoFrame  
+H Total Pixels  0
+H Active Pixels  0
+V Total Lines  0
+V Active Lines  0
+",0,1,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T14:16:24Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07181HFDE01KAM,"Video Code
+AVI InfoFrame
+H Total Pixels
+H Active Pixels
+V Total Lines
+V Active Lines
+","Video Code  OK__No_AVI_InfoFrame_
+AVI InfoFrame  
+H Total Pixels  3300.0
+H Active Pixels  2880.0
+V Total Lines  2244.0
+V Active Lines  2154.0
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T14:21:04Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07181HFDE01KBG,"Write SN to DUT(in MP)
+","Write SN to DUT(in MP)  FAIL
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T14:20:23Z,F4-B54,NHE_F4-B54_FATP-HDMI_03,WIP07181HFDE01P8V,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07F0040F_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T14:18:32Z,F4-B54,NHE_F4-B54_FATP-HDMI_02,WIP07181HFDE01P6D,"USB_C_CC2_check
+","USB_C_CC2_check  5000.55
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T14:25:34Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07181HFDE01KFX,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T14:22:56Z,F4-B64,NHE_F4-B64_FATP-HDMI_03,WIP07181HFDE01KFG,"Boot Up MLB
+","Boot Up MLB  FAIL_List_of_devices_attached_1HF65003928060B07F00F99_device_1HF65003928060B07F01F87_device__
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T14:23:59Z,F4-B64,NHE_F4-B64_FATP-HDMI_01,WIP07181HFDE01KFR,"USB_C_CC1_check
+","USB_C_CC1_check  39.22
+",0,0,1,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T14:35:39Z,F4-B64,NHE_F4-B64_FATP-HDMI_03,WIP07181HFDE01KEC,"USB_C_CC1_check
+","USB_C_CC1_check  1568.8
+",1,0,0,0,0,
+2020-07-20,D,GA01919-US,2020-07-20T09:13:47Z,F4-B64,NHE_F4-B64_FATP-HDMI_02,WIP07171HFDE01GUL,"Button press
+","Button press  FAIL
+",0,0,1,0,0,

@@ -1,0 +1,241 @@
+[Start Server][13:23:10:570]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][13:33:22:737]:IP=127.0.0.1:58923 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][13:33:23:173]:IP=127.0.0.1:58923 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][13:38:23:578]:IP=127.0.0.1:59433 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][13:38:23:580]:async_test
+[DEBUG][13:38:23:580]:10
+[TCP send][13:38:23:625]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "async_test", "slot_id": 0, "dut_id": ""}^
+[TCP send][13:38:23:625]:IP=127.0.0.1:59433 PASS
+[TCP recv][13:38:23:799]:IP=127.0.0.1:58923 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][13:39:46:913]:IP=127.0.0.1:59562 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][13:39:47:142]:IP=127.0.0.1:59562 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][13:39:55:780]:IP=127.0.0.1:59576 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][13:39:55:780]:async_test
+[DEBUG][13:39:55:780]:10
+[TCP send][13:39:55:811]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "async_test", "slot_id": 0, "dut_id": ""}^
+[TCP send][13:39:55:811]:IP=127.0.0.1:59576 PASS
+[TCP recv][13:39:55:992]:IP=127.0.0.1:59562 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][13:40:04:838]:IP=127.0.0.1:59590 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][13:40:04:867]:async_test
+[DEBUG][13:40:04:869]:10
+[TCP send][13:40:04:892]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "async_test", "slot_id": 0, "dut_id": ""}^
+[TCP send][13:40:04:909]:IP=127.0.0.1:59590 PASS
+[Start Server][13:40:56:057]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][13:41:40:300]:IP=127.0.0.1:59760 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][13:41:40:698]:IP=127.0.0.1:59760 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][13:41:45:584]:IP=127.0.0.1:59769 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][13:41:45:584]:single_up
+[DEBUG][13:41:45:584]:9
+[TCP send][13:41:46:794]:IP=127.0.0.1:59769 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+Error:输入字符串的格式不正确。
+[TCP recv][13:42:56:487]:IP=127.0.0.1:59901 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][13:42:56:495]:single_up
+[DEBUG][13:42:56:497]:9
+[TCP send][13:42:56:666]:IP=127.0.0.1:59901 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+Error:输入字符串的格式不正确。
+[Start Server][13:45:26:940]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][13:45:27:121]:IP=127.0.0.1:60120 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][13:45:27:503]:IP=127.0.0.1:60120 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][13:45:35:618]:IP=127.0.0.1:60146 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][13:45:35:624]:single_up
+[DEBUG][13:45:35:626]:9
+[TCP send][13:45:36:341]:IP=127.0.0.1:60146 458:输入字符串的格式不正确。
+[Start Server][13:52:20:917]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][13:52:21:262]:IP=127.0.0.1:60728 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][13:52:21:661]:IP=127.0.0.1:60728 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][13:52:25:896]:IP=127.0.0.1:60823 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][13:52:25:897]:single_up
+[DEBUG][13:52:25:898]:9
+[debug][13:52:26:554]:SET SF_CFG_CHK=FAIL;$;SET ERR_MSG=SN not existsWIP1126105FE0XK12. CurrStep:step2:Get inputstr Info
+[TCP send][13:52:26:639]:IP=127.0.0.1:60823 458:输入字符串的格式不正确。
+[TCP recv][13:52:30:826]:IP=127.0.0.1:60841 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][13:52:30:829]:single_up
+[DEBUG][13:52:30:832]:9
+[debug][13:52:30:961]:SET SF_CFG_CHK=FAIL;$;SET ERR_MSG=SN not existsWIP1126105FE0XK12. CurrStep:step2:Get inputstr Info
+[TCP send][13:52:30:972]:IP=127.0.0.1:60841 458:输入字符串的格式不正确。
+[Start Server][13:53:08:390]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][13:53:08:739]:IP=127.0.0.1:60898 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][13:53:09:060]:IP=127.0.0.1:60898 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][13:53:15:308]:IP=127.0.0.1:60912 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][13:53:15:310]:single_up
+[DEBUG][13:53:15:310]:9
+[debug][13:53:15:379]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][13:53:15:435]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": ""}^
+[TCP send][13:53:15:435]:IP=127.0.0.1:60912 PASS
+[TCP recv][13:53:15:597]:IP=127.0.0.1:60898 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][13:53:33:340]:IP=127.0.0.1:60898 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "SN_0", "test_result": "PASS", "slot_id": 0}^
+[TCP send][13:53:33:347]:IP=127.0.0.1:60898 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][13:53:33:441]:IP=127.0.0.1:60898 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][13:53:33:504]:IP=127.0.0.1:60898 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[Start Server][13:54:52:124]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][13:54:52:639]:IP=127.0.0.1:60987 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][13:54:53:061]:IP=127.0.0.1:60987 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][13:55:07:556]:IP=127.0.0.1:61087 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][13:55:07:561]:single_up
+[DEBUG][13:55:07:564]:9
+[debug][13:55:07:641]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][13:55:07:709]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": ""}^
+[TCP send][13:55:07:764]:IP=127.0.0.1:61087 PASS
+[TCP recv][13:55:07:971]:IP=127.0.0.1:60987 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][13:55:25:113]:IP=127.0.0.1:60987 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "SN_0", "test_result": "PASS", "slot_id": 0}^
+[TCP send][13:55:25:121]:IP=127.0.0.1:60987 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][13:55:25:214]:IP=127.0.0.1:60987 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][13:55:25:276]:IP=127.0.0.1:60987 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][14:00:13:543]:IP=127.0.0.1:61514 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][14:00:13:783]:IP=127.0.0.1:61514 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[Start Server][14:00:57:638]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][14:00:57:865]:IP=127.0.0.1:61535 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][14:00:58:265]:IP=127.0.0.1:61535 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][14:01:04:650]:IP=127.0.0.1:61607 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][14:01:04:658]:single_up
+[DEBUG][14:01:04:659]:9
+[debug][14:01:04:727]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][14:01:04:788]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": ""}^
+[TCP send][14:01:04:841]:IP=127.0.0.1:61607 PASS
+[TCP recv][14:01:05:027]:IP=127.0.0.1:61535 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][14:01:22:782]:IP=127.0.0.1:61535 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "SN_0", "test_result": "PASS", "slot_id": 0}^
+[TCP send][14:01:22:788]:IP=127.0.0.1:61535 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][14:01:22:883]:IP=127.0.0.1:61535 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][14:01:22:929]:IP=127.0.0.1:61535 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[Start Server][14:08:43:053]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][14:08:44:139]:IP=127.0.0.1:62162 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][14:08:44:528]:IP=127.0.0.1:62162 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][14:08:57:812]:IP=127.0.0.1:62232 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][14:08:57:817]:single_up
+[DEBUG][14:08:57:822]:9
+[debug][14:08:57:896]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][14:08:57:985]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": ""}^
+[TCP send][14:08:58:113]:IP=127.0.0.1:62232 PASS
+[TCP recv][14:08:58:255]:IP=127.0.0.1:62162 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][14:09:15:402]:IP=127.0.0.1:62162 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "SN_0", "test_result": "PASS", "slot_id": 0}^
+[TCP send][14:09:15:407]:IP=127.0.0.1:62162 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][14:09:15:503]:IP=127.0.0.1:62162 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][14:09:15:573]:IP=127.0.0.1:62162 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[debug][14:09:15:621]:AAB
+[Start Server][14:09:52:215]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][14:09:52:477]:IP=127.0.0.1:62293 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][14:09:52:838]:IP=127.0.0.1:62293 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][14:10:04:348]:IP=127.0.0.1:62329 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][14:10:04:356]:single_up
+[DEBUG][14:10:04:358]:9
+[debug][14:10:04:436]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][14:10:04:508]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": ""}^
+[TCP send][14:10:04:554]:IP=127.0.0.1:62329 PASS
+[TCP recv][14:10:04:675]:IP=127.0.0.1:62293 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][14:10:22:632]:IP=127.0.0.1:62293 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "SN_0", "test_result": "PASS", "slot_id": 0}^
+[TCP send][14:10:22:639]:IP=127.0.0.1:62293 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][14:10:22:733]:IP=127.0.0.1:62293 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][14:10:22:788]:IP=127.0.0.1:62293 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][14:11:22:232]:IP=127.0.0.1:62464 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][14:11:22:236]:single_up
+[DEBUG][14:11:22:243]:9
+[debug][14:11:22:262]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][14:11:22:277]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": ""}^
+[TCP send][14:11:22:296]:IP=127.0.0.1:62464 PASS
+[TCP recv][14:11:22:459]:IP=127.0.0.1:62293 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][14:11:40:014]:IP=127.0.0.1:62293 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "SN_0", "test_result": "PASS", "slot_id": 0}^
+[TCP send][14:11:40:018]:IP=127.0.0.1:62293 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][14:11:40:115]:IP=127.0.0.1:62293 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][14:11:40:142]:IP=127.0.0.1:62293 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[Start Server][14:17:39:766]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][14:17:39:966]:IP=127.0.0.1:62955 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][14:17:40:184]:IP=127.0.0.1:62955 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][14:17:53:576]:IP=127.0.0.1:62982 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][14:17:53:577]:single_up
+[DEBUG][14:17:53:577]:9
+[debug][14:17:53:647]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][14:17:53:721]:IP= {"message_id": "test_start", "test_type": "single_up", "slot_id": -, "dut_id": "WIP1126105FE0XK12"}^
+[TCP send][14:17:53:732]:IP=127.0.0.1:62982 458:未将对象引用设置到对象的实例。
+[TCP recv][14:17:57:744]:IP=127.0.0.1:62988 TYPE=START;SN=WIP1126105FE0XK12;FIX=01
+[DEBUG][14:17:57:748]:single_up
+[DEBUG][14:17:57:750]:9
+[debug][14:17:57:767]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][14:17:57:795]:IP= {"message_id": "test_start", "test_type": "single_up", "slot_id": -, "dut_id": "WIP1126105FE0XK12"}^
+[TCP send][14:17:57:820]:IP=127.0.0.1:62988 458:未将对象引用设置到对象的实例。
+[TCP recv][14:19:48:231]:IP=127.0.0.1:63147 TYPE=START;SN=WIP1126105FE0XK12;FIX=03
+[DEBUG][14:19:48:234]:single_up
+[DEBUG][14:19:48:236]:9
+[debug][14:19:48:271]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][14:19:48:298]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": "WIP1126105FE0XK12"}^
+[TCP send][14:19:48:322]:IP=127.0.0.1:63147 PASS
+[TCP recv][14:19:48:470]:IP=127.0.0.1:62955 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][14:20:05:623]:IP=127.0.0.1:62955 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "WIP1126105FE0XK12", "test_result": "PASS", "slot_id": 0}^
+[TCP send][14:20:05:639]:IP=127.0.0.1:62955 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][14:20:05:724]:IP=127.0.0.1:62955 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][14:20:05:737]:IP=127.0.0.1:62955 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][15:40:57:105]:IP=127.0.0.1:51433 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][15:40:57:151]:IP=127.0.0.1:51433 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[Start Server][15:41:33:312]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][15:41:34:369]:IP=127.0.0.1:51452 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 1}^
+[TCP send][15:41:34:571]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][15:41:46:665]:IP=127.0.0.1:51501 TYPE=START;SN=WIP1126105FE0XK12;FIX=03
+[DEBUG][15:41:46:689]:single_up
+[DEBUG][15:41:46:693]:9
+[debug][15:41:46:842]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][15:41:46:924]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": "WIP1126105FE0XK12"}^
+[TCP send][15:41:46:990]:IP=127.0.0.1:51501 PASS
+[TCP recv][15:41:47:138]:IP=127.0.0.1:51452 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][15:42:05:021]:IP=127.0.0.1:51452 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "WIP1126105FE0XK12", "test_result": "FAIL", "slot_id": 0}^
+[TCP send][15:42:05:047]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][15:42:05:122]:IP=127.0.0.1:51452 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][15:42:05:137]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[debug][15:42:05:158]:AAB
+[DEBUG][15:42:05:165]:single_up
+[DEBUG][15:42:05:173]:9
+[debug][15:42:05:199]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][15:42:05:231]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": "WIP1126105FE0XK12"}^
+[TCP recv][15:42:05:425]:IP=127.0.0.1:51452 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][15:42:22:575]:IP=127.0.0.1:51452 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "WIP1126105FE0XK12", "test_result": "FAIL", "slot_id": 0}^
+[TCP send][15:42:22:591]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][15:42:22:676]:IP=127.0.0.1:51452 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][15:42:22:693]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[debug][15:42:22:715]:AAB
+[DEBUG][15:42:22:719]:single_up
+[DEBUG][15:42:22:728]:9
+[debug][15:42:22:748]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][15:42:22:775]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": "WIP1126105FE0XK12"}^
+[TCP recv][15:42:22:979]:IP=127.0.0.1:51452 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][15:42:40:208]:IP=127.0.0.1:51452 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "WIP1126105FE0XK12", "test_result": "FAIL", "slot_id": 0}^
+[TCP send][15:42:40:240]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][15:42:40:309]:IP=127.0.0.1:51452 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][15:42:40:326]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[debug][15:42:40:347]:AAB
+[DEBUG][15:42:40:353]:single_up
+[DEBUG][15:42:40:359]:9
+[debug][15:42:40:377]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][15:42:40:409]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": "WIP1126105FE0XK12"}^
+[TCP recv][15:42:40:612]:IP=127.0.0.1:51452 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][15:42:58:366]:IP=127.0.0.1:51452 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "WIP1126105FE0XK12", "test_result": "FAIL", "slot_id": 0}^
+[TCP send][15:42:58:389]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][15:42:58:467]:IP=127.0.0.1:51452 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][15:42:58:483]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[debug][15:42:58:504]:AAB
+[DEBUG][15:42:58:510]:single_up
+[DEBUG][15:42:58:515]:9
+[debug][15:42:58:535]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][15:42:58:570]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": "WIP1126105FE0XK12"}^
+[TCP recv][15:42:58:770]:IP=127.0.0.1:51452 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][15:43:15:920]:IP=127.0.0.1:51452 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "WIP1126105FE0XK12", "test_result": "FAIL", "slot_id": 0}^
+[TCP send][15:43:15:936]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][15:43:16:021]:IP=127.0.0.1:51452 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][15:43:16:038]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[debug][15:43:16:059]:AAB
+[DEBUG][15:43:16:062]:single_up
+[DEBUG][15:43:16:073]:9
+[debug][15:43:16:094]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][15:43:16:127]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": "WIP1126105FE0XK12"}^
+[TCP recv][15:43:16:324]:IP=127.0.0.1:51452 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][15:43:34:477]:IP=127.0.0.1:51452 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "WIP1126105FE0XK12", "test_result": "FAIL", "slot_id": 0}^
+[TCP send][15:43:34:495]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][15:43:34:579]:IP=127.0.0.1:51452 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][15:43:34:591]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[debug][15:43:34:611]:AAB
+[DEBUG][15:43:34:614]:single_up
+[DEBUG][15:43:34:620]:9
+[debug][15:43:34:639]:SET SF_CFG_CHK=PASS;$;SET SN=WIP1126105FE0XK12;$;SET MB_NUM=QCMG65005235020B11L04587;$;SET MB_BTB=;$;SET LINE=M39;$;SET Station=QueryData;$;SET MAC=;$;SET STATUS=9K;$;SET REGION=US;$;SET COUNTRY=US;$;SET EMMCSIZE=NA;$;SET BTMAC=;$;SET WLMAC=;$;SET PN=20NU7BU00H0;$;SET SKU=G950-04226-02;$;SET WO=330509321;$;SET REPAIR=N;$;SET DSN=;$;SET TOP_B=;$;SET WO_Model=;$;SET TOP_MIC=;$;SET TOP_BPN=;$;SET TOP_COLOR=Anthracite;$;SET F_IMAGE=;$;SET F_OTP=;$;SET FSI_V=;$;SET FCT_V=;$;SET MLB_RAM=;$;SET MLB_ROM=;$;SET COLOR=BOTTOM:black;$;SET FCT_VER=valens-b4 FCT_241082;$;SET FCT_RF_VER=valens-b4 FCT_241082;$;SET FSI_VER=207177 valens-b4 user stable-channel;$;SET FSI_FDV=valens-b4.tz_stable-channel_207177;$;SET REFH_VER=NONE;$;SET PRV_TOOL=factory-provision-valens-2020-12-14;$;SET KEY_TYPE=b4;$;SET MLB_WIFI=;$;SET User_code=;$;SET Group_code=;$;SET SF_Routing_CHK=FAIL;$;SET SPK_NUM=;$;SET FailCount=0;$;SET 1FixtureID=;$;SET 2FixtureID=;$;SET BSSID_MAC=;$;SET Panel_Type=;$;SET Touchscreen=Y;$;SET BUILD=MP;$;SET C_SUB=;$;SET Keyboard_Country=Y;$;SET MB_CONFIG=;$;SET SCOF=N;$;SET PN_SPK=DN201717000;$;SET TOPLED=;$;SET SideLED=;$;SET ANTENNA=;$;SET BATTERY=;$;SET COIL=;$;SET CROWN_FLEX=;$;SET HAPTIC=;$;SET LCD=;$;SET MIC_FLEX=;$;SET PPG_FLEX=;$;SET QR_CODE=;$;SET TOP_MIC2=;$;SET LED_BIN=;$;SET LED_VENDOR=;$;SET LED_B=;$;SET MIC_B=;$;SET POWER_B=;$;SET SENSOR_B=;$;
+[TCP send][15:43:34:663]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "single_up", "slot_id": 0, "dut_id": "WIP1126105FE0XK12"}^
+[TCP recv][15:43:34:882]:IP=127.0.0.1:51452 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][15:43:35:991]:IP=127.0.0.1:51452 {"message_id": "ready", "station_id": "0EE_F4-C14_FATP-QT_03"}^
+[TCP send][15:43:36:008]:IP=127.0.0.1:51452 {"message_id": "ack",  "ack_id": "ready","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[debug][15:43:36:044]:AAB
+[Start Server][16:40:17:995]:Server already open, IP:0.0.0.0 Port:9090

@@ -1,0 +1,8 @@
+Tata,D/N,Config,Test time,Line,Fixture,SN,Failure Mode,Failure Description,Retest,NTF,Fail,SOF
+2019-10-28,D,SP2M5-JDP4,2019-10-28T13:07:41Z,P3-C29,NHE_P3-C29_FATP-RUNIN-CI_01,WIP9A23105DD001L3,"Check_voltage
+Runin_Checkin
+Read_SN
+","Check_voltage  None
+Runin_Checkin  None
+Read_SN  
+",1,0,0,0

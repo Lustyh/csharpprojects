@@ -1,0 +1,34 @@
+[Start Server][15:49:50:883]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][15:54:11:305]:IP=127.0.0.1:56631 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-02", "async_test": true, "num_unit": 4}^
+[TCP send][15:54:11:777]:IP=127.0.0.1:56631 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-02", "result": "OK"}^
+[TCP recv][15:54:50:309]:IP=127.0.0.1:56641 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-02", "async_test": true, "num_unit": 4}^
+[TCP send][15:54:50:503]:IP=127.0.0.1:56641 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-02", "result": "OK"}^
+[TCP recv][15:55:55:023]:IP=127.0.0.1:56656 TYPE=GET;KEY=ALL;FIX=01
+[TCP send][15:55:55:024]:IP=127.0.0.1:56656 No request Type
+[TCP recv][15:56:04:251]:IP=127.0.0.1:56659 TYPE=GET;KEY=ALL;FIX=01
+[TCP send][15:56:04:276]:IP=127.0.0.1:56659 No request Type
+[TCP recv][15:58:58:773]:IP=127.0.0.1:56686 TYPE=UPLOAD;STATUS=1;FIX=1
+[TCP send][15:58:58:785]:IP=127.0.0.1:56686 OK
+[Start Server][15:59:58:299]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][15:59:58:709]:IP=127.0.0.1:56699 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-02", "async_test": true, "num_unit": 4}^
+[TCP send][15:59:59:084]:IP=127.0.0.1:56699 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-02", "result": "OK"}^
+[TCP recv][16:00:06:077]:IP=127.0.0.1:56703 TYPE=UPLOAD;STATUS=1;FIX=1
+[TCP send][16:00:06:084]:IP=127.0.0.1:56703 OK
+[TCP recv][16:00:25:827]:IP=127.0.0.1:56705 TYPE=UPLOAD;STATUS=2;FIX=2
+[TCP send][16:00:25:833]:IP=127.0.0.1:56705 OK
+[Start Server][16:03:14:183]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][16:03:15:178]:IP=127.0.0.1:56745 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-02", "async_test": true, "num_unit": 4}^
+[TCP send][16:03:15:539]:IP=127.0.0.1:56745 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-02", "result": "OK"}^
+[TCP recv][16:03:24:119]:IP=127.0.0.1:56750 TYPE=UPLOAD;STATUS=2;FIX=2
+[TCP send][16:03:24:132]:IP=127.0.0.1:56750 OK
+[TCP recv][16:03:43:915]:IP=127.0.0.1:56754 TYPE=UPLOAD;STATUS=2;FIX=0
+[TCP send][16:03:43:930]:IP=127.0.0.1:56754 TYPE=UPLOAD;STATUS=2;FIX=0
+Error:索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+[TCP recv][16:04:01:569]:IP=127.0.0.1:56757 TYPE=UPLOAD;STATUS=0;FIX=2
+[TCP send][16:04:01:580]:IP=127.0.0.1:56757 OK
+[Start Server][16:06:34:232]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][16:06:34:436]:IP=127.0.0.1:56770 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-02", "async_test": true, "num_unit": 4}^
+[TCP send][16:06:34:824]:IP=127.0.0.1:56770 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-02", "result": "OK"}^
+[TCP recv][16:06:52:087]:IP=127.0.0.1:56784 TYPE=UPLOAD;STATUS=2;FIX=1
+[TCP send][16:06:52:123]:IP=127.0.0.1:56784 OK

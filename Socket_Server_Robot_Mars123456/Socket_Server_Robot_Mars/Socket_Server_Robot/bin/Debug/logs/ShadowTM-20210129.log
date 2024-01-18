@@ -1,0 +1,3 @@
+[Start Server][08:56:37:946]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][08:56:38:341]:IP=127.0.0.1:53837 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": false, "num_unit": 4}^
+[TCP send][08:56:38:651]:IP=127.0.0.1:53837 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^

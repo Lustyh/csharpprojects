@@ -1,0 +1,15 @@
+E:\C#\windows\LearnArray\LearnArray\bin\Debug\net6.0\LearnArray.exe
+E:\C#\windows\LearnArray\LearnArray\bin\Debug\net6.0\LearnArray.deps.json
+E:\C#\windows\LearnArray\LearnArray\bin\Debug\net6.0\LearnArray.runtimeconfig.json
+E:\C#\windows\LearnArray\LearnArray\bin\Debug\net6.0\LearnArray.dll
+E:\C#\windows\LearnArray\LearnArray\bin\Debug\net6.0\ref\LearnArray.dll
+E:\C#\windows\LearnArray\LearnArray\bin\Debug\net6.0\LearnArray.pdb
+E:\C#\windows\LearnArray\LearnArray\obj\Debug\net6.0\LearnArray.csproj.AssemblyReference.cache
+E:\C#\windows\LearnArray\LearnArray\obj\Debug\net6.0\LearnArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\LearnArray\LearnArray\obj\Debug\net6.0\LearnArray.AssemblyInfoInputs.cache
+E:\C#\windows\LearnArray\LearnArray\obj\Debug\net6.0\LearnArray.AssemblyInfo.cs
+E:\C#\windows\LearnArray\LearnArray\obj\Debug\net6.0\LearnArray.csproj.CoreCompileInputs.cache
+E:\C#\windows\LearnArray\LearnArray\obj\Debug\net6.0\LearnArray.dll
+E:\C#\windows\LearnArray\LearnArray\obj\Debug\net6.0\ref\LearnArray.dll
+E:\C#\windows\LearnArray\LearnArray\obj\Debug\net6.0\LearnArray.pdb
+E:\C#\windows\LearnArray\LearnArray\obj\Debug\net6.0\LearnArray.genruntimeconfig.cache

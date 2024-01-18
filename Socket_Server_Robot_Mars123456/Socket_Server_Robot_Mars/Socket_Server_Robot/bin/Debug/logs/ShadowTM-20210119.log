@@ -1,0 +1,19 @@
+[Start Server][15:59:22:178]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][16:03:14:507]:IP=127.0.0.1:53698 {"message_id": "online", "project_id": "SABRINA", "station_id": "0EE_F4-C14_FATP-QT_03", "async_test": true, "num_unit": 4}^
+[TCP send][16:03:14:682]:IP=127.0.0.1:53698 {"message_id": "ack",  "ack_id": "online","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK"}^
+[TCP recv][16:06:06:950]:IP=127.0.0.1:53718 TYPE=START;SN=BWIP01061HFDD000AR;FIX=01
+[DEBUG][16:06:06:951]:async_test
+[DEBUG][16:06:06:951]:10
+[TCP send][16:06:07:005]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "async_test", "slot_id": 0, "dut_id": ""}^
+[TCP send][16:06:07:005]:IP=127.0.0.1:53718 PASS
+[TCP recv][16:06:07:291]:IP=127.0.0.1:53698 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][16:06:53:839]:IP=127.0.0.1:53698 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "sn_0", "test_result": "PASS", "slot_id": 0}^
+[TCP send][16:06:53:862]:IP=127.0.0.1:53698 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^
+[TCP recv][16:22:58:677]:IP=127.0.0.1:53989 TYPE=START;SN=BWIP01061HFDD000AR;FIX=01
+[DEBUG][16:22:58:684]:async_test
+[DEBUG][16:22:58:685]:10
+[TCP send][16:22:58:713]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "async_test", "slot_id": 0, "dut_id": ""}^
+[TCP send][16:22:58:733]:IP=127.0.0.1:53989 PASS
+[TCP recv][16:22:58:860]:IP=127.0.0.1:53698 {"message_id": "ack", "result": "OK", "station_id": "0EE_F4-C14_FATP-QT_03", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][16:23:45:072]:IP=127.0.0.1:53698 {"message_id": "test_complete", "station_id": "0EE_F4-C14_FATP-QT_03", "dut_id": "sn_0", "test_result": "PASS", "slot_id": 0}^
+[TCP send][16:23:45:076]:IP=127.0.0.1:53698 {"message_id": "ack",  "ack_id": "test_complete","station_id": "0EE_F4-C14_FATP-QT_03", "result": "OK", "slot_id": 0}^

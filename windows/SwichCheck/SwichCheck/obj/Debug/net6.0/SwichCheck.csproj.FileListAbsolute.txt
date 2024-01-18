@@ -1,0 +1,14 @@
+E:\C#\windows\SwichCheck\SwichCheck\bin\Debug\net6.0\SwichCheck.exe
+E:\C#\windows\SwichCheck\SwichCheck\bin\Debug\net6.0\SwichCheck.deps.json
+E:\C#\windows\SwichCheck\SwichCheck\bin\Debug\net6.0\SwichCheck.runtimeconfig.json
+E:\C#\windows\SwichCheck\SwichCheck\bin\Debug\net6.0\SwichCheck.dll
+E:\C#\windows\SwichCheck\SwichCheck\bin\Debug\net6.0\ref\SwichCheck.dll
+E:\C#\windows\SwichCheck\SwichCheck\bin\Debug\net6.0\SwichCheck.pdb
+E:\C#\windows\SwichCheck\SwichCheck\obj\Debug\net6.0\SwichCheck.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\SwichCheck\SwichCheck\obj\Debug\net6.0\SwichCheck.AssemblyInfoInputs.cache
+E:\C#\windows\SwichCheck\SwichCheck\obj\Debug\net6.0\SwichCheck.AssemblyInfo.cs
+E:\C#\windows\SwichCheck\SwichCheck\obj\Debug\net6.0\SwichCheck.csproj.CoreCompileInputs.cache
+E:\C#\windows\SwichCheck\SwichCheck\obj\Debug\net6.0\SwichCheck.dll
+E:\C#\windows\SwichCheck\SwichCheck\obj\Debug\net6.0\ref\SwichCheck.dll
+E:\C#\windows\SwichCheck\SwichCheck\obj\Debug\net6.0\SwichCheck.pdb
+E:\C#\windows\SwichCheck\SwichCheck\obj\Debug\net6.0\SwichCheck.genruntimeconfig.cache

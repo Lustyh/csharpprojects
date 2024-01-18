@@ -1,0 +1,140 @@
+D:\screw-driver\Screw-Check\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+D:\screw-driver\Screw-Check\Screw-Check\bin\x86\Debug\Screw-Check.exe
+D:\screw-driver\Screw-Check\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+D:\screw-driver\Screw-Check\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+D:\screw-driver\Screw-Check\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+D:\screw-driver\Screw-Check\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.Cache
+D:\screw-driver\Screw-Check\Screw-Check\obj\x86\Debug\Screw-Check.exe
+D:\screw-driver\Screw-Check\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+D:\screw-driver\Screw-Check\Screw-Check\obj\x86\Debug\Screw-Check.csprojResolveAssemblyReference.cache
+D:\screw-driver\Screw-Check - Copy\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+D:\screw-driver\Screw-Check - Copy\Screw-Check\obj\x86\Debug\Screw-Check.exe
+D:\screw-driver\Screw-Check - Copy\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+D:\screw-driver\Screw-Check - Copy\Screw-Check\bin\x86\Debug\Screw-Check.exe
+D:\screw-driver\Screw-Check - Copy\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+D:\screw-driver\Screw-Check - Copy\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+D:\screw-driver\Screw-Check - Copy\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+D:\screw-driver\Screw-Check - Copy\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.Cache
+D:\screw-driver\Screw-Check - Copy\Screw-Check\obj\x86\Debug\Screw-Check.csprojResolveAssemblyReference.cache
+D:\screw-driver\Screw-Check - Copy - Copy\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+D:\screw-driver\Screw-Check - Copy - Copy\Screw-Check\obj\x86\Debug\Screw-Check.exe
+D:\screw-driver\Screw-Check - Copy - Copy\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+D:\screw-driver\Screw-Check - Copy - Copy\Screw-Check\bin\x86\Debug\Screw-Check.exe
+D:\screw-driver\Screw-Check - Copy - Copy\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+D:\screw-driver\Screw-Check - Copy - Copy\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+D:\screw-driver\Screw-Check - Copy - Copy\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+D:\screw-driver\Screw-Check - Copy - Copy\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.Cache
+C:\Users\A0044319\Desktop\Screw-Check - 1.0.0.7\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+C:\Users\A0044319\Desktop\Screw-Check - 1.0.0.7\Screw-Check\bin\x86\Debug\Screw-Check.exe
+C:\Users\A0044319\Desktop\Screw-Check - 1.0.0.7\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+C:\Users\A0044319\Desktop\Screw-Check - 1.0.0.7\Screw-Check\obj\x86\Debug\Screw-Check.csprojResolveAssemblyReference.cache
+C:\Users\A0044319\Desktop\Screw-Check - 1.0.0.7\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+C:\Users\A0044319\Desktop\Screw-Check - 1.0.0.7\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+C:\Users\A0044319\Desktop\Screw-Check - 1.0.0.7\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.Cache
+C:\Users\A0044319\Desktop\Screw-Check - 1.0.0.7\Screw-Check\obj\x86\Debug\Screw-Check.csproj.CoreCompileInputs.cache
+C:\Users\A0044319\Desktop\Screw-Check - 1.0.0.7\Screw-Check\obj\x86\Debug\Screw-Check.exe
+C:\Users\A0044319\Desktop\Screw-Check - 1.0.0.7\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\bin\x86\Debug\Screw-Check.exe
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.Cache
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.csproj.CoreCompileInputs.cache
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.exe
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.csproj.ResolveComReference.cache
+C:\Users\A0044319\Desktop\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.csprojResolveAssemblyReference.cache
+D:\程序\Caprica\Screw-Check-Caprica\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+D:\程序\Caprica\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Interop.SpeechLib.dll
+D:\程序\Caprica\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.csproj.ResolveComReference.cache
+D:\程序\Caprica\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.exe
+D:\程序\Caprica\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+D:\程序\Caprica\Screw-Check-Caprica\Screw-Check\bin\x86\Debug\Screw-Check.exe
+D:\程序\Caprica\Screw-Check-Caprica\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+D:\程序\Caprica\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+D:\程序\Caprica\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+D:\程序\Caprica\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.Cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Interop.SpeechLib.dll
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.csproj.ResolveComReference.cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.exe
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\bin\x86\Debug\Screw-Check.exe
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.Cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica\Screw-Check\obj\x86\Debug\Screw-Check.csprojResolveAssemblyReference.cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\bin\x86\Debug\Screw-Check.exe
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\obj\x86\Debug\Interop.SpeechLib.dll
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\obj\x86\Debug\Screw-Check.csproj.ResolveComReference.cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\obj\x86\Debug\Screw-Check.csproj.CoreCompileInputs.cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\obj\x86\Debug\Screw-Check.exe
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica - 副本\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\bin\x86\Debug\Screw-Check.exe
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.csprojAssemblyReference.cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Interop.SpeechLib.dll
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.csproj.ResolveComReference.cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.csproj.CoreCompileInputs.cache
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.exe
+D:\产线程序\Caprica\Screw\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\bin\x86\Debug\Screw-Check.exe
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Interop.SpeechLib.dll
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.csproj.ResolveComReference.cache
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.cache
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.csproj.CoreCompileInputs.cache
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.exe
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+D:\产线程序\Luther\Screw-Check-Caprica-dummy\Screw-Check\obj\x86\Debug\Screw-Check.csprojAssemblyReference.cache
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\bin\x86\Debug\Screw-Check.exe
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Interop.SpeechLib.dll
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.ResolveComReference.cache
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.cache
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.CoreCompileInputs.cache
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.exe
+D:\产线程序\Sabrina\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\bin\x86\Debug\Screw-Check.exe
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csprojAssemblyReference.cache
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.ResolveComReference.cache
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.cache
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.CoreCompileInputs.cache
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.exe
+C:\Users\Istar.Li\Desktop\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.pdb
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\bin\x86\Debug\Screw-Check.exe.config
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\bin\x86\Debug\Screw-Check.exe
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\bin\x86\Debug\Screw-Check.pdb
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.AssemblyReference.cache
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.SuggestedBindingRedirects.cache
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Interop.SpeechLib.dll
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.ResolveComReference.cache
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw_Check.Form1.resources
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw_Check.Properties.Resources.resources
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.GenerateResource.cache
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.csproj.CoreCompileInputs.cache
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.exe
+E:\C#\windows\Screw-Check-Sabrina\Screw-Check\obj\x86\Debug\Screw-Check.pdb

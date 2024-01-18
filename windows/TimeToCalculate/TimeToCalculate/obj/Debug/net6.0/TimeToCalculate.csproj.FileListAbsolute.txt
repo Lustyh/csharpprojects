@@ -1,0 +1,15 @@
+E:\C#\windows\TimeToCalculate\TimeToCalculate\bin\Debug\net6.0\TimeToCalculate.exe
+E:\C#\windows\TimeToCalculate\TimeToCalculate\bin\Debug\net6.0\TimeToCalculate.deps.json
+E:\C#\windows\TimeToCalculate\TimeToCalculate\bin\Debug\net6.0\TimeToCalculate.runtimeconfig.json
+E:\C#\windows\TimeToCalculate\TimeToCalculate\bin\Debug\net6.0\TimeToCalculate.dll
+E:\C#\windows\TimeToCalculate\TimeToCalculate\bin\Debug\net6.0\ref\TimeToCalculate.dll
+E:\C#\windows\TimeToCalculate\TimeToCalculate\bin\Debug\net6.0\TimeToCalculate.pdb
+E:\C#\windows\TimeToCalculate\TimeToCalculate\obj\Debug\net6.0\TimeToCalculate.csproj.AssemblyReference.cache
+E:\C#\windows\TimeToCalculate\TimeToCalculate\obj\Debug\net6.0\TimeToCalculate.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\TimeToCalculate\TimeToCalculate\obj\Debug\net6.0\TimeToCalculate.AssemblyInfoInputs.cache
+E:\C#\windows\TimeToCalculate\TimeToCalculate\obj\Debug\net6.0\TimeToCalculate.AssemblyInfo.cs
+E:\C#\windows\TimeToCalculate\TimeToCalculate\obj\Debug\net6.0\TimeToCalculate.csproj.CoreCompileInputs.cache
+E:\C#\windows\TimeToCalculate\TimeToCalculate\obj\Debug\net6.0\TimeToCalculate.dll
+E:\C#\windows\TimeToCalculate\TimeToCalculate\obj\Debug\net6.0\ref\TimeToCalculate.dll
+E:\C#\windows\TimeToCalculate\TimeToCalculate\obj\Debug\net6.0\TimeToCalculate.pdb
+E:\C#\windows\TimeToCalculate\TimeToCalculate\obj\Debug\net6.0\TimeToCalculate.genruntimeconfig.cache

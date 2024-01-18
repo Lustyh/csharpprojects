@@ -1,0 +1,14 @@
+E:\C#\windows\CalculateAreas\CalculateAreas\obj\Debug\net6.0\CalculateAreas.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\CalculateAreas\CalculateAreas\obj\Debug\net6.0\CalculateAreas.AssemblyInfoInputs.cache
+E:\C#\windows\CalculateAreas\CalculateAreas\obj\Debug\net6.0\CalculateAreas.AssemblyInfo.cs
+E:\C#\windows\CalculateAreas\CalculateAreas\obj\Debug\net6.0\CalculateAreas.csproj.CoreCompileInputs.cache
+E:\C#\windows\CalculateAreas\CalculateAreas\bin\Debug\net6.0\CalculateAreas.exe
+E:\C#\windows\CalculateAreas\CalculateAreas\bin\Debug\net6.0\CalculateAreas.deps.json
+E:\C#\windows\CalculateAreas\CalculateAreas\bin\Debug\net6.0\CalculateAreas.runtimeconfig.json
+E:\C#\windows\CalculateAreas\CalculateAreas\bin\Debug\net6.0\CalculateAreas.dll
+E:\C#\windows\CalculateAreas\CalculateAreas\bin\Debug\net6.0\ref\CalculateAreas.dll
+E:\C#\windows\CalculateAreas\CalculateAreas\bin\Debug\net6.0\CalculateAreas.pdb
+E:\C#\windows\CalculateAreas\CalculateAreas\obj\Debug\net6.0\CalculateAreas.dll
+E:\C#\windows\CalculateAreas\CalculateAreas\obj\Debug\net6.0\ref\CalculateAreas.dll
+E:\C#\windows\CalculateAreas\CalculateAreas\obj\Debug\net6.0\CalculateAreas.pdb
+E:\C#\windows\CalculateAreas\CalculateAreas\obj\Debug\net6.0\CalculateAreas.genruntimeconfig.cache

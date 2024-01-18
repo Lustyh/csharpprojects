@@ -1,0 +1,34 @@
+[Start Server][18:15:33:233]:Server already open, IP:0.0.0.0 Port:9090
+[Start Server][18:15:45:309]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][18:16:24:434]:IP=127.0.0.1:64719 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "test_mode": "LOCAL", "slot_num_by_group": [1]}^
+[TCP send][18:16:24:974]:IP=127.0.0.1:64719 {"message_id": "station_verify_result","station_id": "NHL_F4-B14_SMT-BFT_01", "result": "OK"}^
+[TCP recv][18:16:25:138]:IP=127.0.0.1:64719 {"message_id": "ack", "station_id": "NHL_F4-B14_SMT-BFT_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][18:16:25:743]:IP=127.0.0.1:64719 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "group_id": 0}^
+[debug][18:16:25:805]:AAB
+[TCP recv][18:17:03:689]:IP=127.0.0.1:50936 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "test_mode": "LOCAL", "slot_num_by_group": [1]}^
+[TCP send][18:17:03:877]:IP=127.0.0.1:50936 {"message_id": "station_verify_result","station_id": "NHL_F4-B14_SMT-BFT_01", "result": "OK"}^
+[TCP recv][18:17:04:093]:IP=127.0.0.1:50936 {"message_id": "ack", "station_id": "NHL_F4-B14_SMT-BFT_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][18:17:04:295]:IP=127.0.0.1:50936 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "group_id": 0}^
+[debug][18:17:04:358]:AAB
+[ERE][18:17:50:439]:line 301 远程主机强迫关闭了一个现有的连接。
+[TCP recv][18:18:12:023]:IP=127.0.0.1:59511 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "test_mode": "LOCAL", "slot_num_by_group": [1]}^
+[TCP send][18:18:12:209]:IP=127.0.0.1:59511 {"message_id": "station_verify_result","station_id": "NHL_F4-B14_SMT-BFT_01", "result": "OK"}^
+[TCP recv][18:18:12:527]:IP=127.0.0.1:59511 {"message_id": "ack", "station_id": "NHL_F4-B14_SMT-BFT_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][18:18:12:829]:IP=127.0.0.1:59511 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "group_id": 0}^
+[debug][18:18:12:896]:AAB
+[Start Server][18:24:57:943]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][18:25:34:598]:IP=127.0.0.1:56844 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "test_mode": "LOCAL", "slot_num_by_group": [1]}^
+[TCP send][18:25:34:723]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "test_mode": "LOCAL", "slot_num_by_group": [ 1]}^
+[TCP send][18:25:35:139]:IP=127.0.0.1:56844 {"message_id": "station_verify_result","station_id": "NHL_F4-B14_SMT-BFT_01", "result": "OK"}^
+[TCP recv][18:25:35:406]:IP=127.0.0.1:56844 {"message_id": "ack", "station_id": "NHL_F4-B14_SMT-BFT_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][18:25:35:506]:IP=127.0.0.1:56844 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "group_id": 0}^
+[TCP send][18:25:35:509]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "group_id": 0}^
+[debug][18:25:35:574]:AAB
+[Start Server][18:26:43:823]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][18:27:00:349]:IP=127.0.0.1:57558 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "test_mode": "LOCAL", "slot_num_by_group": [1]}^
+[TCP send][18:27:00:476]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "test_mode": "LOCAL", "slot_num_by_group": [ 1]}^
+[TCP send][18:27:00:609]:IP=127.0.0.1:57558 {"message_id": "station_verify_result","station_id": "NHL_F4-B14_SMT-BFT_01", "result": "OK"}^
+[TCP recv][18:27:00:748]:IP=127.0.0.1:57558 {"message_id": "ack", "station_id": "NHL_F4-B14_SMT-BFT_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][18:27:00:950]:IP=127.0.0.1:57558 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "group_id": 0}^
+[TCP send][18:27:00:958]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_F4-B14_SMT-BFT_01", "group_id": 0}^
+[debug][18:27:00:971]:AAB

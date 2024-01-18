@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bigbird_check", "bigbird_check\bigbird_check.csproj", "{217B4EB8-AFEE-4997-8590-EA2AEC952417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamsaraSFTP", "SamsaraSFTP\SamsaraSFTP.csproj", "{24A0CE7E-EB75-4730-9FFB-7B0C0E0ACF51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217B4EB8-AFEE-4997-8590-EA2AEC952417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217B4EB8-AFEE-4997-8590-EA2AEC952417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217B4EB8-AFEE-4997-8590-EA2AEC952417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217B4EB8-AFEE-4997-8590-EA2AEC952417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A0CE7E-EB75-4730-9FFB-7B0C0E0ACF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A0CE7E-EB75-4730-9FFB-7B0C0E0ACF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A0CE7E-EB75-4730-9FFB-7B0C0E0ACF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A0CE7E-EB75-4730-9FFB-7B0C0E0ACF51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C8F949-6B63-4196-B7B5-A7217C78FF8E}
+	EndGlobalSection
+EndGlobal

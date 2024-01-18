@@ -1,0 +1,15 @@
+E:\C#\windows\GetSet\GetSet\obj\Debug\net6.0\GetSet.csproj.AssemblyReference.cache
+E:\C#\windows\GetSet\GetSet\obj\Debug\net6.0\GetSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\GetSet\GetSet\obj\Debug\net6.0\GetSet.AssemblyInfoInputs.cache
+E:\C#\windows\GetSet\GetSet\obj\Debug\net6.0\GetSet.AssemblyInfo.cs
+E:\C#\windows\GetSet\GetSet\obj\Debug\net6.0\GetSet.csproj.CoreCompileInputs.cache
+E:\C#\windows\GetSet\GetSet\bin\Debug\net6.0\GetSet.exe
+E:\C#\windows\GetSet\GetSet\bin\Debug\net6.0\GetSet.deps.json
+E:\C#\windows\GetSet\GetSet\bin\Debug\net6.0\GetSet.runtimeconfig.json
+E:\C#\windows\GetSet\GetSet\bin\Debug\net6.0\GetSet.dll
+E:\C#\windows\GetSet\GetSet\bin\Debug\net6.0\ref\GetSet.dll
+E:\C#\windows\GetSet\GetSet\bin\Debug\net6.0\GetSet.pdb
+E:\C#\windows\GetSet\GetSet\obj\Debug\net6.0\GetSet.dll
+E:\C#\windows\GetSet\GetSet\obj\Debug\net6.0\ref\GetSet.dll
+E:\C#\windows\GetSet\GetSet\obj\Debug\net6.0\GetSet.pdb
+E:\C#\windows\GetSet\GetSet\obj\Debug\net6.0\GetSet.genruntimeconfig.cache

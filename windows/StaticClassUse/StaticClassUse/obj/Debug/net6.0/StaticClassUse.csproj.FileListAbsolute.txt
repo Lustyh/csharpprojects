@@ -1,0 +1,15 @@
+E:\C#\windows\StaticClassUse\StaticClassUse\bin\Debug\net6.0\StaticClassUse.exe
+E:\C#\windows\StaticClassUse\StaticClassUse\bin\Debug\net6.0\StaticClassUse.deps.json
+E:\C#\windows\StaticClassUse\StaticClassUse\bin\Debug\net6.0\StaticClassUse.runtimeconfig.json
+E:\C#\windows\StaticClassUse\StaticClassUse\bin\Debug\net6.0\StaticClassUse.dll
+E:\C#\windows\StaticClassUse\StaticClassUse\bin\Debug\net6.0\ref\StaticClassUse.dll
+E:\C#\windows\StaticClassUse\StaticClassUse\bin\Debug\net6.0\StaticClassUse.pdb
+E:\C#\windows\StaticClassUse\StaticClassUse\obj\Debug\net6.0\StaticClassUse.csproj.AssemblyReference.cache
+E:\C#\windows\StaticClassUse\StaticClassUse\obj\Debug\net6.0\StaticClassUse.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\StaticClassUse\StaticClassUse\obj\Debug\net6.0\StaticClassUse.AssemblyInfoInputs.cache
+E:\C#\windows\StaticClassUse\StaticClassUse\obj\Debug\net6.0\StaticClassUse.AssemblyInfo.cs
+E:\C#\windows\StaticClassUse\StaticClassUse\obj\Debug\net6.0\StaticClassUse.csproj.CoreCompileInputs.cache
+E:\C#\windows\StaticClassUse\StaticClassUse\obj\Debug\net6.0\StaticClassUse.dll
+E:\C#\windows\StaticClassUse\StaticClassUse\obj\Debug\net6.0\ref\StaticClassUse.dll
+E:\C#\windows\StaticClassUse\StaticClassUse\obj\Debug\net6.0\StaticClassUse.pdb
+E:\C#\windows\StaticClassUse\StaticClassUse\obj\Debug\net6.0\StaticClassUse.genruntimeconfig.cache

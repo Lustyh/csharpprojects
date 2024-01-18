@@ -1,0 +1,82 @@
+[Start Server][13:35:51:955]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][13:53:43:059]:IP=127.0.0.1:55415 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-02", "async_test": false, "num_unit": 4}^
+[TCP send][13:53:43:498]:IP=127.0.0.1:55415 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-02", "result": "OK"}^
+[Start Server][13:56:05:778]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][13:56:15:440]:IP=127.0.0.1:55501 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-02", "async_test": false, "num_unit": 4}^
+[TCP send][13:56:15:837]:IP=127.0.0.1:55501 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-02", "result": "OK"}^
+[TCP recv][13:57:29:652]:IP=127.0.0.1:55545 TYPE=START;SN=1HF65006337020105R0000C;FIX=05
+[DEBUG][13:57:29:653]:multiple_up
+[DEBUG][13:57:29:653]:11
+[TCP send][13:57:29:682]:IP=127.0.0.1:55545 PASS
+[TCP recv][13:58:02:779]:IP=127.0.0.1:55562 TYPE=START;SN=1HF65006337020105R0000C;FIX=05
+[DEBUG][13:58:02:780]:multiple_up
+[DEBUG][13:58:02:780]:11
+[TCP send][13:58:02:789]:IP=127.0.0.1:55562 PASS
+[TCP recv][13:58:10:740]:IP=127.0.0.1:55567 TYPE=START;SN=1HF65006337020105R0000C;FIX=05
+[DEBUG][13:58:10:753]:multiple_up
+[DEBUG][13:58:10:755]:11
+[TCP send][13:58:10:767]:IP=127.0.0.1:55567 PASS
+[TCP recv][13:58:21:517]:IP=127.0.0.1:55574 TYPE=START;SN=1HF65006337020105R0000D;FIX=06
+[DEBUG][13:58:21:519]:multiple_up
+[DEBUG][13:58:21:521]:11
+[TCP send][13:58:21:555]:IP=127.0.0.1:55574 PASS
+[TCP recv][13:58:42:959]:IP=127.0.0.1:55597 TYPE=START;SN=1HF65006337020105R0000E;FIX=07
+[DEBUG][13:58:42:963]:multiple_up
+[DEBUG][13:58:42:965]:11
+[TCP send][13:58:42:987]:IP=127.0.0.1:55597 PASS
+[TCP recv][13:59:28:334]:IP=127.0.0.1:55649 TYPE=START;SN=1HF65006337020105R0000F;FIX=08
+[DEBUG][13:59:28:334]:multiple_up
+[DEBUG][13:59:28:334]:11
+[TCP send][13:59:28:350]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "multiple_up", "slot_id": 0, "dut_id": ["1HF65006337020105R0000C", "1HF65006337020105R0000D", "1HF65006337020105R0000E", "1HF65006337020105R0000F", "", "", "", ""]}^
+[TCP send][13:59:28:350]:IP=127.0.0.1:55649 PASS
+[TCP recv][13:59:28:524]:IP=127.0.0.1:55501 {"message_id": "ack", "result": "OK", "station_id": "HDMI-02", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][13:59:28:625]:IP=127.0.0.1:55501 {"message_id": "error", "station_id": "HDMI-02", "slot_id": 0, "error_code": "cmd_validate", "error": "Invalid dut_id elements count(8)"}^
+[TCP send][13:59:28:626]:IP=127.0.0.1:55501 {"message_id": "ack",  "ack_id": "error","station_id": "HDMI-02", "result": "OK", "slot_id": 0}^
+[Start Server][14:02:07:211]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][14:02:07:683]:IP=127.0.0.1:55732 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-02", "async_test": false, "num_unit": 4}^
+[TCP send][14:02:08:067]:IP=127.0.0.1:55732 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-02", "result": "OK"}^
+[TCP recv][14:02:27:662]:IP=127.0.0.1:55757 TYPE=START;SN=1HF65006337020105R0000C;FIX=05
+[DEBUG][14:02:27:663]:multiple_up
+[DEBUG][14:02:27:663]:11
+[TCP send][14:02:27:691]:IP=127.0.0.1:55757 PASS
+[TCP recv][14:02:38:901]:IP=127.0.0.1:55768 TYPE=START;SN=1HF65006337020105R0000D;FIX=06
+[DEBUG][14:02:38:901]:multiple_up
+[DEBUG][14:02:38:901]:11
+[TCP send][14:02:38:929]:IP=127.0.0.1:55768 PASS
+[TCP recv][14:02:47:057]:IP=127.0.0.1:55777 TYPE=START;SN=1HF65006337020105R0000E;FIX=07
+[DEBUG][14:02:47:061]:multiple_up
+[DEBUG][14:02:47:061]:11
+[TCP send][14:02:47:073]:IP=127.0.0.1:55777 PASS
+[TCP recv][14:03:08:265]:IP=127.0.0.1:55804 TYPE=START;SN=1HF65006337020105R0000F;FIX=08
+[DEBUG][14:03:08:274]:multiple_up
+[DEBUG][14:03:08:277]:11
+[TCP send][14:03:08:295]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "multiple_up", "slot_id": 0, "dut_id": ["1HF65006337020105R0000C", "1HF65006337020105R0000D", "1HF65006337020105R0000E", "1HF65006337020105R0000F", "", "", "", ""]}^
+[TCP send][14:03:08:337]:IP=127.0.0.1:55804 PASS
+[TCP recv][14:03:08:542]:IP=127.0.0.1:55732 {"message_id": "ack", "result": "OK", "station_id": "HDMI-02", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][14:03:08:643]:IP=127.0.0.1:55732 {"message_id": "error", "station_id": "HDMI-02", "slot_id": 0, "error_code": "cmd_validate", "error": "Invalid dut_id elements count(8)"}^
+[TCP send][14:03:08:656]:IP=127.0.0.1:55732 {"message_id": "ack",  "ack_id": "error","station_id": "HDMI-02", "result": "OK", "slot_id": 0}^
+[Start Server][14:05:28:938]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][14:05:30:048]:IP=127.0.0.1:55899 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-02", "async_test": false, "num_unit": 4}^
+[TCP send][14:05:30:429]:IP=127.0.0.1:55899 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-02", "result": "OK"}^
+[TCP recv][14:05:45:187]:IP=127.0.0.1:55915 TYPE=START;SN=1HF65006337020105R0000C;FIX=05
+[DEBUG][14:05:45:188]:multiple_up
+[DEBUG][14:05:45:188]:11
+[TCP send][14:05:45:223]:IP=127.0.0.1:55915 PASS
+[TCP recv][14:05:57:314]:IP=127.0.0.1:55922 TYPE=START;SN=1HF65006337020105R0000D;FIX=06
+[DEBUG][14:05:57:314]:multiple_up
+[DEBUG][14:05:57:314]:11
+[TCP send][14:05:57:344]:IP=127.0.0.1:55922 PASS
+[TCP recv][14:06:04:081]:IP=127.0.0.1:55927 TYPE=START;SN=1HF65006337020105R0000E;FIX=07
+[DEBUG][14:06:04:084]:multiple_up
+[DEBUG][14:06:04:084]:11
+[TCP send][14:06:04:101]:IP=127.0.0.1:55927 PASS
+[TCP recv][14:06:19:323]:IP=127.0.0.1:55936 TYPE=START;SN=1HF65006337020105R0000F;FIX=08
+[DEBUG][14:06:19:329]:multiple_up
+[DEBUG][14:06:19:331]:11
+[TCP send][14:06:19:345]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "multiple_up", "slot_id": 0, "dut_id": ["", "", "", ""]}^
+[TCP send][14:06:19:386]:IP=127.0.0.1:55936 PASS
+[TCP recv][14:06:19:512]:IP=127.0.0.1:55899 {"message_id": "ack", "result": "OK", "station_id": "HDMI-02", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][14:06:19:613]:IP=127.0.0.1:55899 {"message_id": "ready", "station_id": "HDMI-02"}^
+[TCP send][14:06:19:687]:IP=127.0.0.1:55899 {"message_id": "ack",  "ack_id": "ready","station_id": "HDMI-02", "result": "OK"}^
+[TCP recv][14:08:27:678]:IP=127.0.0.1:56049 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-02", "async_test": false, "num_unit": 4}^
+[TCP send][14:08:28:025]:IP=127.0.0.1:56049 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-02", "result": "OK"}^

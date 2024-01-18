@@ -1,0 +1,47 @@
+[Start Server][09:33:45:198]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][09:36:52:102]:IP=169.254.22.183:56934 {"message_id": "online", "project_id": "SABRINA", "station_id": "NHE_F2-M22_FATP-HDMI_02", "async_test": true, "num_unit": 4}^
+[TCP send][09:36:52:790]:IP=169.254.22.183:56934 {"message_id": "ack",  "ack_id": "online","station_id": "NHE_F2-M22_FATP-HDMI_02", "result": "OK"}^
+[TCP recv][09:37:15:719]:IP=169.254.22.183:56939 {"message_id": "online", "project_id": "SABRINA", "station_id": "NHE_F2-M22_FATP-HDMI_02", "async_test": true, "num_unit": 4}^
+[TCP send][09:37:15:924]:IP=169.254.22.183:56939 {"message_id": "ack",  "ack_id": "online","station_id": "NHE_F2-M22_FATP-HDMI_02", "result": "OK"}^
+[TCP recv][09:46:53:390]:IP=127.0.0.1:55799 TYPE=START;SN=WIP01061HFDD000AU;FIX=05
+[DEBUG][09:46:53:391]:multiple_up
+[DEBUG][09:46:53:392]:11
+[TCP send][09:46:53:442]:IP=127.0.0.1:55799 PASS
+[Start Server][09:47:34:217]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][09:47:34:839]:IP=169.254.22.183:56975 {"message_id": "online", "project_id": "SABRINA", "station_id": "NHE_F2-M22_FATP-HDMI_02", "async_test": true, "num_unit": 4}^
+[TCP send][09:47:35:210]:IP=169.254.22.183:56975 {"message_id": "ack",  "ack_id": "online","station_id": "NHE_F2-M22_FATP-HDMI_02", "result": "OK"}^
+[TCP recv][09:47:40:034]:IP=127.0.0.1:55803 TYPE=START;SN=WIP01061HFDD000AU;FIX=05
+[DEBUG][09:47:40:034]:async_test
+[DEBUG][09:47:40:035]:10
+[TCP send][09:47:40:090]:IP=169.254.22.183 {"message_id": "test_start", "test_type": "async_test", "slot_id": 0, "dut_id": "WIP01061HFDD000AU"}^
+[TCP send][09:47:40:090]:IP=127.0.0.1:55803 PASS
+[TCP recv][09:47:40:417]:IP=169.254.22.183:56975 {"message_id": "ack", "result": "OK", "station_id": "NHE_F2-M22_FATP-HDMI_02", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][09:47:40:527]:IP=169.254.22.183:56975 {"message_id": "test_complete", "station_id": "NHE_F2-M22_FATP-HDMI_02", "dut_id": "WIP01061HFDD000AU", "test_result": "ERROR", "slot_id": 0}^
+[TCP send][09:47:40:539]:IP=169.254.22.183:56975 {"message_id": "ack",  "ack_id": "test_complete","station_id": "NHE_F2-M22_FATP-HDMI_02", "result": "OK", "slot_id": 0}^
+[TCP recv][09:47:52:607]:IP=127.0.0.1:55805 TYPE=START;SN=WIP01061HFDD000AU;FIX=05
+[DEBUG][09:47:52:612]:async_test
+[DEBUG][09:47:52:619]:10
+[TCP send][09:47:52:631]:IP=169.254.22.183 {"message_id": "test_start", "test_type": "async_test", "slot_id": 0, "dut_id": "WIP01061HFDD000AU"}^
+[TCP send][09:47:52:654]:IP=127.0.0.1:55805 PASS
+[TCP recv][09:47:52:778]:IP=169.254.22.183:56975 {"message_id": "ack", "result": "OK", "station_id": "NHE_F2-M22_FATP-HDMI_02", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][09:47:52:887]:IP=169.254.22.183:56975 {"message_id": "test_complete", "station_id": "NHE_F2-M22_FATP-HDMI_02", "dut_id": "WIP01061HFDD000AU", "test_result": "ERROR", "slot_id": 0}^
+[TCP send][09:47:52:905]:IP=169.254.22.183:56975 {"message_id": "ack",  "ack_id": "test_complete","station_id": "NHE_F2-M22_FATP-HDMI_02", "result": "OK", "slot_id": 0}^
+[Start Server][09:51:16:464]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][09:51:16:590]:IP=169.254.22.183:56985 {"message_id": "online", "project_id": "SABRINA", "station_id": "NHE_F2-M22_FATP-HDMI_02", "async_test": true, "num_unit": 4}^
+[TCP send][09:51:17:071]:IP=169.254.22.183:56985 {"message_id": "ack",  "ack_id": "online","station_id": "NHE_F2-M22_FATP-HDMI_02", "result": "OK"}^
+[TCP recv][09:51:26:019]:IP=127.0.0.1:55825 TYPE=START;SN=WIP01061HFDD000AU;FIX=05
+[DEBUG][09:51:26:020]:async_test
+[DEBUG][09:51:26:021]:10
+[TCP send][09:51:26:071]:IP=169.254.22.183 {"message_id": "test_start", "test_type": "async_test", "slot_id": 0, "dut_id": "WIP01061HFDD000AU"}^
+[TCP send][09:51:26:071]:IP=127.0.0.1:55825 PASS
+[TCP recv][09:51:26:216]:IP=169.254.22.183:56985 {"message_id": "ack", "result": "OK", "station_id": "NHE_F2-M22_FATP-HDMI_02", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][09:51:26:325]:IP=169.254.22.183:56985 {"message_id": "test_complete", "station_id": "NHE_F2-M22_FATP-HDMI_02", "dut_id": "WIP01061HFDD000AU", "test_result": "ERROR", "slot_id": 0}^
+[TCP send][09:51:26:380]:IP=169.254.22.183:56985 {"message_id": "ack",  "ack_id": "test_complete","station_id": "NHE_F2-M22_FATP-HDMI_02", "result": "OK", "slot_id": 0}^
+[TCP recv][09:58:15:198]:IP=127.0.0.1:55865 TYPE=START;SN=WIP01061HFDD000AU;FIX=05
+[DEBUG][09:58:15:198]:async_test
+[DEBUG][09:58:15:198]:10
+[TCP send][09:58:15:225]:IP=169.254.22.183 {"message_id": "test_start", "test_type": "async_test", "slot_id": 0, "dut_id": "WIP01061HFDD000AU"}^
+[TCP send][09:58:15:226]:IP=127.0.0.1:55865 PASS
+[TCP recv][09:58:15:507]:IP=169.254.22.183:56985 {"message_id": "ack", "result": "OK", "station_id": "NHE_F2-M22_FATP-HDMI_02", "ack_id": "test_start", "slot_id": 0}^
+[TCP recv][09:58:15:617]:IP=169.254.22.183:56985 {"message_id": "test_complete", "station_id": "NHE_F2-M22_FATP-HDMI_02", "dut_id": "WIP01061HFDD000AU", "test_result": "ERROR", "slot_id": 0}^
+[TCP send][09:58:15:636]:IP=169.254.22.183:56985 {"message_id": "ack",  "ack_id": "test_complete","station_id": "NHE_F2-M22_FATP-HDMI_02", "result": "OK", "slot_id": 0}^

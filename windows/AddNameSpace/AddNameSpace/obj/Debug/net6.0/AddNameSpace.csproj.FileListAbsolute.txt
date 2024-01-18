@@ -1,0 +1,15 @@
+E:\C#\windows\AddNameSpace\AddNameSpace\bin\Debug\net6.0\AddNameSpace.exe
+E:\C#\windows\AddNameSpace\AddNameSpace\bin\Debug\net6.0\AddNameSpace.deps.json
+E:\C#\windows\AddNameSpace\AddNameSpace\bin\Debug\net6.0\AddNameSpace.runtimeconfig.json
+E:\C#\windows\AddNameSpace\AddNameSpace\bin\Debug\net6.0\AddNameSpace.dll
+E:\C#\windows\AddNameSpace\AddNameSpace\bin\Debug\net6.0\ref\AddNameSpace.dll
+E:\C#\windows\AddNameSpace\AddNameSpace\bin\Debug\net6.0\AddNameSpace.pdb
+E:\C#\windows\AddNameSpace\AddNameSpace\obj\Debug\net6.0\AddNameSpace.csproj.AssemblyReference.cache
+E:\C#\windows\AddNameSpace\AddNameSpace\obj\Debug\net6.0\AddNameSpace.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\AddNameSpace\AddNameSpace\obj\Debug\net6.0\AddNameSpace.AssemblyInfoInputs.cache
+E:\C#\windows\AddNameSpace\AddNameSpace\obj\Debug\net6.0\AddNameSpace.AssemblyInfo.cs
+E:\C#\windows\AddNameSpace\AddNameSpace\obj\Debug\net6.0\AddNameSpace.csproj.CoreCompileInputs.cache
+E:\C#\windows\AddNameSpace\AddNameSpace\obj\Debug\net6.0\AddNameSpace.dll
+E:\C#\windows\AddNameSpace\AddNameSpace\obj\Debug\net6.0\ref\AddNameSpace.dll
+E:\C#\windows\AddNameSpace\AddNameSpace\obj\Debug\net6.0\AddNameSpace.pdb
+E:\C#\windows\AddNameSpace\AddNameSpace\obj\Debug\net6.0\AddNameSpace.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\C#\windows\ReloadingFun\ReloadingFun\obj\Debug\net6.0\ReloadingFun.csproj.AssemblyReference.cache
+E:\C#\windows\ReloadingFun\ReloadingFun\obj\Debug\net6.0\ReloadingFun.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\ReloadingFun\ReloadingFun\obj\Debug\net6.0\ReloadingFun.AssemblyInfoInputs.cache
+E:\C#\windows\ReloadingFun\ReloadingFun\obj\Debug\net6.0\ReloadingFun.AssemblyInfo.cs
+E:\C#\windows\ReloadingFun\ReloadingFun\obj\Debug\net6.0\ReloadingFun.csproj.CoreCompileInputs.cache
+E:\C#\windows\ReloadingFun\ReloadingFun\bin\Debug\net6.0\ReloadingFun.exe
+E:\C#\windows\ReloadingFun\ReloadingFun\bin\Debug\net6.0\ReloadingFun.deps.json
+E:\C#\windows\ReloadingFun\ReloadingFun\bin\Debug\net6.0\ReloadingFun.runtimeconfig.json
+E:\C#\windows\ReloadingFun\ReloadingFun\bin\Debug\net6.0\ReloadingFun.dll
+E:\C#\windows\ReloadingFun\ReloadingFun\bin\Debug\net6.0\ref\ReloadingFun.dll
+E:\C#\windows\ReloadingFun\ReloadingFun\bin\Debug\net6.0\ReloadingFun.pdb
+E:\C#\windows\ReloadingFun\ReloadingFun\obj\Debug\net6.0\ReloadingFun.dll
+E:\C#\windows\ReloadingFun\ReloadingFun\obj\Debug\net6.0\ref\ReloadingFun.dll
+E:\C#\windows\ReloadingFun\ReloadingFun\obj\Debug\net6.0\ReloadingFun.pdb
+E:\C#\windows\ReloadingFun\ReloadingFun\obj\Debug\net6.0\ReloadingFun.genruntimeconfig.cache

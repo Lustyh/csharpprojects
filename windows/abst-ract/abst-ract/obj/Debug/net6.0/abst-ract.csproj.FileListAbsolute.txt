@@ -1,0 +1,14 @@
+E:\C#\windows\abst-ract\abst-ract\bin\Debug\net6.0\abst-ract.exe
+E:\C#\windows\abst-ract\abst-ract\bin\Debug\net6.0\abst-ract.deps.json
+E:\C#\windows\abst-ract\abst-ract\bin\Debug\net6.0\abst-ract.runtimeconfig.json
+E:\C#\windows\abst-ract\abst-ract\bin\Debug\net6.0\abst-ract.dll
+E:\C#\windows\abst-ract\abst-ract\bin\Debug\net6.0\ref\abst-ract.dll
+E:\C#\windows\abst-ract\abst-ract\bin\Debug\net6.0\abst-ract.pdb
+E:\C#\windows\abst-ract\abst-ract\obj\Debug\net6.0\abst-ract.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\abst-ract\abst-ract\obj\Debug\net6.0\abst-ract.AssemblyInfoInputs.cache
+E:\C#\windows\abst-ract\abst-ract\obj\Debug\net6.0\abst-ract.AssemblyInfo.cs
+E:\C#\windows\abst-ract\abst-ract\obj\Debug\net6.0\abst-ract.csproj.CoreCompileInputs.cache
+E:\C#\windows\abst-ract\abst-ract\obj\Debug\net6.0\abst-ract.dll
+E:\C#\windows\abst-ract\abst-ract\obj\Debug\net6.0\ref\abst-ract.dll
+E:\C#\windows\abst-ract\abst-ract\obj\Debug\net6.0\abst-ract.pdb
+E:\C#\windows\abst-ract\abst-ract\obj\Debug\net6.0\abst-ract.genruntimeconfig.cache

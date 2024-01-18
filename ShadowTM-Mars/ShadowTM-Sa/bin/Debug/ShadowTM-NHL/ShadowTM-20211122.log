@@ -1,0 +1,65 @@
+[Delete log][15:45:45:971]remove file:ShadowTM-20211105.log
+[Delete log][15:45:46:029]remove file:Shopfloor-20211105.log
+[STA][15:45:46:049]Start server
+[SYS][15:45:48:287]Start in port 37001
+[INT][15:45:48:335]Plugin init success
+[TCP recv][15:46:14:784]IP=127.0.0.1:55254 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [1]}^
+[TCP send][15:46:15:134]IP=127.0.0.1:55254 {"message_id": "station_verify_result","station_id": "NHL_P3-K19_FATP-PROV_01", "result": "OK"}^
+[TCP recv][15:46:15:446]IP=127.0.0.1:55254 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][15:46:15:561]IP=127.0.0.1:55254 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0}^
+[SYS][15:49:06:877]Console:TYPE=START;SN=WIPSDKFJKS;FIX=1
+[RUN][15:49:06:883]CMD:TYPE=START;SN=WIPSDKFJKS;FIX=1
+[TCP send][15:49:06:890]IP=127.0.0.1 {"message_id": "test_start","station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"]}^
+[SYS][15:49:06:896]Result:PASS
+[TCP recv][15:49:07:168]IP=127.0.0.1:55254 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"], "ack_id": "test_start"}^
+[TCP recv][15:49:07:278]IP=127.0.0.1:55254 {"message_id": "error", "error_code": "test_start", "error_description": "Invalid dut_id: ['WIPSDKFJKS'], scan_sn: False", "corresponding_msg": {"message_id": "test_start", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"]}}^
+[SYS][15:49:16:103]Console:TYPE=STATUS;FIX=ALL
+[RUN][15:49:16:116]CMD:TYPE=STATUS;FIX=ALL
+[SYS][15:49:16:122]Result:5000
+[TCP recv][15:51:55:630]IP=127.0.0.1:55556 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [1]}^
+[TCP send][15:51:55:752]IP=127.0.0.1:55556 {"message_id": "station_verify_result","station_id": "NHL_P3-K19_FATP-PROV_01", "result": "OK"}^
+[TCP recv][15:51:56:066]IP=127.0.0.1:55556 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][15:51:57:060]IP=127.0.0.1:55556 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0}^
+[TCP recv][15:52:41:560]IP=127.0.0.1:55608 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [1]}^
+[TCP send][15:52:41:670]IP=127.0.0.1:55608 {"message_id": "station_verify_result","station_id": "NHL_P3-K19_FATP-PROV_01", "result": "OK"}^
+[TCP recv][15:52:41:999]IP=127.0.0.1:55608 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][15:52:42:764]IP=127.0.0.1:55608 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0}^
+[SYS][15:52:46:222]Console:TYPE=START;SN=WIPSDKFJKS;FIX=1
+[RUN][15:52:46:240]CMD:TYPE=START;SN=WIPSDKFJKS;FIX=1
+[TCP send][15:52:46:245]IP=127.0.0.1 {"message_id": "test_start","station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"]}^
+[SYS][15:52:46:251]Result:PASS
+[TCP recv][15:52:46:473]IP=127.0.0.1:55608 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"], "ack_id": "test_start"}^
+[TCP recv][15:52:46:807]IP=127.0.0.1:55608 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "slot_id": 0, "dut_id": "WIPSDKFJKS", "result": "PASS", "extra_info": ""}^
+[TCP recv][15:52:46:918]IP=127.0.0.1:55608 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0}^
+[SYS][15:52:49:987]Console:TYPE=STATUS;FIX=ALL
+[RUN][15:52:50:000]CMD:TYPE=STATUS;FIX=ALL
+[SYS][15:52:50:012]Result:4000
+[TCP recv][15:55:35:379]IP=127.0.0.1:55711 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [1]}^
+[TCP send][15:55:35:488]IP=127.0.0.1:55711 {"message_id": "station_verify_result","station_id": "NHL_P3-K19_FATP-PROV_01", "result": "OK"}^
+[TCP recv][15:55:35:710]IP=127.0.0.1:55711 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][15:55:36:262]IP=127.0.0.1:55711 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0}^
+[SYS][15:55:53:747]Console:TYPE=START;SN=WIPSDKFJKS;FIX=1
+[RUN][15:55:53:755]CMD:TYPE=START;SN=WIPSDKFJKS;FIX=1
+[TCP send][15:55:53:761]IP=127.0.0.1 {"message_id": "test_start","station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"]}^
+[SYS][15:55:53:769]Result:PASS
+[TCP recv][15:55:54:008]IP=127.0.0.1:55711 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"], "ack_id": "test_start"}^
+[TCP recv][15:55:54:338]IP=127.0.0.1:55711 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "slot_id": 0, "dut_id": "WIPSDKFJKS", "result": "ERROR", "extra_info": ""}^
+[TCP send][15:55:54:557]IP=127.0.0.1 {"message_id": "test_start","station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"]}^
+[TCP recv][15:55:54:580]IP=127.0.0.1:55711 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0}^
+[TCP recv][15:55:54:775]IP=127.0.0.1:55711 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"], "ack_id": "test_start"}^
+[TCP recv][15:55:55:105]IP=127.0.0.1:55711 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "slot_id": 0, "dut_id": "WIPSDKFJKS", "result": "ERROR", "extra_info": ""}^
+[TCP recv][15:55:55:216]IP=127.0.0.1:55711 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0}^
+[TCP recv][15:56:19:935]IP=127.0.0.1:55783 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [1]}^
+[TCP send][15:56:20:046]IP=127.0.0.1:55783 {"message_id": "station_verify_result","station_id": "NHL_P3-K19_FATP-PROV_01", "result": "OK"}^
+[TCP recv][15:56:20:379]IP=127.0.0.1:55783 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][15:56:21:051]IP=127.0.0.1:55783 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0}^
+[SYS][15:56:21:475]Console:TYPE=START;SN=WIPSDKFJKS;FIX=1
+[RUN][15:56:21:485]CMD:TYPE=START;SN=WIPSDKFJKS;FIX=1
+[TCP send][15:56:21:492]IP=127.0.0.1 {"message_id": "test_start","station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"]}^
+[SYS][15:56:21:499]Result:PASS
+[TCP recv][15:56:21:814]IP=127.0.0.1:55783 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "dut_id": ["WIPSDKFJKS"], "ack_id": "test_start"}^
+[SYS][15:56:24:589]Console:TYPE=STATUS;FIX=ALL
+[RUN][15:56:24:602]CMD:TYPE=STATUS;FIX=ALL
+[SYS][15:56:24:608]Result:5000
+[TCP recv][15:56:27:178]IP=127.0.0.1:55783 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0, "slot_id": 0, "dut_id": "WIPSDKFJKS", "result": "PASS", "extra_info": ""}^
+[TCP recv][15:56:27:304]IP=127.0.0.1:55783 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "NHL_P3-K19_FATP-PROV_01", "group_id": 0}^

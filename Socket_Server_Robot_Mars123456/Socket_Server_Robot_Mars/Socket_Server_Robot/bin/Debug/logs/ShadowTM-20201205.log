@@ -1,0 +1,6 @@
+[Start Server][09:10:44:543]:Server already open, IP:0.0.0.0 Port:9090
+[Start Server][09:24:50:719]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][09:30:37:032]:IP=10.17.79.204:48926 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-01", "async_test": true, "num_unit": 4}^
+[TCP send][09:30:37:416]:IP=10.17.79.204:48926 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-01", "result": "OK"}^
+[TCP recv][09:31:27:862]:IP=10.17.79.204:48950 {"message_id": "online", "project_id": "SABRINA", "station_id": "HDMI-04", "async_test": true, "num_unit": 4}^
+[TCP send][09:31:28:030]:IP=10.17.79.204:48950 {"message_id": "ack",  "ack_id": "online","station_id": "HDMI-04", "result": "OK"}^

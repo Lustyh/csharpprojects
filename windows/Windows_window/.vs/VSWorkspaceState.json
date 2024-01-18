@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Windows_window",
+    "\\Windows_window\\bin",
+    "\\Windows_window\\bin\\Debug",
+    "\\Windows_window\\bin\\Debug\\net6.0-windows",
+    "\\Windows_window\\obj\\Debug",
+    "\\Windows_window\\obj\\Debug\\net6.0-windows"
+  ],
+  "SelectedNode": "\\Windows_window\\Form1.cs",
+  "PreviewInSolutionExplorer": false
+}

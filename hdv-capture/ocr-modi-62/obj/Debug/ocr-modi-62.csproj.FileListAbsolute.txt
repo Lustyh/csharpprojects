@@ -1,0 +1,5 @@
+E:\gitlab\hdv-capture\exe\ocr-modi.exe.config
+E:\gitlab\hdv-capture\ocr-modi-62\obj\Debug\Interop.MODI.dll
+E:\gitlab\hdv-capture\ocr-modi-62\obj\Debug\ocr-modi-62.csproj.ResolveComReference.cache
+E:\gitlab\hdv-capture\ocr-modi-62\obj\Debug\ocr-modi.exe
+E:\gitlab\hdv-capture\ocr-modi-62\obj\Debug\ocr-modi.pdb

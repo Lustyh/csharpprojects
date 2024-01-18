@@ -1,0 +1,14 @@
+E:\C#\windows\EnumTest\EnumTest\bin\Debug\net6.0\EnumTest.exe
+E:\C#\windows\EnumTest\EnumTest\bin\Debug\net6.0\EnumTest.deps.json
+E:\C#\windows\EnumTest\EnumTest\bin\Debug\net6.0\EnumTest.runtimeconfig.json
+E:\C#\windows\EnumTest\EnumTest\bin\Debug\net6.0\EnumTest.dll
+E:\C#\windows\EnumTest\EnumTest\bin\Debug\net6.0\ref\EnumTest.dll
+E:\C#\windows\EnumTest\EnumTest\bin\Debug\net6.0\EnumTest.pdb
+E:\C#\windows\EnumTest\EnumTest\obj\Debug\net6.0\EnumTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\EnumTest\EnumTest\obj\Debug\net6.0\EnumTest.AssemblyInfoInputs.cache
+E:\C#\windows\EnumTest\EnumTest\obj\Debug\net6.0\EnumTest.AssemblyInfo.cs
+E:\C#\windows\EnumTest\EnumTest\obj\Debug\net6.0\EnumTest.csproj.CoreCompileInputs.cache
+E:\C#\windows\EnumTest\EnumTest\obj\Debug\net6.0\EnumTest.dll
+E:\C#\windows\EnumTest\EnumTest\obj\Debug\net6.0\ref\EnumTest.dll
+E:\C#\windows\EnumTest\EnumTest\obj\Debug\net6.0\EnumTest.pdb
+E:\C#\windows\EnumTest\EnumTest\obj\Debug\net6.0\EnumTest.genruntimeconfig.cache

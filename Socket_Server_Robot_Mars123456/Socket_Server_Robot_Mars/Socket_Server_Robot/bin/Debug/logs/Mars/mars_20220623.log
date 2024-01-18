@@ -1,0 +1,36 @@
+[TCP recv][11:13:25:644]:IP=223.104.251.44:27285 {"message_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [1]}^
+[Split][11:13:25:681]:{"message_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [1]}^
+[TCP send][11:13:25:940]:{"message_id": "ack", "ack_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [ 1]}^
+[TCP send][11:13:26:315]:IP=223.104.251.44:27285 {"message_id": "station_verify_result","station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK"}^
+[TCP recv][11:13:27:272]:IP=223.104.251.44:27285 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK", "ack_id": "station_verify_result"}^
+[Split][11:13:27:277]:{"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][11:13:27:737]:IP=223.104.251.44:27285 {"message_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[Split][11:13:27:755]:{"message_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[TCP send][11:13:27:760]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[TCP recv][14:19:05:184]:IP=223.104.251.44:27287 {"message_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [1]}^
+[Split][14:19:07:341]:{"message_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [1]}^
+[TCP send][14:19:07:704]:{"message_id": "ack", "ack_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [ 1]}^
+[TCP send][14:19:08:060]:IP=223.104.251.44:27287 {"message_id": "station_verify_result","station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK"}^
+[TCP recv][14:19:09:027]:IP=223.104.251.44:27287 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK", "ack_id": "station_verify_result"}^
+[Split][14:19:09:031]:{"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:19:09:840]:IP=223.104.251.44:27287 {"message_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[Split][14:19:09:845]:{"message_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[TCP send][14:19:09:851]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[TCP recv][14:21:10:562]:IP=223.104.251.44:27288 {"message_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [1]}^
+[Split][14:21:10:566]:{"message_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [1]}^
+[TCP send][14:21:10:569]:{"message_id": "ack", "ack_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [ 1]}^
+[TCP send][14:21:10:900]:IP=223.104.251.44:27288 {"message_id": "station_verify_result","station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK"}^
+[TCP recv][14:21:11:756]:IP=223.104.251.44:27288 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK", "ack_id": "station_verify_result"}^
+[Split][14:21:11:759]:{"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:21:12:246]:IP=223.104.251.44:27288 {"message_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[Split][14:21:12:251]:{"message_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[TCP send][14:21:12:256]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[TCP recv][15:18:35:637]:IP=223.104.251.44:27294 {"message_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [1]}^
+[Split][15:18:35:646]:{"message_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [1]}^
+[TCP send][15:18:35:657]:{"message_id": "ack", "ack_id": "station_online", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "test_mode": "LOCAL", "test_profile": "rel-pre", "slot_num_by_group": [ 1]}^
+[TCP send][15:18:35:981]:IP=223.104.251.44:27294 {"message_id": "station_verify_result","station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK"}^
+[TCP recv][15:18:36:791]:IP=223.104.251.44:27294 {"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK", "ack_id": "station_verify_result"}^
+[Split][15:18:36:799]:{"message_id": "ack", "station_id": "NHL_P3-K19_FATP-PROV_02", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][15:18:37:268]:IP=223.104.251.44:27294 {"message_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[Split][15:18:39:017]:{"message_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^
+[TCP send][15:18:39:034]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "K6", "station_id": "NHL_P3-K19_FATP-PROV_02", "group_id": 0}^

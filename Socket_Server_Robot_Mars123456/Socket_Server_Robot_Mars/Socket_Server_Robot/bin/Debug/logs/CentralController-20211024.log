@@ -1,0 +1,985 @@
+[Start Server][08:50:36:644]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][08:52:21:829]:IP=127.0.0.1:54648 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [1]}^
+[TCP send][08:52:22:289]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 1]}^
+[TCP send][08:52:22:436]:IP=127.0.0.1:54648 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][08:52:22:631]:IP=127.0.0.1:54648 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][08:52:22:733]:IP=127.0.0.1:54648 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][08:52:22:733]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][08:52:22:742]:AAB
+[Start Server][08:53:31:410]:Server already open, IP:0.0.0.0 Port:9090
+[Start Server][08:54:01:094]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][08:54:22:360]:IP=127.0.0.1:52786 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [1]}^
+[TCP send][08:54:22:498]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 1]}^
+[TCP send][08:54:22:626]:IP=127.0.0.1:52786 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][08:54:22:963]:IP=127.0.0.1:52786 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][08:54:23:064]:IP=127.0.0.1:52786 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][08:54:23:066]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][08:54:23:083]:AAB
+[TCP recv][08:55:20:679]:IP=127.0.0.1:53026 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [4]}^
+[TCP send][08:55:20:688]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 4]}^
+[TCP send][08:55:20:730]:IP=127.0.0.1:53026 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][08:55:20:881]:IP=127.0.0.1:53026 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][08:55:21:284]:IP=127.0.0.1:53026 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][08:55:21:293]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][08:55:21:307]:AAB
+[Start Server][08:57:32:808]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][08:57:58:860]:IP=127.0.0.1:59357 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [4]}^
+[TCP send][08:57:58:992]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 4]}^
+[TCP send][08:57:59:374]:IP=127.0.0.1:59357 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][08:57:59:566]:IP=127.0.0.1:59357 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][08:57:59:667]:IP=127.0.0.1:59357 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][08:57:59:669]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][08:57:59:731]:AAB
+[TCP recv][09:00:43:924]:IP=127.0.0.1:64638 TYPE=START;SN=WIP12345678;FIX=04
+[DEBUG][09:00:43:929]:async_test
+[DEBUG][09:00:43:933]:10
+[TCP send][09:00:43:980]:IP=127.0.0.1 {"message_id": "test_start", "test_type": "async_test", "slot_id": 3, "dut_id": "WIP12345678"}^
+[TCP send][09:00:44:081]:IP=127.0.0.1:64638 PASS
+[TCP recv][09:00:44:208]:IP=127.0.0.1:59357 {"message_id": "ack", "test_type": "async_test", "slot_id": 3, "dut_id": "WIP12345678", "ack_id": "test_start"}^
+[TCP recv][09:00:44:308]:IP=127.0.0.1:59357 {"message_id": "error", "error_code": "invalid_station_id", "error_description": "station_id is not specified in the message", "corresponding_msg": {"message_id": "test_start", "test_type": "async_test", "slot_id": 3, "dut_id": "WIP12345678"}}^
+[TCP send][09:00:44:317]:{"message_id": "ack", "ack_id": "error", "error_code": "invalid_station_id", "error_description": "station_id is not specified in the message", "corresponding_msg": { "message_id": "test_start", "test_type": "async_test", "slot_id": 3, "dut_id": "WIP12345678"}}^
+[TCP send][09:00:44:328]:IP=127.0.0.1:59357 {"message_id": "error", "error_code": "invalid_station_id", "error_description": "station_id is not specified in the message", "corresponding_msg": {"message_id": "test_start", "test_type": "async_test", "slot_id": 3, "dut_id": "WIP12345678"}}
+Error:未将对象引用设置到对象的实例。
+[Start Server][09:03:19:284]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][09:03:37:707]:IP=127.0.0.1:56159 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [4]}^
+[TCP send][09:03:37:868]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 4]}^
+[TCP send][09:03:38:308]:IP=127.0.0.1:56159 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:03:38:514]:IP=127.0.0.1:56159 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:03:38:616]:IP=127.0.0.1:56159 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:03:38:618]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:03:38:679]:AAB
+[TCP recv][09:04:07:014]:IP=127.0.0.1:58501 TYPE=START;SN=WIP12345678;FIX=04
+[DEBUG][09:04:07:018]:async_test
+[DEBUG][09:04:07:022]:10
+[TCP send][09:04:07:069]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": [WIP12345678]}^
+[TCP send][09:04:07:177]:IP=127.0.0.1:58501 PASS
+[Start Server][09:07:43:252]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][09:08:03:536]:IP=127.0.0.1:52976 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [4]}^
+[TCP send][09:08:03:660]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 4]}^
+[TCP send][09:08:04:090]:IP=127.0.0.1:52976 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:08:04:243]:IP=127.0.0.1:52976 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:08:04:343]:IP=127.0.0.1:52976 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:08:04:345]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:08:04:404]:AAB
+[TCP recv][09:08:05:994]:IP=127.0.0.1:52455 TYPE=START;SN=WIP12345678;FIX=04
+[DEBUG][09:08:05:999]:async_test
+[DEBUG][09:08:06:002]:10
+[TCP send][09:08:06:046]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}^
+[TCP send][09:08:06:141]:IP=127.0.0.1:52455 PASS
+[TCP recv][09:08:06:256]:IP=127.0.0.1:52976 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:08:06:356]:IP=127.0.0.1:52976 {"message_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}}^
+[TCP send][09:08:06:365]:{"message_id": "ack", "ack_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": { "message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": [  "WIP12345678" ]}}^
+[TCP send][09:08:06:373]:IP=127.0.0.1:52976 {"message_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}}
+Error:未将对象引用设置到对象的实例。
+[TCP recv][09:20:18:624]:IP=127.0.0.1:53333 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [4]}^
+[TCP send][09:20:18:631]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 4]}^
+[TCP send][09:20:18:856]:IP=127.0.0.1:53333 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:20:19:127]:IP=127.0.0.1:53333 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:20:19:227]:IP=127.0.0.1:53333 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:20:19:237]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:20:19:302]:AAB
+[TCP recv][09:20:23:187]:IP=127.0.0.1:51844 TYPE=START;SN=WIP12345678;FIX=04
+[DEBUG][09:20:23:190]:async_test
+[DEBUG][09:20:23:195]:10
+[TCP send][09:20:23:236]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}^
+[TCP send][09:20:23:339]:IP=127.0.0.1:51844 PASS
+[TCP recv][09:20:23:455]:IP=127.0.0.1:53333 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:20:23:556]:IP=127.0.0.1:53333 {"message_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}}^
+[TCP send][09:20:23:561]:{"message_id": "ack", "ack_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": { "message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": [  "WIP12345678" ]}}^
+[TCP send][09:20:23:565]:IP=127.0.0.1:53333 {"message_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}}
+Error:未将对象引用设置到对象的实例。
+[Start Server][09:27:26:088]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][09:27:44:215]:IP=127.0.0.1:56819 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [4]}^
+[TCP send][09:27:44:323]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 4]}^
+[TCP send][09:27:44:728]:IP=127.0.0.1:56819 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:27:44:920]:IP=127.0.0.1:56819 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:27:45:121]:IP=127.0.0.1:56819 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:27:45:207]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:27:45:269]:AAB
+[TCP recv][09:27:50:791]:IP=127.0.0.1:62002 TYPE=START;SN=WIP12345678;FIX=04
+[DEBUG][09:27:50:795]:async_test
+[DEBUG][09:27:50:798]:10
+[TCP send][09:27:50:847]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}^
+[TCP send][09:27:50:946]:IP=127.0.0.1:62002 PASS
+[TCP recv][09:27:51:062]:IP=127.0.0.1:56819 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:27:51:164]:IP=127.0.0.1:56819 {"message_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}}^
+[TCP send][09:27:51:171]:{"message_id": "ack", "ack_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": { "message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": [  "WIP12345678" ]}}^
+[TCP send][09:27:51:180]:IP=127.0.0.1:56819 {"message_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}}
+Error:未将对象引用设置到对象的实例。
+[TCP recv][09:44:16:303]:IP=127.0.0.1:58324 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [4]}^
+[TCP send][09:44:16:306]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 4]}^
+[TCP send][09:44:16:536]:IP=127.0.0.1:58324 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:44:16:907]:IP=127.0.0.1:58324 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:44:17:311]:IP=127.0.0.1:58324 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:44:17:316]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:44:17:383]:AAB
+[TCP recv][09:44:23:335]:IP=127.0.0.1:58334 TYPE=START;SN=WIP12345678;FIX=04
+[DEBUG][09:44:23:338]:async_test
+[DEBUG][09:44:23:341]:10
+[TCP send][09:44:23:390]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}^
+[TCP send][09:44:23:484]:IP=127.0.0.1:58334 PASS
+[TCP recv][09:44:23:654]:IP=127.0.0.1:58324 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:44:23:754]:IP=127.0.0.1:58324 {"message_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}}^
+[TCP send][09:44:23:760]:{"message_id": "ack", "ack_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": { "message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": [  "WIP12345678" ]}}^
+[TCP send][09:44:23:764]:IP=127.0.0.1:58324 {"message_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}}
+Error:未将对象引用设置到对象的实例。
+[TCP recv][09:46:51:062]:IP=127.0.0.1:52331 TYPE=START;SN=WIP12345678;FIX=1
+[DEBUG][09:46:51:066]:async_test
+[DEBUG][09:46:51:069]:10
+[TCP send][09:46:51:094]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP send][09:46:51:113]:IP=127.0.0.1:52331 PASS
+[ERE][09:47:09:078]:line 301 远程主机强迫关闭了一个现有的连接。
+[TCP recv][09:47:28:605]:IP=127.0.0.1:57235 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [4]}^
+[TCP send][09:47:28:608]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 4]}^
+[TCP send][09:47:28:676]:IP=127.0.0.1:57235 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:47:28:809]:IP=127.0.0.1:57235 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:47:29:312]:IP=127.0.0.1:57235 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:47:29:314]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:47:29:337]:AAB
+[TCP recv][09:47:33:979]:IP=127.0.0.1:53046 TYPE=START;SN=WIP12345678;FIX=1
+[DEBUG][09:47:33:984]:async_test
+[DEBUG][09:47:33:986]:10
+[TCP send][09:47:34:035]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP send][09:47:34:137]:IP=127.0.0.1:53046 PASS
+[TCP recv][09:47:34:344]:IP=127.0.0.1:57235 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:47:34:445]:IP=127.0.0.1:57235 {"message_id": "error", "error_code": "test_start", "error_description": "Incorrect dut sn count: 4, 1", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}}^
+[TCP send][09:47:34:448]:{"message_id": "ack", "ack_id": "error", "error_code": "test_start", "error_description": "Incorrect dut sn count: 4, 1", "corresponding_msg": { "message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": [  "WIP12345678" ]}}^
+[TCP send][09:47:34:451]:IP=127.0.0.1:57235 {"message_id": "error", "error_code": "test_start", "error_description": "Incorrect dut sn count: 4, 1", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}}
+Error:未将对象引用设置到对象的实例。
+[TCP recv][09:50:00:482]:IP=127.0.0.1:54548 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [1, 1, 1, 1]}^
+[TCP send][09:50:00:751]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 1, 1, 1, 1]}^
+[TCP send][09:50:01:208]:IP=127.0.0.1:54548 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:50:01:388]:IP=127.0.0.1:54548 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:50:01:490]:IP=127.0.0.1:54548 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:01:493]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:01:554]:AAB
+[TCP recv][09:50:01:591]:IP=127.0.0.1:54548 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1}^
+[TCP send][09:50:01:608]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1}^
+[debug][09:50:01:657]:AAB
+[TCP recv][09:50:01:739]:IP=127.0.0.1:54548 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2}^
+[TCP send][09:50:01:747]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2}^
+[debug][09:50:01:809]:AAB
+[TCP recv][09:50:01:871]:IP=127.0.0.1:54548 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3}^
+[TCP send][09:50:01:879]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3}^
+[debug][09:50:01:922]:AAB
+[TCP recv][09:50:04:889]:IP=127.0.0.1:62545 TYPE=START;SN=WIP12345678;FIX=1
+[DEBUG][09:50:04:893]:async_test
+[DEBUG][09:50:04:897]:10
+[TCP send][09:50:04:941]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP send][09:50:05:048]:IP=127.0.0.1:62545 PASS
+[TCP recv][09:50:05:214]:IP=127.0.0.1:54548 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:05:316]:IP=127.0.0.1:54548 {"message_id": "error", "error_code": "test_start", "error_description": "Invalid dut_id: ['WIP12345678'], scan_sn: False", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}}^
+[TCP send][09:50:05:321]:{"message_id": "ack", "ack_id": "error", "error_code": "test_start", "error_description": "Invalid dut_id: ['WIP12345678'], scan_sn: False", "corresponding_msg": { "message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": [  "WIP12345678" ]}}^
+[TCP send][09:50:05:326]:IP=127.0.0.1:54548 {"message_id": "error", "error_code": "test_start", "error_description": "Invalid dut_id: ['WIP12345678'], scan_sn: False", "corresponding_msg": {"message_id": "test_start", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}}
+Error:未将对象引用设置到对象的实例。
+[TCP recv][09:50:32:369]:IP=127.0.0.1:55878 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [1, 1, 1, 1]}^
+[TCP send][09:50:32:374]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 1, 1, 1, 1]}^
+[TCP send][09:50:32:647]:IP=127.0.0.1:55878 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:50:32:974]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:50:33:074]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:33:082]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:33:148]:AAB
+[TCP recv][09:50:33:208]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1}^
+[TCP send][09:50:33:216]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1}^
+[debug][09:50:33:258]:AAB
+[TCP recv][09:50:33:320]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2}^
+[TCP send][09:50:33:330]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2}^
+[debug][09:50:33:388]:AAB
+[TCP recv][09:50:33:455]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3}^
+[TCP send][09:50:33:465]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3}^
+[debug][09:50:33:509]:AAB
+[TCP recv][09:50:37:492]:IP=127.0.0.1:64625 TYPE=START;SN=WIP12345678;FIX=1
+[DEBUG][09:50:37:501]:async_test
+[DEBUG][09:50:37:503]:10
+[TCP send][09:50:37:554]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP send][09:50:37:656]:IP=127.0.0.1:64625 PASS
+[TCP recv][09:50:37:808]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:39:722]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:39:726]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:39:823]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:39:828]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:39:883]:AAB
+[DEBUG][09:50:39:923]:async_test
+[DEBUG][09:50:39:926]:10
+[TCP send][09:50:39:953]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:40:127]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:40:933]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:40:938]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:41:033]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:41:038]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:41:107]:AAB
+[DEBUG][09:50:41:146]:async_test
+[DEBUG][09:50:41:150]:10
+[TCP send][09:50:41:177]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:41:338]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:42:243]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:42:295]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:42:345]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:42:353]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:42:408]:AAB
+[DEBUG][09:50:42:458]:async_test
+[DEBUG][09:50:42:461]:10
+[TCP send][09:50:42:494]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:42:649]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:43:558]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:43:564]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:43:659]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:43:663]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:43:711]:AAB
+[DEBUG][09:50:43:755]:async_test
+[DEBUG][09:50:43:758]:10
+[TCP send][09:50:43:786]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:43:963]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:44:868]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:44:875]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:44:970]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:44:980]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:45:023]:AAB
+[DEBUG][09:50:45:070]:async_test
+[DEBUG][09:50:45:077]:10
+[TCP send][09:50:45:114]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:45:272]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:46:179]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:46:190]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:46:281]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:46:289]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:46:342]:AAB
+[DEBUG][09:50:46:418]:async_test
+[DEBUG][09:50:46:427]:10
+[TCP send][09:50:46:469]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:46:684]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:47:699]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:47:707]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:47:800]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:47:811]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:47:854]:AAB
+[DEBUG][09:50:47:899]:async_test
+[DEBUG][09:50:47:905]:10
+[TCP send][09:50:47:935]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:48:103]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:48:911]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:48:921]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:49:012]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:49:026]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:49:077]:AAB
+[DEBUG][09:50:49:128]:async_test
+[DEBUG][09:50:49:140]:10
+[TCP send][09:50:49:167]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:49:416]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:50:223]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:50:245]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:50:325]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:50:339]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:50:388]:AAB
+[DEBUG][09:50:50:439]:async_test
+[DEBUG][09:50:50:451]:10
+[TCP send][09:50:50:484]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:50:627]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:51:535]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:51:543]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:51:636]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:51:644]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:51:698]:AAB
+[DEBUG][09:50:51:749]:async_test
+[DEBUG][09:50:51:754]:10
+[TCP send][09:50:51:790]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:51:940]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:52:859]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:52:873]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:52:960]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:52:973]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:53:020]:AAB
+[DEBUG][09:50:53:071]:async_test
+[DEBUG][09:50:53:076]:10
+[TCP send][09:50:53:106]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:53:263]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:54:182]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:54:192]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:54:283]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:54:290]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:54:332]:AAB
+[DEBUG][09:50:54:381]:async_test
+[DEBUG][09:50:54:387]:10
+[TCP send][09:50:54:422]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:54:586]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:55:499]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:55:509]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:55:600]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:55:608]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:55:650]:AAB
+[DEBUG][09:50:55:697]:async_test
+[DEBUG][09:50:55:703]:10
+[TCP send][09:50:55:732]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:55:903]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:56:821]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:56:830]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:56:922]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:56:933]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:56:979]:AAB
+[DEBUG][09:50:57:028]:async_test
+[DEBUG][09:50:57:039]:10
+[TCP send][09:50:57:066]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:57:225]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:58:138]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:58:149]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:58:239]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:58:249]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:58:308]:AAB
+[DEBUG][09:50:58:355]:async_test
+[DEBUG][09:50:58:360]:10
+[TCP send][09:50:58:396]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:58:643]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:50:59:561]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:50:59:572]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:50:59:662]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:50:59:676]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:50:59:722]:AAB
+[DEBUG][09:50:59:771]:async_test
+[DEBUG][09:50:59:777]:10
+[TCP send][09:50:59:803]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:50:59:965]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:51:00:877]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:51:00:890]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:51:00:979]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:51:00:987]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:51:01:040]:AAB
+[DEBUG][09:51:01:088]:async_test
+[DEBUG][09:51:01:098]:10
+[TCP send][09:51:01:130]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:51:01:281]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:51:02:188]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:51:02:199]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:51:02:288]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:51:02:301]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:51:02:346]:AAB
+[DEBUG][09:51:02:395]:async_test
+[DEBUG][09:51:02:401]:10
+[TCP send][09:51:02:433]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP recv][09:51:02:592]:IP=127.0.0.1:55878 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:51:03:497]:IP=127.0.0.1:55878 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP send][09:51:03:509]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^
+[TCP recv][09:51:03:599]:IP=127.0.0.1:55878 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:51:03:611]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:51:03:667]:AAB
+[DEBUG][09:51:03:688]:async_test
+[DEBUG][09:51:03:701]:10
+[TCP send][09:51:03:720]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[Start Server][09:56:20:085]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][09:56:20:524]:IP=127.0.0.1:60908 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:56:20:739]:IP=127.0.0.1:60908 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}^{"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:56:20:748]:IP=127.0.0.1:60908 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "FAIL", "extra_info": ""}{"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}
+Error:Additional text encountered after finished reading JSON content: {. Path '', line 1, position 185.
+[debug][09:56:20:754]:AAB
+[TCP recv][09:56:33:133]:IP=127.0.0.1:55681 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [1, 1, 1, 1]}^
+[TCP send][09:56:33:185]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "local", "slot_num_by_group": [ 1, 1, 1, 1]}^
+[TCP send][09:56:33:510]:IP=127.0.0.1:55681 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:56:33:738]:IP=127.0.0.1:55681 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:56:33:839]:IP=127.0.0.1:55681 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:56:33:842]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:56:33:898]:AAB
+[TCP recv][09:56:33:943]:IP=127.0.0.1:55681 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1}^
+[TCP send][09:56:33:946]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1}^
+[debug][09:56:33:980]:AAB
+[TCP recv][09:56:34:059]:IP=127.0.0.1:55681 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2}^
+[TCP send][09:56:34:061]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2}^
+[debug][09:56:34:102]:AAB
+[TCP recv][09:56:34:178]:IP=127.0.0.1:55681 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3}^
+[TCP send][09:56:34:183]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3}^
+[debug][09:56:34:230]:AAB
+[TCP recv][09:56:37:923]:IP=127.0.0.1:55696 TYPE=START;SN=WIP12345678;FIX=1
+[DEBUG][09:56:37:927]:async_test
+[DEBUG][09:56:37:930]:10
+[TCP send][09:56:37:981]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP send][09:56:38:080]:IP=127.0.0.1:55696 PASS
+[TCP recv][09:56:38:269]:IP=127.0.0.1:55681 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:56:40:184]:IP=127.0.0.1:55681 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP send][09:56:40:190]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP recv][09:56:40:385]:IP=127.0.0.1:55681 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:56:40:390]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:56:40:432]:AAB
+[TCP recv][09:56:57:106]:IP=127.0.0.1:53408 TYPE=START;SN=WIP12345678;FIX=02
+[DEBUG][09:56:57:110]:async_test
+[DEBUG][09:56:57:112]:10
+[TCP send][09:56:57:137]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1, "dut_id": ["WIP12345678"]}^
+[TCP send][09:56:57:157]:IP=127.0.0.1:53408 PASS
+[TCP recv][09:56:57:284]:IP=127.0.0.1:55681 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:56:58:089]:IP=127.0.0.1:55681 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP send][09:56:58:092]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP recv][09:56:58:191]:IP=127.0.0.1:55681 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1}^
+[TCP send][09:56:58:194]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 1}^
+[debug][09:56:58:251]:AAB
+[TCP recv][09:57:16:752]:IP=127.0.0.1:65029 TYPE=START;SN=WIP12345678;FIX=03
+[DEBUG][09:57:16:756]:async_test
+[DEBUG][09:57:16:760]:10
+[TCP send][09:57:16:786]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2, "dut_id": ["WIP12345678"]}^
+[TCP send][09:57:16:804]:IP=127.0.0.1:65029 PASS
+[TCP recv][09:57:17:008]:IP=127.0.0.1:55681 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:57:17:922]:IP=127.0.0.1:55681 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP send][09:57:17:926]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP recv][09:57:18:023]:IP=127.0.0.1:55681 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2}^
+[TCP send][09:57:18:026]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 2}^
+[debug][09:57:18:082]:AAB
+[TCP recv][09:57:29:500]:IP=127.0.0.1:64829 TYPE=START;SN=WIP12345678;FIX=04
+[DEBUG][09:57:29:504]:async_test
+[DEBUG][09:57:29:509]:10
+[TCP send][09:57:29:536]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"]}^
+[TCP send][09:57:29:562]:IP=127.0.0.1:64829 PASS
+[TCP recv][09:57:29:699]:IP=127.0.0.1:55681 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][09:57:30:505]:IP=127.0.0.1:55681 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP send][09:57:30:510]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP recv][09:57:30:606]:IP=127.0.0.1:55681 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3}^
+[TCP send][09:57:30:614]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 3}^
+[debug][09:57:30:666]:AAB
+[Start Server][09:58:38:089]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][09:58:38:659]:IP=127.0.0.1:57048 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][09:58:38:780]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][09:58:39:115]:IP=127.0.0.1:57048 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:58:39:263]:IP=127.0.0.1:57048 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:58:39:364]:IP=127.0.0.1:57048 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][09:58:39:372]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][09:58:39:435]:AAB
+[TCP recv][09:58:48:353]:IP=127.0.0.1:57048 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][09:58:48:359]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][09:58:48:539]:IP=127.0.0.1:57048 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:58:48:756]:IP=127.0.0.1:57048 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:58:58:311]:IP=127.0.0.1:57048 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][09:58:58:316]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][09:58:58:490]:IP=127.0.0.1:57048 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:58:58:714]:IP=127.0.0.1:57048 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[Start Server][09:59:07:445]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][09:59:08:257]:IP=127.0.0.1:53300 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][09:59:08:357]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][09:59:08:471]:IP=127.0.0.1:53300 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:59:08:761]:IP=127.0.0.1:53300 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:59:18:321]:IP=127.0.0.1:53300 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][09:59:18:325]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][09:59:18:371]:IP=127.0.0.1:53300 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:59:18:525]:IP=127.0.0.1:53300 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:59:28:287]:IP=127.0.0.1:53300 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][09:59:28:300]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][09:59:28:342]:IP=127.0.0.1:53300 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:59:28:488]:IP=127.0.0.1:53300 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][09:59:38:353]:IP=127.0.0.1:53300 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][09:59:38:361]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][09:59:38:405]:IP=127.0.0.1:53300 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][09:59:38:554]:IP=127.0.0.1:53300 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:00:47:820]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:00:47:832]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:00:47:889]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:00:48:123]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:00:48:425]:IP=127.0.0.1:52574 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:00:48:436]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:00:48:461]:AAB
+[TCP recv][10:00:57:285]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:00:57:290]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:00:57:329]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:00:57:587]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:01:00:648]:IP=127.0.0.1:60162 TYPE=START;SN=WIP12345678;FIX=01
+[DEBUG][10:01:00:653]:async_test
+[DEBUG][10:01:00:658]:10
+[TCP send][10:01:00:704]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP send][10:01:00:798]:IP=127.0.0.1:60162 PASS
+[TCP recv][10:01:00:910]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][10:01:02:825]:IP=127.0.0.1:52574 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP send][10:01:02:829]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP recv][10:01:02:926]:IP=127.0.0.1:52574 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:01:02:930]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:01:02:939]:AAB
+[TCP recv][10:01:07:257]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:01:07:260]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:01:07:321]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:01:07:561]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:01:17:318]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:01:17:330]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:01:17:373]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:01:17:520]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:01:27:284]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:01:27:287]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:01:27:319]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:01:27:586]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:01:37:346]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:01:37:350]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:01:37:389]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:01:37:550]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:01:47:310]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:01:47:314]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:01:47:357]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:01:47:512]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:01:57:275]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:01:57:280]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:01:57:318]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:01:57:477]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:02:07:343]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:02:07:348]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:02:07:392]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:02:07:546]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:02:17:342]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:02:17:349]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:02:17:384]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:02:17:545]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:02:27:338]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:02:27:341]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:02:27:385]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:02:27:541]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:02:37:302]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:02:37:306]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:02:37:347]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:02:37:504]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:02:47:268]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:02:47:273]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:02:47:316]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:02:47:470]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:02:57:334]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:02:57:339]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:02:57:380]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:02:57:536]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:03:07:298]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:03:07:302]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:03:07:340]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:03:07:499]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:03:17:264]:IP=127.0.0.1:52574 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:03:17:268]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:03:17:309]:IP=127.0.0.1:52574 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:03:17:465]:IP=127.0.0.1:52574 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[Start Server][10:17:17:134]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][10:17:44:857]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:17:44:959]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:17:45:217]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:17:45:462]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:17:45:662]:IP=127.0.0.1:61660 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:17:45:673]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:17:45:790]:AAB
+[TCP recv][10:17:54:317]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:17:54:322]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:17:54:475]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:17:54:621]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:17:57:347]:IP=127.0.0.1:50746 TYPE=START;SN=WIP12345678;FIX=01
+[DEBUG][10:17:57:352]:async_test
+[DEBUG][10:17:57:358]:10
+[TCP send][10:17:57:399]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP send][10:17:57:501]:IP=127.0.0.1:50746 PASS
+[TCP recv][10:17:57:641]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][10:17:59:660]:IP=127.0.0.1:61660 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP send][10:17:59:663]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP recv][10:17:59:791]:IP=127.0.0.1:61660 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:17:59:819]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:17:59:933]:AAB
+[TCP recv][10:18:04:293]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:18:04:297]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:18:04:461]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:18:04:696]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:18:14:257]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:18:14:267]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:18:14:400]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:18:14:560]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:18:24:325]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:18:24:331]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:18:24:473]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:18:24:627]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:18:34:291]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:18:34:300]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:18:34:439]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:18:34:594]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:18:44:258]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:18:44:262]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:18:44:399]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:18:44:560]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:18:54:320]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:18:54:327]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:18:54:465]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:18:54:622]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:19:04:283]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:19:04:288]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:19:04:427]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:19:04:588]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:19:14:338]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:19:14:344]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:19:14:484]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:19:14:640]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:19:24:305]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:19:24:310]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:19:24:449]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:19:24:607]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:19:34:277]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:19:34:280]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:19:34:423]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:19:34:580]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:19:44:346]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:19:44:350]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:19:44:489]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:19:44:650]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:19:54:313]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:19:54:317]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:19:54:458]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:19:54:616]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:20:04:278]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:20:04:283]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:20:04:425]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:20:04:582]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:20:14:343]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:20:14:350]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:20:14:496]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:20:14:645]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:20:24:307]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:20:24:312]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:20:24:451]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:20:24:609]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:20:34:273]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:20:34:277]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:20:34:417]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:20:34:577]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:20:44:340]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:20:44:345]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:20:44:484]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:20:44:645]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:20:54:305]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:20:54:313]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:20:54:455]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:20:54:609]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:21:04:271]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:21:04:275]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:21:04:415]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:21:04:574]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:21:14:336]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:21:14:346]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:21:14:486]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:21:14:639]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:21:24:298]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:21:24:302]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:21:24:439]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:21:24:601]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:21:34:270]:IP=127.0.0.1:61660 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:21:34:275]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:21:34:415]:IP=127.0.0.1:61660 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:21:34:573]:IP=127.0.0.1:61660 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:22:05:833]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:22:05:838]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:22:05:977]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:22:06:136]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:22:06:237]:IP=127.0.0.1:55530 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:22:06:240]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:22:06:358]:AAB
+[TCP recv][10:22:15:298]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:22:15:306]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:22:15:446]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:22:15:600]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:22:25:262]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:22:25:268]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:22:25:411]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:22:25:564]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:22:35:305]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:22:35:309]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:22:35:451]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:22:35:609]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:22:45:268]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:22:45:271]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:22:45:415]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:22:45:571]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:22:55:335]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:22:55:341]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:22:55:479]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:22:55:637]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:23:05:298]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:23:05:303]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:23:05:441]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:23:05:600]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:23:15:266]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:23:15:269]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:23:15:404]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:23:15:571]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:23:25:345]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:23:25:350]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:23:25:486]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:23:25:648]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:23:35:312]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:23:35:315]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:23:35:452]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:23:35:614]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:23:45:279]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:23:45:283]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:23:45:421]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:23:45:582]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:23:55:347]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:23:55:351]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:23:55:488]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:23:55:650]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:24:05:312]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:24:05:316]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:24:05:459]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:24:05:614]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:24:15:281]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:24:15:284]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:24:15:419]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:24:15:583]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:24:25:345]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:24:25:349]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:24:25:487]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:24:25:648]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:24:35:309]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:24:35:313]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:24:35:452]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:24:35:611]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:24:45:277]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:24:45:281]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:24:45:420]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:24:45:580]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:24:55:340]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:24:55:347]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:24:55:483]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:24:55:644]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:25:05:308]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:25:05:312]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:25:05:451]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:25:05:610]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:25:15:275]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:25:15:281]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:25:15:424]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:25:15:578]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:25:25:340]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:25:25:347]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:25:25:485]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:25:25:644]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:25:35:306]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:25:35:310]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:25:35:446]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:25:35:608]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:25:45:272]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:25:45:277]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:25:45:417]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:25:45:575]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:25:55:334]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:25:55:341]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:25:55:482]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:25:55:636]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:26:05:296]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:26:05:300]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:26:05:439]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:26:05:599]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:26:15:264]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:26:15:267]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:26:15:406]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:26:15:566]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:26:25:331]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:26:25:337]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:26:25:478]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:26:25:633]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:26:35:295]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:26:35:299]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:26:35:437]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:26:35:597]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:26:45:262]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:26:45:267]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:26:45:406]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:26:45:565]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:26:55:330]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:26:55:335]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:26:55:469]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:26:55:633]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:27:05:296]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:27:05:300]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:27:05:448]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:27:05:598]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:27:15:264]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:27:15:268]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:27:15:407]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:27:15:566]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:27:25:327]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:27:25:332]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:27:25:471]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:27:25:630]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:27:35:295]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:27:35:300]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:27:35:439]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:27:35:597]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:27:45:260]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:27:45:267]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:27:45:381]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:27:45:562]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:27:55:326]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:27:55:330]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:27:55:445]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:27:55:629]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:28:05:295]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:28:05:300]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:28:05:412]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:28:05:598]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:28:15:255]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:28:15:262]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:28:15:375]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:28:15:560]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:28:25:324]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:28:25:329]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:28:25:445]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:28:25:627]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:28:35:288]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:28:35:291]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:28:35:408]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:28:35:590]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:28:45:356]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:28:45:360]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:28:45:476]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:28:45:659]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:28:55:320]:IP=127.0.0.1:55530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:28:55:324]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": 132, "slot_num_by_group": [ 1]}^
+[TCP send][10:28:55:439]:IP=127.0.0.1:55530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:28:55:623]:IP=127.0.0.1:55530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[Start Server][10:31:36:678]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][10:31:57:290]:IP=127.0.0.1:59860 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [1]}^
+[TCP send][10:31:57:394]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "132", "slot_num_by_group": [ 1]}^
+[TCP send][10:31:57:629]:IP=127.0.0.1:59860 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:31:57:894]:IP=127.0.0.1:59860 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:31:57:996]:IP=127.0.0.1:59860 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:31:58:000]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:31:58:115]:AAB
+[TCP recv][10:35:38:727]:IP=127.0.0.1:56762 TYPE=START;SN=WIP12345678;FIX=01
+[DEBUG][10:35:38:732]:async_test
+[DEBUG][10:35:38:735]:10
+[TCP send][10:35:38:778]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"]}^
+[TCP send][10:35:38:877]:IP=127.0.0.1:56762 PASS
+[TCP recv][10:35:39:042]:IP=127.0.0.1:59860 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678"], "ack_id": "test_start"}^
+[TCP recv][10:35:41:065]:IP=127.0.0.1:59860 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP send][10:35:41:068]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP recv][10:35:41:197]:IP=127.0.0.1:59860 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:35:41:219]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:35:41:329]:AAB
+[Start Server][10:37:13:225]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][10:37:34:609]:IP=127.0.0.1:52057 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "MultipleUp", "slot_num_by_group": [4]}^
+[TCP send][10:37:34:705]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "MultipleUp", "slot_num_by_group": [ 4]}^
+[TCP send][10:37:35:189]:IP=127.0.0.1:52057 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:37:35:416]:IP=127.0.0.1:52057 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:37:35:517]:IP=127.0.0.1:52057 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:37:35:519]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:37:35:677]:AAB
+[Start Server][10:41:01:680]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][10:41:30:627]:IP=127.0.0.1:58718 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "MultipleUp", "slot_num_by_group": [4]}^
+[TCP send][10:41:30:722]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "MultipleUp", "slot_num_by_group": [ 4]}^
+[TCP send][10:41:31:209]:IP=127.0.0.1:58718 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:41:31:435]:IP=127.0.0.1:58718 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:41:31:536]:IP=127.0.0.1:58718 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:41:31:539]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:41:31:700]:AAB
+[TCP recv][10:41:46:547]:IP=127.0.0.1:53899 TYPE=START;SN=WIP12345678;FIX=01
+[DEBUG][10:41:46:550]:multiple_up
+[DEBUG][10:41:46:559]:11
+[TCP send][10:42:19:751]:IP=127.0.0.1:53899 PASS
+[ERE][10:42:19:884]:line 301 你的主机中的软件中止了一个已建立的连接。
+[Start Server][10:43:23:457]:Server already open, IP:0.0.0.0 Port:9090
+[TCP recv][10:43:44:464]:IP=127.0.0.1:61530 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "MultipleUp", "slot_num_by_group": [4]}^
+[TCP send][10:43:44:621]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "MultipleUp", "slot_num_by_group": [ 4]}^
+[TCP send][10:43:45:123]:IP=127.0.0.1:61530 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:43:45:273]:IP=127.0.0.1:61530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:43:45:374]:IP=127.0.0.1:61530 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:43:45:379]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:43:45:547]:AAB
+[TCP recv][10:43:48:869]:IP=127.0.0.1:50330 TYPE=START;SN=WIP12345678;FIX=01
+[DEBUG][10:43:48:874]:multiple_up
+[DEBUG][10:43:48:877]:11
+[TCP send][10:43:48:928]:IP=127.0.0.1:50330 PASS
+[TCP recv][10:44:05:171]:IP=127.0.0.1:61454 TYPE=START;SN=WIP123456789;FIX=02
+[DEBUG][10:44:05:174]:multiple_up
+[DEBUG][10:44:05:177]:11
+[TCP send][10:44:05:231]:IP=127.0.0.1:61454 PASS
+[TCP recv][10:44:18:664]:IP=127.0.0.1:50030 TYPE=START;SN=WIP123456788;FIX=03
+[DEBUG][10:44:18:671]:multiple_up
+[DEBUG][10:44:18:673]:11
+[TCP send][10:44:18:698]:IP=127.0.0.1:50030 PASS
+[TCP recv][10:44:29:809]:IP=127.0.0.1:63530 TYPE=START;SN=WIP123456787;FIX=04
+[DEBUG][10:44:29:813]:multiple_up
+[DEBUG][10:44:29:816]:11
+[TCP send][10:44:29:839]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678", "WIP123456789", "WIP123456788", "WIP123456787"]}^
+[TCP send][10:44:29:862]:IP=127.0.0.1:63530 PASS
+[TCP recv][10:44:29:980]:IP=127.0.0.1:61530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP12345678", "WIP123456789", "WIP123456788", "WIP123456787"], "ack_id": "test_start"}^
+[TCP recv][10:44:36:532]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP send][10:44:36:539]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP12345678", "result": "PASS", "extra_info": ""}^
+[TCP recv][10:44:36:670]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "WIP123456789", "result": "FAIL", "extra_info": ""}^
+[TCP send][10:44:36:706]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "WIP123456789", "result": "FAIL", "extra_info": ""}^
+[TCP recv][10:44:36:844]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "WIP123456788", "result": "FAIL", "extra_info": ""}^{"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456787", "result": "FAIL", "extra_info": ""}^
+[TCP send][10:44:36:887]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "WIP123456788", "result": "FAIL", "extra_info": ""}{"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456787", "result": "FAIL", "extra_info": ""}
+Error:Additional text encountered after finished reading JSON content: {. Path '', line 1, position 186.
+[TCP recv][10:44:36:937]:IP=127.0.0.1:61530 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:44:36:948]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:44:37:102]:AAB
+[DEBUG][10:44:37:149]:multiple_up
+[DEBUG][10:44:37:154]:11
+[TCP recv][10:44:46:302]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "WIP123456788", "result": "FAIL", "extra_info": ""}^
+[TCP send][10:44:46:312]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "WIP123456788", "result": "FAIL", "extra_info": ""}^
+[TCP recv][10:44:46:442]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456787", "result": "FAIL", "extra_info": ""}^
+[TCP send][10:44:46:472]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456787", "result": "FAIL", "extra_info": ""}^
+[TCP recv][10:44:46:602]:IP=127.0.0.1:61530 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:44:46:629]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:44:46:796]:AAB
+[DEBUG][10:44:46:836]:multiple_up
+[DEBUG][10:44:46:842]:11
+[DEBUG][10:44:46:871]:multiple_up
+[DEBUG][10:44:46:903]:11
+[TCP recv][10:45:23:743]:IP=127.0.0.1:59749 TYPE=START;SN=WIP123456786;FIX=01
+[DEBUG][10:45:23:747]:multiple_up
+[DEBUG][10:45:23:751]:11
+[TCP send][10:45:23:780]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP123456786", "WIP123456789", "WIP123456788", "WIP123456787"]}^
+[TCP send][10:45:23:813]:IP=127.0.0.1:59749 PASS
+[TCP recv][10:45:23:942]:IP=127.0.0.1:61530 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP123456786", "WIP123456789", "WIP123456788", "WIP123456787"], "ack_id": "test_start"}^
+[TCP recv][10:45:28:387]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP123456786", "result": "PASS", "extra_info": ""}^
+[TCP send][10:45:28:391]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP123456786", "result": "PASS", "extra_info": ""}^
+[TCP recv][10:45:28:522]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "WIP123456789", "result": "FAIL", "extra_info": ""}^
+[TCP send][10:45:28:541]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "WIP123456789", "result": "FAIL", "extra_info": ""}^
+[TCP recv][10:45:28:667]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "WIP123456788", "result": "FAIL", "extra_info": ""}^
+[TCP send][10:45:28:690]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "WIP123456788", "result": "FAIL", "extra_info": ""}^
+[TCP recv][10:45:28:813]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456787", "result": "FAIL", "extra_info": ""}^{"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:45:28:835]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456787", "result": "FAIL", "extra_info": ""}{"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}
+Error:Additional text encountered after finished reading JSON content: {. Path '', line 1, position 186.
+[debug][10:45:28:838]:AAB
+[DEBUG][10:45:28:845]:multiple_up
+[DEBUG][10:45:28:848]:11
+[DEBUG][10:45:28:875]:multiple_up
+[DEBUG][10:45:28:901]:11
+[TCP recv][10:45:38:258]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456787", "result": "FAIL", "extra_info": ""}^
+[TCP send][10:45:38:266]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456787", "result": "FAIL", "extra_info": ""}^
+[TCP recv][10:45:38:400]:IP=127.0.0.1:61530 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:45:38:445]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:45:38:610]:AAB
+[DEBUG][10:45:38:667]:multiple_up
+[DEBUG][10:45:38:671]:11
+[TCP recv][10:45:48:326]:IP=127.0.0.1:61530 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456787", "result": "FAIL", "extra_info": ""}^
+[TCP send][10:45:48:330]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456787", "result": "FAIL", "extra_info": ""}^
+[TCP recv][10:46:58:527]:IP=127.0.0.1:52859 {"message_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "MultipleUp", "slot_num_by_group": [4]}^
+[TCP send][10:46:58:530]:{"message_id": "ack", "ack_id": "station_online", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "MultipleUp", "slot_num_by_group": [ 4]}^
+[TCP send][10:46:58:863]:IP=127.0.0.1:52859 {"message_id": "station_verify_result","station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:46:59:131]:IP=127.0.0.1:52859 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:46:59:232]:IP=127.0.0.1:52859 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:46:59:236]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:46:59:387]:AAB
+[TCP recv][10:47:27:075]:IP=127.0.0.1:65007 TYPE=START;SN=WIP123456786;FIX=01
+[DEBUG][10:47:27:079]:multiple_up
+[DEBUG][10:47:27:084]:11
+[TCP send][10:47:27:131]:IP=127.0.0.1:65007 PASS
+[TCP recv][10:47:43:975]:IP=127.0.0.1:59452 TYPE=START;SN=WIP123456787;FIX=02
+[DEBUG][10:47:43:981]:multiple_up
+[DEBUG][10:47:43:984]:11
+[TCP send][10:47:44:010]:IP=127.0.0.1:59452 PASS
+[TCP recv][10:47:58:796]:IP=127.0.0.1:63387 TYPE=START;SN=WIP123456788;FIX=03
+[DEBUG][10:47:58:799]:multiple_up
+[DEBUG][10:47:58:803]:11
+[TCP send][10:47:58:815]:IP=127.0.0.1:63387 PASS
+[TCP recv][10:48:17:578]:IP=127.0.0.1:64540 TYPE=START;SN=WIP123456789;FIX=04
+[DEBUG][10:48:17:582]:multiple_up
+[DEBUG][10:48:17:586]:11
+[TCP send][10:48:17:617]:IP=127.0.0.1 {"message_id": "test_start","station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP123456786", "WIP123456787", "WIP123456788", "WIP123456789"]}^
+[TCP send][10:48:17:644]:IP=127.0.0.1:64540 PASS
+[TCP recv][10:48:17:870]:IP=127.0.0.1:52859 {"message_id": "ack", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "dut_id": ["WIP123456786", "WIP123456787", "WIP123456788", "WIP123456789"], "ack_id": "test_start"}^
+[TCP recv][10:48:24:124]:IP=127.0.0.1:52859 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP123456786", "result": "PASS", "extra_info": ""}^
+[TCP send][10:48:24:128]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "WIP123456786", "result": "PASS", "extra_info": ""}^
+[TCP recv][10:48:24:257]:IP=127.0.0.1:52859 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "WIP123456787", "result": "PASS", "extra_info": ""}^
+[TCP send][10:48:24:266]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "WIP123456787", "result": "PASS", "extra_info": ""}^
+[TCP recv][10:48:24:398]:IP=127.0.0.1:52859 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "WIP123456788", "result": "PASS", "extra_info": ""}^
+[TCP send][10:48:24:418]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "WIP123456788", "result": "PASS", "extra_info": ""}^
+[TCP recv][10:48:24:542]:IP=127.0.0.1:52859 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456789", "result": "PASS", "extra_info": ""}^{"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:48:24:565]:IP=127.0.0.1:52859 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456789", "result": "PASS", "extra_info": ""}{"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}
+Error:Additional text encountered after finished reading JSON content: {. Path '', line 1, position 186.
+[debug][10:48:24:571]:AAB
+[TCP recv][10:48:34:296]:IP=127.0.0.1:52859 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456789", "result": "PASS", "extra_info": ""}^
+[TCP send][10:48:34:300]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456789", "result": "PASS", "extra_info": ""}^
+[TCP recv][10:48:34:428]:IP=127.0.0.1:52859 {"message_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[TCP send][10:48:34:451]:{"message_id": "ack", "ack_id": "station_ready", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0}^
+[debug][10:48:34:620]:AAB
+[TCP recv][10:48:44:263]:IP=127.0.0.1:52859 {"message_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456789", "result": "PASS", "extra_info": ""}^
+[TCP send][10:48:44:270]:{"message_id": "ack", "ack_id": "test_complete", "project_id": "BOREAL", "station_id": "T6_F4-B14_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "WIP123456789", "result": "PASS", "extra_info": ""}^

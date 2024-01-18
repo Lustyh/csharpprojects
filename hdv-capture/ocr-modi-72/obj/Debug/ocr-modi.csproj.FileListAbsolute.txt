@@ -1,0 +1,7 @@
+E:\gitlab\smt-bft\cs-tools\ocr-modi\obj\Debug\Interop.MODI.dll
+E:\gitlab\smt-bft\cs-tools\ocr-modi\obj\Debug\ocr-modi.csproj.ResolveComReference.cache
+E:\gitlab\smt-bft\cs-tools\exe\ocr-modi.exe.config
+E:\gitlab\smt-bft\cs-tools\exe\ocr-modi.exe
+E:\gitlab\smt-bft\cs-tools\exe\ocr-modi.pdb
+E:\gitlab\smt-bft\cs-tools\ocr-modi\obj\Debug\ocr-modi.exe
+E:\gitlab\smt-bft\cs-tools\ocr-modi\obj\Debug\ocr-modi.pdb

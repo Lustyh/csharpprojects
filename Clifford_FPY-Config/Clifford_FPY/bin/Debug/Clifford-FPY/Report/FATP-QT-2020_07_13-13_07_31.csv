@@ -1,0 +1,1000 @@
+Tata,D/N,Config,Test time,Line,Fixture,SN,Failure Mode,Failure Description,Retest,NTF,Fail,SOF,OFFLINE
+2020-07-11,D,GA01919-US,2020-07-11T08:22:04Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00V22,"DUT_MLBSN
+DUT_FCT_VERSION
+DUT_HARDWARE_VERSION
+CHECK_FCT_VERSION
+CHECK_MLBSN
+BTMAC
+Write_wipsn
+Read_wipsn
+Check_wipsn
+Read_dsn
+Check_dsn
+","DUT_MLBSN  
+DUT_FCT_VERSION  
+DUT_HARDWARE_VERSION  
+CHECK_FCT_VERSION  FAIL
+CHECK_MLBSN  FAIL
+BTMAC  None
+Write_wipsn  None
+Read_wipsn  None
+Check_wipsn  None
+Read_dsn  None
+Check_dsn  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T08:30:19Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00V2J,"Check_wipsn
+Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Check_wipsn  FAIL
+Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T08:44:30Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00T8W,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T08:53:26Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00V4P,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T08:45:01Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00V43,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T08:57:21Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00V4V,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T08:46:07Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00V3R,"CHECK_FCT_VERSION
+","CHECK_FCT_VERSION  FAIL
+",1,0,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T19:41:07Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07091HFAK00T1C,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T17:28:37Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07091HFAK00RHD,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T19:41:02Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07091HFAK00T13,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T19:11:04Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07091HFAK00RWB,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T19:11:15Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07091HFAK00RW4,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T19:41:13Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07091HFAK00T12,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T19:11:14Z,F4-C14,0EE_F4-C14_FATP-QT_01,WIP07091HFAK00RWD,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T17:31:33Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07091HFAK00RHT,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T19:11:46Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07091HFAK00RW3,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:12:54Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00TD1,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+Button_check_14_SW_Side_volume_down-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+Button_check_14_SW_Side_volume_down-maxforce-3.5N  _14+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:12:59Z,F4-C54,0EE_F4-C54_FATP-QT_04,WIP07101HFAK00V6P,"DUT_MLBSN
+DUT_FCT_VERSION
+DUT_HARDWARE_VERSION
+CHECK_FCT_VERSION
+CHECK_MLBSN
+BTMAC
+Write_wipsn
+Read_wipsn
+Check_wipsn
+Read_dsn
+Check_dsn
+","DUT_MLBSN  
+DUT_FCT_VERSION  
+DUT_HARDWARE_VERSION  
+CHECK_FCT_VERSION  FAIL
+CHECK_MLBSN  FAIL
+BTMAC  None
+Write_wipsn  None
+Read_wipsn  None
+Check_wipsn  None
+Read_dsn  None
+Check_dsn  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:11:54Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00V6D,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T19:51:01Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07091HFAK00T1B,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",0,1,0,0,0,
+2020-07-10,D,GA01919-US,2020-07-10T17:31:29Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07091HFAK00RHU,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:29:34Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00V8E,"I_Active
+","I_Active  0.002576
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:10:55Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00V6E,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:33:09Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00V8X,"I_Active
+","I_Active  0.002545
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:34:21Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00V90,"Write_wipsn
+","Write_wipsn  PRGSER_2_WIP07101HFAK00V90
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:37:37Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00TGR,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T08:57:15Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00V4W,"Button_check_0_SW6_UP-maxforce-2.3N
+","Button_check_0_SW6_UP-maxforce-2.3N  _0+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:40:57Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00TEV,"I_Active
+","I_Active  0.002527
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:46:54Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00TCU,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T10:26:44Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00VDU,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T10:25:08Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00VCY,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T10:25:55Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00VD2,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T10:25:09Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00VCM,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:46:30Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00VA0,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:54:18Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00VA5,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:52:18Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00VA3,"DUT_MLBSN
+DUT_FCT_VERSION
+DUT_HARDWARE_VERSION
+CHECK_FCT_VERSION
+CHECK_MLBSN
+BTMAC
+Write_wipsn
+Read_wipsn
+Check_wipsn
+Read_dsn
+Check_dsn
+","DUT_MLBSN  
+DUT_FCT_VERSION  
+DUT_HARDWARE_VERSION  
+CHECK_FCT_VERSION  FAIL
+CHECK_MLBSN  FAIL
+BTMAC  None
+Write_wipsn  None
+Read_wipsn  None
+Check_wipsn  None
+Read_dsn  None
+Check_dsn  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T11:07:05Z,F4-C14,0EE_F4-C14_FATP-QT_01,WIP07101HFAK00TV7,"QT2_IR_Intensity_Center
+","QT2_IR_Intensity_Center  1.653575757575757
+",0,0,1,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T10:47:29Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00VF2,"DUT_MLBSN
+DUT_FCT_VERSION
+DUT_HARDWARE_VERSION
+CHECK_FCT_VERSION
+CHECK_MLBSN
+BTMAC
+Write_wipsn
+Read_wipsn
+Check_wipsn
+Read_dsn
+Check_dsn
+","DUT_MLBSN  
+DUT_FCT_VERSION  
+DUT_HARDWARE_VERSION  
+CHECK_FCT_VERSION  FAIL
+CHECK_MLBSN  FAIL
+BTMAC  None
+Write_wipsn  None
+Read_wipsn  None
+Check_wipsn  None
+Read_dsn  None
+Check_dsn  None
+",0,1,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T10:23:13Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00VDF,"DUT_MLBSN
+DUT_FCT_VERSION
+DUT_HARDWARE_VERSION
+CHECK_FCT_VERSION
+CHECK_MLBSN
+BTMAC
+Write_wipsn
+Read_wipsn
+Check_wipsn
+Read_dsn
+Check_dsn
+","DUT_MLBSN  
+DUT_FCT_VERSION  
+DUT_HARDWARE_VERSION  
+CHECK_FCT_VERSION  FAIL
+CHECK_MLBSN  FAIL
+BTMAC  None
+Write_wipsn  None
+Read_wipsn  None
+Check_wipsn  None
+Read_dsn  None
+Check_dsn  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T10:22:14Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00VDC,"DUT_MLBSN
+DUT_FCT_VERSION
+DUT_HARDWARE_VERSION
+CHECK_FCT_VERSION
+CHECK_MLBSN
+BTMAC
+Write_wipsn
+Read_wipsn
+Check_wipsn
+Read_dsn
+Check_dsn
+","DUT_MLBSN  
+DUT_FCT_VERSION  
+DUT_HARDWARE_VERSION  
+CHECK_FCT_VERSION  FAIL
+CHECK_MLBSN  FAIL
+BTMAC  None
+Write_wipsn  None
+Read_wipsn  None
+Check_wipsn  None
+Read_dsn  None
+Check_dsn  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T11:21:53Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00TWC,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  FAIL
+QT2_IR_Decode_Up  FAIL
+QT2_IR_Decode_Down  FAIL
+QT2_IR_Decode_Left  FAIL
+QT2_IR_Decode_Right  FAIL
+",0,1,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T11:21:47Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00TX6,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  FAIL
+QT2_IR_Decode_Up  FAIL
+QT2_IR_Decode_Down  FAIL
+QT2_IR_Decode_Left  FAIL
+QT2_IR_Decode_Right  FAIL
+",0,1,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T11:21:41Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00TX2,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  FAIL
+QT2_IR_Decode_Up  FAIL
+QT2_IR_Decode_Down  FAIL
+QT2_IR_Decode_Left  FAIL
+QT2_IR_Decode_Right  FAIL
+",0,1,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T11:14:42Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00VJV,"Button_check_1_SW8_DOWN-maxforce-2.3N
+","Button_check_1_SW8_DOWN-maxforce-2.3N  _1+OK_0#
+",0,1,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T09:56:52Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00V9W,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",0,1,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T12:35:47Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00VNX,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T12:37:25Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00U33,"Button_check_14_SW_Side_volume_down-maxforce-3.5N
+","Button_check_14_SW_Side_volume_down-maxforce-3.5N  _14+OK_0#
+",0,0,1,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T12:42:59Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00VPR,"Button_check_0_SW6_UP-maxforce-2.3N
+Button_check_1_SW8_DOWN-maxforce-2.3N
+","Button_check_0_SW6_UP-maxforce-2.3N  _0+OK_0#
+Button_check_1_SW8_DOWN-maxforce-2.3N  _1+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T12:49:48Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07101HFAK00U51,"Boot_init
+","Boot_init  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T12:52:45Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00U65,"Button_check_14_SW_Side_volume_down-maxforce-3.5N
+","Button_check_14_SW_Side_volume_down-maxforce-3.5N  _14+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T11:26:08Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00TY5,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  FAIL
+QT2_IR_Decode_Up  FAIL
+QT2_IR_Decode_Down  FAIL
+QT2_IR_Decode_Left  FAIL
+QT2_IR_Decode_Right  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T12:59:47Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07101HFAK00U6C,"Button_check_5_SW2_BACK-maxforce-2.3N
+Button_check_11_SW3_Home-maxforce-2.3N
+Button_check_12_SW4_YouTube-maxforce-2.3N
+Button_check_9_SW5_Power-maxforce-2.3N
+Button_check_10_SW12_Input_source-maxforce-2.3N
+Button_check_8_SW11_NetFlix-maxforce-2.3N
+Button_check_7_SW10_Mute-maxforce-2.3N
+Button_check_6_SW9_Assistant-maxforce-2.3N
+Button_check_3_SW13_RIGHT-maxforce-2.3N
+Button_check_13_SW_Side_volume_up-maxforce-3.5N
+Button_check_14_SW_Side_volume_down-maxforce-3.5N
+","Button_check_5_SW2_BACK-maxforce-2.3N  _5+OK_0#
+Button_check_11_SW3_Home-maxforce-2.3N  _11+OK_0#
+Button_check_12_SW4_YouTube-maxforce-2.3N  _12+OK_0#
+Button_check_9_SW5_Power-maxforce-2.3N  _9+OK_0#
+Button_check_10_SW12_Input_source-maxforce-2.3N  _10+OK_0#
+Button_check_8_SW11_NetFlix-maxforce-2.3N  _8+OK_0#
+Button_check_7_SW10_Mute-maxforce-2.3N  _7+OK_0#
+Button_check_6_SW9_Assistant-maxforce-2.3N  _6+OK_0#
+Button_check_3_SW13_RIGHT-maxforce-2.3N  _3+OK_0#
+Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+Button_check_14_SW_Side_volume_down-maxforce-3.5N  _14+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T12:48:55Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00VRD,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:09:52Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07101HFAK00U3M,"Button_check_0_SW6_UP-maxforce-2.3N
+Button_check_4_SW7_ENTER-maxforce-2.3N
+Button_check_1_SW8_DOWN-maxforce-2.3N
+Button_check_2_SW1_LEFT-maxforce-2.3N
+Button_check_5_SW2_BACK-maxforce-2.3N
+Button_check_11_SW3_Home-maxforce-2.3N
+Button_check_12_SW4_YouTube-maxforce-2.3N
+Button_check_9_SW5_Power-maxforce-2.3N
+Button_check_10_SW12_Input_source-maxforce-2.3N
+Button_check_8_SW11_NetFlix-maxforce-2.3N
+Button_check_7_SW10_Mute-maxforce-2.3N
+Button_check_6_SW9_Assistant-maxforce-2.3N
+Button_check_3_SW13_RIGHT-maxforce-2.3N
+Button_check_13_SW_Side_volume_up-maxforce-3.5N
+Button_check_14_SW_Side_volume_down-maxforce-3.5N
+","Button_check_0_SW6_UP-maxforce-2.3N  _0+OK_0#
+Button_check_4_SW7_ENTER-maxforce-2.3N  _4+OK_0#
+Button_check_1_SW8_DOWN-maxforce-2.3N  _1+OK_0#
+Button_check_2_SW1_LEFT-maxforce-2.3N  _2+OK_0#
+Button_check_5_SW2_BACK-maxforce-2.3N  _5+OK_0#
+Button_check_11_SW3_Home-maxforce-2.3N  _11+OK_0#
+Button_check_12_SW4_YouTube-maxforce-2.3N  _12+OK_0#
+Button_check_9_SW5_Power-maxforce-2.3N  _9+OK_0#
+Button_check_10_SW12_Input_source-maxforce-2.3N  _10+OK_0#
+Button_check_8_SW11_NetFlix-maxforce-2.3N  _8+OK_0#
+Button_check_7_SW10_Mute-maxforce-2.3N  _7+OK_0#
+Button_check_6_SW9_Assistant-maxforce-2.3N  _6+OK_0#
+Button_check_3_SW13_RIGHT-maxforce-2.3N  _3+OK_0#
+Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+Button_check_14_SW_Side_volume_down-maxforce-3.5N  _14+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:12:24Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00VPL,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:13:15Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00VV7,"DUT_MLBSN
+DUT_FCT_VERSION
+DUT_HARDWARE_VERSION
+CHECK_FCT_VERSION
+CHECK_MLBSN
+BTMAC
+Write_wipsn
+Read_wipsn
+Check_wipsn
+Read_dsn
+Check_dsn
+","DUT_MLBSN  
+DUT_FCT_VERSION  
+DUT_HARDWARE_VERSION  
+CHECK_FCT_VERSION  FAIL
+CHECK_MLBSN  FAIL
+BTMAC  None
+Write_wipsn  None
+Read_wipsn  None
+Check_wipsn  None
+Read_dsn  None
+Check_dsn  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:25:58Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00UA1,"I_Active
+","I_Active  0.002557
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T12:40:45Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00VP7,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+I_Active
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+I_Active  0.00282
+",0,0,1,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:45:52Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07101HFAK00U7N,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  FAIL
+QT2_IR_Decode_Up  FAIL
+QT2_IR_Decode_Down  FAIL
+QT2_IR_Decode_Left  FAIL
+QT2_IR_Decode_Right  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:45:41Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07101HFAK00UAE,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  FAIL
+QT2_IR_Decode_Up  FAIL
+QT2_IR_Decode_Down  FAIL
+QT2_IR_Decode_Left  FAIL
+QT2_IR_Decode_Right  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:45:42Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07101HFAK00UCY,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  FAIL
+QT2_IR_Decode_Up  FAIL
+QT2_IR_Decode_Down  FAIL
+QT2_IR_Decode_Left  FAIL
+QT2_IR_Decode_Right  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:51:00Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00UDV,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:57:32Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00W0B,"DUT_MLBSN
+DUT_FCT_VERSION
+DUT_HARDWARE_VERSION
+CHECK_FCT_VERSION
+CHECK_MLBSN
+BTMAC
+Write_wipsn
+Read_wipsn
+Check_wipsn
+Read_dsn
+Check_dsn
+","DUT_MLBSN  
+DUT_FCT_VERSION  
+DUT_HARDWARE_VERSION  
+CHECK_FCT_VERSION  FAIL
+CHECK_MLBSN  FAIL
+BTMAC  None
+Write_wipsn  None
+Read_wipsn  None
+Check_wipsn  None
+Read_dsn  None
+Check_dsn  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:00:14Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00W0G,"I_Active
+","I_Active  0.002826
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:05:15Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00W04,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+Button_check_14_SW_Side_volume_down-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+Button_check_14_SW_Side_volume_down-maxforce-3.5N  _14+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:08:18Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00UBL,"I_Active
+","I_Active  0.002594
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:03:01Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00W0H,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",0,1,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:12:38Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00W1P,"I_Active
+","I_Active  0.002545
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:11:50Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00W17,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:11:25Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00W12,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:11:31Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00W11,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:18:05Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00UC9,"I_Active
+","I_Active  0.0026
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:18:48Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07101HFAK00UH9,"I_Active
+","I_Active  0.002551
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:21:08Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00UHL,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:30:04Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00UJN,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:36:45Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00W32,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:35:21Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00W31,"Button_check_6_SW9_Assistant-maxforce-0N
+","Button_check_6_SW9_Assistant-maxforce-0N  _6+OK_1#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T14:55:31Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00ULF,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T15:05:51Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00W4R,"DUT_MLBSN
+DUT_FCT_VERSION
+DUT_HARDWARE_VERSION
+CHECK_FCT_VERSION
+CHECK_MLBSN
+BTMAC
+Write_wipsn
+Read_wipsn
+Check_wipsn
+Read_dsn
+Check_dsn
+","DUT_MLBSN  
+DUT_FCT_VERSION  
+DUT_HARDWARE_VERSION  
+CHECK_FCT_VERSION  FAIL
+CHECK_MLBSN  FAIL
+BTMAC  None
+Write_wipsn  None
+Read_wipsn  None
+Check_wipsn  None
+Read_dsn  None
+Check_dsn  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:42:06Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00UC2,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:42:00Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00UC4,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:49:19Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00UC1,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T15:12:11Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07101HFAK00UNP,"Boot_init
+","Boot_init  None
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T13:41:24Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00UC3,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match!
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T15:11:32Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07101HFAK00UN5,"Button_check_1_SW8_DOWN-maxforce-2.3N
+","Button_check_1_SW8_DOWN-maxforce-2.3N  _1+OK_0#
+",0,1,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T12:50:01Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07101HFAK00VRN,"DUT_MLBSN
+DUT_FCT_VERSION
+DUT_HARDWARE_VERSION
+CHECK_FCT_VERSION
+CHECK_MLBSN
+BTMAC
+Write_wipsn
+Read_wipsn
+Check_wipsn
+Read_dsn
+Check_dsn
+","DUT_MLBSN  
+DUT_FCT_VERSION  
+DUT_HARDWARE_VERSION  
+CHECK_FCT_VERSION  FAIL
+CHECK_MLBSN  FAIL
+BTMAC  None
+Write_wipsn  None
+Read_wipsn  None
+Check_wipsn  None
+Read_dsn  None
+Check_dsn  None
+",0,1,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T15:38:10Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00UR1,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+Button_check_14_SW_Side_volume_down-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+Button_check_14_SW_Side_volume_down-maxforce-3.5N  _14+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T15:44:44Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07101HFAK00URP,"Button_check_13_SW_Side_volume_up-maxforce-3.5N
+","Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+",1,0,0,0,0,
+2020-07-11,D,GA01919-US,2020-07-11T16:11:41Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07101HFAK00UW6,"I_Active
+","I_Active  0.002557
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T09:17:46Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07101HFAK00W5H,"I_Active
+","I_Active  0.002606
+",1,0,0,0,0,
+2020-07-13,D,GA01920-FR,2020-07-13T09:12:36Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07111HFAK00W6V,"Button_check_10_SW12_Input_source-maxforce-2.3N
+Button_check_8_SW11_NetFlix-maxforce-2.3N
+","Button_check_10_SW12_Input_source-maxforce-2.3N  _10+OK_0#
+Button_check_8_SW11_NetFlix-maxforce-2.3N  _8+OK_0#
+",0,0,1,0,0,
+2020-07-13,D,GA01920-GB,2020-07-13T09:35:00Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07111HFAK00WAD,"I_Active
+","I_Active  0.002588
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T09:44:42Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07111HFAK00YNB,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T09:43:00Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07111HFAK00YMW,"Boot_init
+","Boot_init  None
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T09:30:10Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00W65,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T09:30:09Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07101HFAK00W6A,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-13,D,GA01920-GB,2020-07-13T10:00:11Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07111HFAK00WBU,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-13,D,GA01920-GB,2020-07-13T10:00:11Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07111HFAK00WBN,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-13,D,GA01920-GB,2020-07-13T10:00:12Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07111HFAK00WBP,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-13,D,GA01920-GB,2020-07-13T10:00:13Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07111HFAK00WBR,"QT2_IR_Decode_Center
+QT2_IR_Decode_Up
+QT2_IR_Decode_Down
+QT2_IR_Decode_Left
+QT2_IR_Decode_Right
+","QT2_IR_Decode_Center  None
+QT2_IR_Decode_Up  None
+QT2_IR_Decode_Down  None
+QT2_IR_Decode_Left  None
+QT2_IR_Decode_Right  None
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T10:12:37Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07111HFAK00YRR,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-13,D,GA01920-GB,2020-07-13T09:57:49Z,F4-C14,0EE_F4-C14_FATP-QT_04,WIP07111HFAK00WBY,"Button_check_12_SW4_YouTube-maxforce-2.3N
+","Button_check_12_SW4_YouTube-maxforce-2.3N  _12+OK_0#
+",0,0,1,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T10:16:38Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07111HFAK00WEB,"Button_check_4_SW7_ENTER-maxforce-2.3N
+Button_check_1_SW8_DOWN-maxforce-2.3N
+Button_check_2_SW1_LEFT-maxforce-2.3N
+Button_check_5_SW2_BACK-maxforce-2.3N
+Button_check_11_SW3_Home-maxforce-2.3N
+Button_check_12_SW4_YouTube-maxforce-2.3N
+Button_check_9_SW5_Power-maxforce-2.3N
+Button_check_10_SW12_Input_source-maxforce-2.3N
+Button_check_8_SW11_NetFlix-maxforce-2.3N
+Button_check_6_SW9_Assistant-maxforce-2.3N
+Button_check_3_SW13_RIGHT-maxforce-2.3N
+Button_check_13_SW_Side_volume_up-maxforce-3.5N
+Button_check_14_SW_Side_volume_down-maxforce-3.5N
+","Button_check_4_SW7_ENTER-maxforce-2.3N  _4+OK_0#
+Button_check_1_SW8_DOWN-maxforce-2.3N  _1+OK_0#
+Button_check_2_SW1_LEFT-maxforce-2.3N  _2+OK_0#
+Button_check_5_SW2_BACK-maxforce-2.3N  _5+OK_0#
+Button_check_11_SW3_Home-maxforce-2.3N  _11+OK_0#
+Button_check_12_SW4_YouTube-maxforce-2.3N  _12+OK_0#
+Button_check_9_SW5_Power-maxforce-2.3N  _9+OK_0#
+Button_check_10_SW12_Input_source-maxforce-2.3N  _10+OK_0#
+Button_check_8_SW11_NetFlix-maxforce-2.3N  _8+OK_0#
+Button_check_6_SW9_Assistant-maxforce-2.3N  _6+OK_0#
+Button_check_3_SW13_RIGHT-maxforce-2.3N  _3+OK_0#
+Button_check_13_SW_Side_volume_up-maxforce-3.5N  _13+OK_0#
+Button_check_14_SW_Side_volume_down-maxforce-3.5N  _14+OK_0#
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T10:17:31Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07111HFAK00YT5,"Check_wipsn
+","Check_wipsn  FAIL
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T10:21:04Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07111HFAK00YTN,"Check_wipsn
+","Check_wipsn  FAIL
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T10:40:35Z,F4-C14,0EE_F4-C14_FATP-QT_02,WIP07111HFAK00WHR,"I_Active
+","I_Active  0.002637
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T10:41:15Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07111HFAK00WHW,"I_Active
+","I_Active  0.00285
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T10:14:24Z,F4-C54,0EE_F4-C54_FATP-QT_01,WIP07111HFAK00YRY,"Button_check_1_SW8_DOWN-maxforce-2.3N
+","Button_check_1_SW8_DOWN-maxforce-2.3N  _1+OK_0#
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T10:43:45Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07111HFAK00YVK,"Boot_init
+","Boot_init  None
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T10:25:13Z,F4-C54,0EE_F4-C54_FATP-QT_03,WIP07111HFAK00YU5,"Button_check_9_SW5_Power-maxforce-2.3N
+","Button_check_9_SW5_Power-maxforce-2.3N  _9+OK_0#
+",0,1,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T10:56:01Z,F4-C14,0EE_F4-C14_FATP-QT_01,WIP07111HFAK00WL5,"Button_check_1_SW8_DOWN-maxforce-2.3N
+","Button_check_1_SW8_DOWN-maxforce-2.3N  _1+OK_0#
+",0,1,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T11:19:13Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07111HFAK0101T,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T11:18:35Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07111HFAK0101N,"Write_wipsn
+","Write_wipsn  PRGSER_2_WIP07111HFAK0101N_
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T11:23:22Z,F4-C14,0EE_F4-C14_FATP-QT_01,WIP07111HFAK00WPV,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T11:23:13Z,F4-C14,0EE_F4-C14_FATP-QT_01,WIP07111HFAK00WPW,"CHECK_MLBSN
+Write_wipsn
+Check_wipsn
+Check_dsn
+","CHECK_MLBSN  FAIL
+Write_wipsn  mbsn_not_match_or_scasn_B_barcode
+Check_wipsn  FAIL
+Check_dsn  FAIL
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T11:35:11Z,F4-C14,0EE_F4-C14_FATP-QT_03,WIP07111HFAK00WTJ,"Button_check_0_SW6_UP-maxforce-2.3N
+Button_check_4_SW7_ENTER-maxforce-2.3N
+Button_check_1_SW8_DOWN-maxforce-2.3N
+Button_check_2_SW1_LEFT-maxforce-2.3N
+Button_check_5_SW2_BACK-maxforce-2.3N
+Button_check_11_SW3_Home-maxforce-2.3N
+Button_check_12_SW4_YouTube-maxforce-2.3N
+Button_check_9_SW5_Power-maxforce-2.3N
+Button_check_10_SW12_Input_source-maxforce-2.3N
+Button_check_8_SW11_NetFlix-maxforce-2.3N
+Button_check_7_SW10_Mute-maxforce-2.3N
+Button_check_6_SW9_Assistant-maxforce-2.3N
+Button_check_3_SW13_RIGHT-maxforce-2.3N
+Button_check_13_SW_Side_volume_up-maxforce-3.5N
+Button_check_14_SW_Side_volume_down-maxforce-3.5N
+","Button_check_0_SW6_UP-maxforce-2.3N  None
+Button_check_4_SW7_ENTER-maxforce-2.3N  None
+Button_check_1_SW8_DOWN-maxforce-2.3N  None
+Button_check_2_SW1_LEFT-maxforce-2.3N  None
+Button_check_5_SW2_BACK-maxforce-2.3N  None
+Button_check_11_SW3_Home-maxforce-2.3N  None
+Button_check_12_SW4_YouTube-maxforce-2.3N  None
+Button_check_9_SW5_Power-maxforce-2.3N  None
+Button_check_10_SW12_Input_source-maxforce-2.3N  None
+Button_check_8_SW11_NetFlix-maxforce-2.3N  None
+Button_check_7_SW10_Mute-maxforce-2.3N  None
+Button_check_6_SW9_Assistant-maxforce-2.3N  None
+Button_check_3_SW13_RIGHT-maxforce-2.3N  None
+Button_check_13_SW_Side_volume_up-maxforce-3.5N  None
+Button_check_14_SW_Side_volume_down-maxforce-3.5N  None
+",1,0,0,0,0,
+2020-07-13,D,GA01919-US,2020-07-13T11:37:29Z,F4-C54,0EE_F4-C54_FATP-QT_02,WIP07111HFAK01043,"Boot_init
+","Boot_init  None
+",1,0,0,0,0,

@@ -1,0 +1,6 @@
+E:\gitlab\boreal\fatp-prov\hdv-capture\ocr-modi-72\bin\x64\P720\ocr-modi.exe.config
+E:\gitlab\boreal\fatp-prov\hdv-capture\ocr-modi-72\bin\x64\P720\ocr-modi.exe
+E:\gitlab\boreal\fatp-prov\hdv-capture\ocr-modi-72\bin\x64\P720\ocr-modi.pdb
+E:\gitlab\boreal\fatp-prov\hdv-capture\ocr-modi-72\obj\x64\P720\ocr-modi-72.csproj.CoreCompileInputs.cache
+E:\gitlab\boreal\fatp-prov\hdv-capture\ocr-modi-72\obj\x64\P720\ocr-modi.exe
+E:\gitlab\boreal\fatp-prov\hdv-capture\ocr-modi-72\obj\x64\P720\ocr-modi.pdb

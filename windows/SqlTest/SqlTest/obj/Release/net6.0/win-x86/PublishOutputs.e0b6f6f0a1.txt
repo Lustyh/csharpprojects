@@ -1,0 +1,3 @@
+C:\Users\A907A919\Desktop\SqlTest.pdb
+C:\Users\A907A919\Desktop\sni.dll
+C:\Users\A907A919\Desktop\SqlTest.exe

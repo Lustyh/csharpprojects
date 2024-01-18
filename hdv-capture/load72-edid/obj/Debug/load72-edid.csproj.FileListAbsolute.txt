@@ -1,0 +1,6 @@
+E:\gitlab\boreal\fatp-prov\hdv-capture\load72-edid\obj\Debug\load72-edid.csproj.CoreCompileInputs.cache
+E:\gitlab\boreal\fatp-prov\hdv-capture\load72-edid\bin\Debug\load72-edid.exe.config
+E:\gitlab\boreal\fatp-prov\hdv-capture\load72-edid\bin\Debug\load72-edid.exe
+E:\gitlab\boreal\fatp-prov\hdv-capture\load72-edid\bin\Debug\load72-edid.pdb
+E:\gitlab\boreal\fatp-prov\hdv-capture\load72-edid\obj\Debug\load72-edid.exe
+E:\gitlab\boreal\fatp-prov\hdv-capture\load72-edid\obj\Debug\load72-edid.pdb

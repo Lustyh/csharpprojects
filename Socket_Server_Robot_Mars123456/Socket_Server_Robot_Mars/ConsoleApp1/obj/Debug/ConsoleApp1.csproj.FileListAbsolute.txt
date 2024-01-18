@@ -1,0 +1,7 @@
+E:\gitlab\shopfloor\Socket_Server_Robot_Mars\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\gitlab\shopfloor\Socket_Server_Robot_Mars\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\gitlab\shopfloor\Socket_Server_Robot_Mars\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\gitlab\shopfloor\Socket_Server_Robot_Mars\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\gitlab\shopfloor\Socket_Server_Robot_Mars\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\gitlab\shopfloor\Socket_Server_Robot_Mars\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\gitlab\shopfloor\Socket_Server_Robot_Mars\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

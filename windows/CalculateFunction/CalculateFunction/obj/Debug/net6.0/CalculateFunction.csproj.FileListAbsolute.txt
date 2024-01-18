@@ -1,0 +1,15 @@
+E:\C#\windows\CalculateFunction\CalculateFunction\bin\Debug\net6.0\CalculateFunction.exe
+E:\C#\windows\CalculateFunction\CalculateFunction\bin\Debug\net6.0\CalculateFunction.deps.json
+E:\C#\windows\CalculateFunction\CalculateFunction\bin\Debug\net6.0\CalculateFunction.runtimeconfig.json
+E:\C#\windows\CalculateFunction\CalculateFunction\bin\Debug\net6.0\CalculateFunction.dll
+E:\C#\windows\CalculateFunction\CalculateFunction\bin\Debug\net6.0\ref\CalculateFunction.dll
+E:\C#\windows\CalculateFunction\CalculateFunction\bin\Debug\net6.0\CalculateFunction.pdb
+E:\C#\windows\CalculateFunction\CalculateFunction\obj\Debug\net6.0\CalculateFunction.csproj.AssemblyReference.cache
+E:\C#\windows\CalculateFunction\CalculateFunction\obj\Debug\net6.0\CalculateFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\CalculateFunction\CalculateFunction\obj\Debug\net6.0\CalculateFunction.AssemblyInfoInputs.cache
+E:\C#\windows\CalculateFunction\CalculateFunction\obj\Debug\net6.0\CalculateFunction.AssemblyInfo.cs
+E:\C#\windows\CalculateFunction\CalculateFunction\obj\Debug\net6.0\CalculateFunction.csproj.CoreCompileInputs.cache
+E:\C#\windows\CalculateFunction\CalculateFunction\obj\Debug\net6.0\CalculateFunction.dll
+E:\C#\windows\CalculateFunction\CalculateFunction\obj\Debug\net6.0\ref\CalculateFunction.dll
+E:\C#\windows\CalculateFunction\CalculateFunction\obj\Debug\net6.0\CalculateFunction.pdb
+E:\C#\windows\CalculateFunction\CalculateFunction\obj\Debug\net6.0\CalculateFunction.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\C#\windows\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.csproj.AssemblyReference.cache
+E:\C#\windows\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.AssemblyInfoInputs.cache
+E:\C#\windows\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.AssemblyInfo.cs
+E:\C#\windows\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.csproj.CoreCompileInputs.cache
+E:\C#\windows\InterfaceTest\InterfaceTest\bin\Debug\net6.0\InterfaceTest.exe
+E:\C#\windows\InterfaceTest\InterfaceTest\bin\Debug\net6.0\InterfaceTest.deps.json
+E:\C#\windows\InterfaceTest\InterfaceTest\bin\Debug\net6.0\InterfaceTest.runtimeconfig.json
+E:\C#\windows\InterfaceTest\InterfaceTest\bin\Debug\net6.0\InterfaceTest.dll
+E:\C#\windows\InterfaceTest\InterfaceTest\bin\Debug\net6.0\ref\InterfaceTest.dll
+E:\C#\windows\InterfaceTest\InterfaceTest\bin\Debug\net6.0\InterfaceTest.pdb
+E:\C#\windows\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.dll
+E:\C#\windows\InterfaceTest\InterfaceTest\obj\Debug\net6.0\ref\InterfaceTest.dll
+E:\C#\windows\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.pdb
+E:\C#\windows\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.genruntimeconfig.cache

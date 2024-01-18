@@ -1,0 +1,714 @@
+[STA][09:11:02:755]Start server
+[STA][09:11:02:772]Start server
+[SYS][09:11:03:857]Start in port 37001
+[INT][09:11:03:873]Plugin init success
+[SYS][09:11:28:546]Console:TYPE=START;SN=1HF65006337020105R0000Y;FIX=05
+[RUN][09:11:28:562]CMD:TYPE=START;SN=1HF65006337020105R0000Y;FIX=05
+[ERR][09:11:28:593]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 C:\Users\Lorain\source\c#code\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 262
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 C:\Users\Lorain\source\c#code\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 196
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 C:\Users\Lorain\source\c#code\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][09:11:59:235]Console:TYPE=STATUS;FIX=ALL
+[RUN][09:11:59:251]CMD:TYPE=STATUS;FIX=ALL
+[SYS][09:11:59:251]Result:00000000000000000000000000000000
+[SYS][09:14:22:037]Console:TYPE=START;SN=WIP9B14105AD00001;FIX=01
+[RUN][09:14:22:056]CMD:TYPE=START;SN=WIP9B14105AD00001;FIX=01
+[TCP send][09:14:22:058]IP= {"message_id": "test_start","station_id": "0", "group_id": -, "dut_id": ["WIP9B14105AD00001","WIP9B14105AD00002","WIP9B14105AD00003","WIP9B14105AD00004","WIP9B14105AD00005","WIP9B14105AD00006","WIP9B14105AD00007","WIP9B14105AD00008"]}^
+[ERR][09:14:22:058]   在 ShadowTM.SocketServer.Send(String send_mes, String ip, Object obj) 位置 C:\Users\Lorain\source\c#code\ShadowTM-Mars\ShadowTM-Sa\SocketServer.cs:行号 158
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 C:\Users\Lorain\source\c#code\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 282
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 C:\Users\Lorain\source\c#code\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 196
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 C:\Users\Lorain\source\c#code\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][09:15:34:128]Console:TYPE=START;SN=1HF65006337020105R0000Y;FIX=01
+[RUN][09:15:34:159]CMD:TYPE=START;SN=1HF65006337020105R0000Y;FIX=01
+[ERR][09:15:34:166]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 C:\Users\Lorain\source\c#code\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 262
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 C:\Users\Lorain\source\c#code\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 196
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 C:\Users\Lorain\source\c#code\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][09:21:13:681]Console:
+[RUN][09:21:13:697]CMD:
+[SYS][09:21:13:698]Result:null
+[SYS][09:21:14:547]Console:
+[RUN][09:21:14:565]CMD:
+[SYS][09:21:14:565]Result:null
+[SYS][09:21:14:730]Console:
+[RUN][09:21:14:746]CMD:
+[SYS][09:21:14:746]Result:null
+[SYS][09:21:14:997]Console:
+[RUN][09:21:15:014]CMD:
+[SYS][09:21:15:014]Result:null
+[SYS][09:21:15:129]Console:
+[RUN][09:21:15:146]CMD:
+[SYS][09:21:15:146]Result:null
+[STA][09:21:51:331]Start server
+[STA][09:21:51:331]Start server
+[SYS][09:21:53:275]Start in port 37001
+[INT][09:21:53:291]Plugin init success
+[STA][09:23:56:383]Start server
+[STA][09:23:56:383]Start server
+[TCP recv][09:23:56:843]IP=127.0.0.1:61129 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[STA][09:24:07:096]Start server
+[STA][09:24:07:096]Start server
+[TCP recv][09:24:07:425]IP=127.0.0.1:61181 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[STA][09:24:39:917]Start server
+[STA][09:24:39:917]Start server
+[TCP recv][09:24:40:188]IP=127.0.0.1:61224 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[STA][09:24:49:058]Start server
+[STA][09:24:49:060]Start server
+[TCP recv][09:24:49:382]IP=127.0.0.1:61367 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[STA][09:26:52:904]Start server
+[STA][09:26:52:904]Start server
+[TCP recv][09:26:53:031]IP=127.0.0.1:61421 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[STA][09:59:52:393]Start server
+[STA][09:59:52:393]Start server
+[TCP recv][09:59:52:828]IP=127.0.0.1:61906 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[SYS][09:59:55:386]Start in port 37001
+[STA][10:00:39:794]Start server
+[STA][10:00:39:804]Start server
+[TCP recv][10:00:40:234]IP=127.0.0.1:49739 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[STA][10:01:08:034]Start server
+[STA][10:01:08:050]Start server
+[TCP recv][10:01:08:399]IP=127.0.0.1:49884 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[STA][10:03:04:341]Start server
+[STA][10:03:04:341]Start server
+[TCP recv][10:03:04:561]IP=127.0.0.1:50310 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][10:03:10:519]Start server
+[STA][10:03:10:535]Start server
+[TCP recv][10:03:10:683]IP=127.0.0.1:50343 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][10:03:44:052]Start server
+[STA][10:03:44:052]Start server
+[TCP recv][10:03:44:300]IP=127.0.0.1:50353 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][10:06:27:673]Start server
+[STA][10:06:27:673]Start server
+[TCP recv][10:06:27:989]IP=127.0.0.1:50477 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][10:08:02:036]Start server
+[STA][10:08:02:036]Start server
+[TCP recv][10:08:02:433]IP=127.0.0.1:50710 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][10:08:18:851]Start server
+[STA][10:08:18:851]Start server
+[TCP recv][10:08:19:685]IP=127.0.0.1:50986 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[SYS][10:08:19:969]Start in port 37001
+[INT][10:08:19:985]Plugin init success
+[STA][10:08:44:738]Start server
+[STA][10:08:44:738]Start server
+[TCP recv][10:08:45:057]IP=127.0.0.1:51016 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][10:09:20:402]Start server
+[STA][10:09:20:402]Start server
+[TCP recv][10:09:21:236]IP=127.0.0.1:51065 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[SYS][10:09:21:303]Start in port 37001
+[INT][10:09:21:320]Plugin init success
+[TCP send][10:09:21:396]IP=127.0.0.1:51065 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:09:21:583]IP=127.0.0.1:51065 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:09:21:691]IP=127.0.0.1:51065 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][10:10:02:429]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][10:10:02:460]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][10:10:02:460]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][10:10:02:460]Result:PASS
+[TCP recv][10:10:02:738]IP=127.0.0.1:51065 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][10:10:07:449]IP=127.0.0.1:51065 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:07:551]IP=127.0.0.1:51065 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:07:663]IP=127.0.0.1:51065 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][10:10:07:761]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[TCP recv][10:10:07:779]IP=127.0.0.1:51065 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:07:908]IP=127.0.0.1:51065 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:10:08:018]IP=127.0.0.1:51065 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][10:10:12:231]IP=127.0.0.1:51065 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:12:335]IP=127.0.0.1:51065 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:12:449]IP=127.0.0.1:51065 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:12:559]IP=127.0.0.1:51065 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:12:661]IP=127.0.0.1:51065 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:10:29:493]IP=127.0.0.1:51292 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[TCP send][10:10:29:607]IP=127.0.0.1:51292 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:10:29:948]IP=127.0.0.1:51292 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:10:30:051]IP=127.0.0.1:51292 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:10:30:168]IP=127.0.0.1:51292 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1}^
+[SYS][10:10:32:624]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][10:10:32:634]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][10:10:32:634]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][10:10:32:634]Result:PASS
+[TCP recv][10:10:32:950]IP=127.0.0.1:51292 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][10:10:37:536]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:37:647]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:37:765]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][10:10:37:864]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[TCP recv][10:10:37:865]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:37:971]IP=127.0.0.1:51292 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:10:38:090]IP=127.0.0.1:51292 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][10:10:42:414]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:42:517]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:42:625]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:42:727]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:10:42:843]IP=127.0.0.1:51292 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][10:10:51:082]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=05
+[RUN][10:10:51:105]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=05
+[ERR][10:10:51:120]   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 187
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:11:04:465]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01;GROUP=01
+[RUN][10:11:04:491]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01;GROUP=01
+[TCP send][10:11:04:491]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][10:11:04:497]Result:PASS
+[TCP recv][10:11:04:831]IP=127.0.0.1:51292 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][10:11:09:018]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:11:09:134]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:11:09:245]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:11:09:355]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:11:09:468]IP=127.0.0.1:51292 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][10:11:10:264]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01;GROUP=02
+[RUN][10:11:10:280]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01;GROUP=02
+[TCP send][10:11:10:280]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][10:11:10:280]Result:PASS
+[TCP recv][10:11:10:464]IP=127.0.0.1:51292 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][10:11:14:782]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:11:14:894]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:11:15:001]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:11:15:119]IP=127.0.0.1:51292 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:11:15:229]IP=127.0.0.1:51292 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[STA][10:12:44:905]Start server
+[STA][10:12:44:905]Start server
+[SYS][10:12:45:805]Start in port 37001
+[INT][10:12:45:821]Plugin init success
+[STA][10:13:01:476]Start server
+[STA][10:13:01:476]Start server
+[SYS][10:13:02:376]Start in port 37001
+[INT][10:13:02:392]Plugin init success
+[SYS][10:13:04:108]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01;GROUP=01
+[RUN][10:13:04:130]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01;GROUP=01
+[TCP send][10:13:04:146]IP= {"message_id": "test_start","station_id": "0", "group_id": -, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[ERR][10:13:04:162]   在 ShadowTM.SocketServer.Send(String send_mes, String ip, Object obj) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\SocketServer.cs:行号 158
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 283
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:13:14:006]Console:TYPE=START;SN=1HF65006337020105R0000X;FIX=02;
+[RUN][10:13:14:037]CMD:TYPE=START;SN=1HF65006337020105R0000X;FIX=02;
+[ERR][10:13:14:037]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:13:19:194]Console:TYPE=START;SN=1HF65006337020105R0000C;FIX=03;
+[RUN][10:13:19:212]CMD:TYPE=START;SN=1HF65006337020105R0000C;FIX=03;
+[ERR][10:13:19:212]   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 268
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:13:24:247]Console:TYPE=START;SN=1HF65006337020105R0000Z;FIX=04;
+[RUN][10:13:24:263]CMD:TYPE=START;SN=1HF65006337020105R0000Z;FIX=04;
+[ERR][10:13:24:263]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:13:37:429]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][10:13:37:447]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][10:13:37:447]IP= {"message_id": "test_start","station_id": "0", "group_id": -, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[ERR][10:13:37:447]   在 ShadowTM.SocketServer.Send(String send_mes, String ip, Object obj) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\SocketServer.cs:行号 158
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 283
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:13:40:236]Console:TYPE=START;SN=1HF65006337020105R0000Z;FIX=04
+[RUN][10:13:40:256]CMD:TYPE=START;SN=1HF65006337020105R0000Z;FIX=04
+[ERR][10:13:40:256]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:13:42:474]Console:TYPE=START;SN=1HF65006337020105R0000C;FIX=03
+[RUN][10:13:42:490]CMD:TYPE=START;SN=1HF65006337020105R0000C;FIX=03
+[ERR][10:13:42:490]   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 268
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:13:45:341]Console:TYPE=START;SN=1HF65006337020105R0000X;FIX=02
+[RUN][10:13:45:361]CMD:TYPE=START;SN=1HF65006337020105R0000X;FIX=02
+[ERR][10:13:45:361]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:14:12:417]Console:TYPE=START;SN=1HF65006337020105R0000X;FIX=02
+[RUN][10:14:12:432]CMD:TYPE=START;SN=1HF65006337020105R0000X;FIX=02
+[ERR][10:14:12:432]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[TCP recv][10:14:25:239]IP=127.0.0.1:51855 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[TCP send][10:14:25:405]IP=127.0.0.1:51855 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:14:25:675]IP=127.0.0.1:51855 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:14:26:430]IP=127.0.0.1:51855 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:14:26:533]IP=127.0.0.1:51855 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1}^
+[SYS][10:14:28:707]Console:TYPE=START;SN=1HF65006337020105R0000X;FIX=02
+[RUN][10:14:28:726]CMD:TYPE=START;SN=1HF65006337020105R0000X;FIX=02
+[ERR][10:14:28:728]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:14:33:863]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][10:14:33:878]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][10:14:33:878]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][10:14:33:878]Result:PASS
+[TCP recv][10:14:34:146]IP=127.0.0.1:51855 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][10:14:38:760]IP=127.0.0.1:51855 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:14:38:878]IP=127.0.0.1:51855 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:14:38:989]IP=127.0.0.1:51855 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][10:14:39:089]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[TCP recv][10:14:39:201]IP=127.0.0.1:51855 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:14:39:324]IP=127.0.0.1:51855 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][10:14:43:642]IP=127.0.0.1:51855 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:14:43:745]IP=127.0.0.1:51855 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:14:43:861]IP=127.0.0.1:51855 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:14:43:964]IP=127.0.0.1:51855 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:14:44:079]IP=127.0.0.1:51855 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[STA][10:16:03:066]Start server
+[STA][10:16:03:066]Start server
+[SYS][10:16:04:061]Start in port 37001
+[INT][10:16:04:083]Plugin init success
+[TCP recv][10:16:11:426]IP=127.0.0.1:52141 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[TCP send][10:16:11:603]IP=127.0.0.1:52141 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:16:11:872]IP=127.0.0.1:52141 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:16:12:509]IP=127.0.0.1:52141 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:16:12:625]IP=127.0.0.1:52141 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1}^
+[SYS][10:16:22:457]Console:	TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][10:16:22:468]CMD:	TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][10:16:22:468]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A"]}^
+[SYS][10:16:22:468]Result:PASS
+[TCP recv][10:16:22:797]IP=127.0.0.1:52141 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A"], "ack_id": "test_start"}^
+[TCP recv][10:16:22:907]IP=127.0.0.1:52141 {"message_id": "error", "error_code": "test_start", "error_description": "Incorrect dut sn count: 4, 1", "corresponding_msg": {"message_id": "test_start", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A"]}}^
+[SYS][10:16:28:354]Console:	TYPE=START;SN=1HF65006337020105R0000X;FIX=02
+[RUN][10:16:28:364]CMD:	TYPE=START;SN=1HF65006337020105R0000X;FIX=02
+[TCP send][10:16:28:364]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "dut_id": ["1HF65006337020105R0000X"]}^
+[SYS][10:16:28:364]Result:PASS
+[TCP recv][10:16:28:506]IP=127.0.0.1:52141 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "dut_id": ["1HF65006337020105R0000X"], "ack_id": "test_start"}^
+[TCP recv][10:16:28:625]IP=127.0.0.1:52141 {"message_id": "error", "error_code": "test_start", "error_description": "Incorrect dut sn count: 4, 1", "corresponding_msg": {"message_id": "test_start", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "dut_id": ["1HF65006337020105R0000X"]}}^
+[SYS][10:16:34:507]Console:	TYPE=START;SN=1HF65006337020105R0000B;FIX=03
+[RUN][10:16:34:528]CMD:	TYPE=START;SN=1HF65006337020105R0000B;FIX=03
+[TCP send][10:16:34:528]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 2, "dut_id": ["1HF65006337020105R0000B"]}^
+[SYS][10:16:34:528]Result:PASS
+[TCP recv][10:16:34:795]IP=127.0.0.1:52141 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 2, "dut_id": ["1HF65006337020105R0000B"], "ack_id": "test_start"}^
+[TCP recv][10:16:34:911]IP=127.0.0.1:52141 {"message_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": {"message_id": "test_start", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 2, "dut_id": ["1HF65006337020105R0000B"]}}^
+[SYS][10:16:37:931]Console:	TYPE=START;SN=1HF65006337020105R0000Z;FIX=04
+[RUN][10:16:37:963]CMD:	TYPE=START;SN=1HF65006337020105R0000Z;FIX=04
+[TCP send][10:16:37:963]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 3, "dut_id": ["1HF65006337020105R0000Z"]}^
+[SYS][10:16:37:963]Result:PASS
+[TCP recv][10:16:38:254]IP=127.0.0.1:52141 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 3, "dut_id": ["1HF65006337020105R0000Z"], "ack_id": "test_start"}^
+[TCP recv][10:16:38:365]IP=127.0.0.1:52141 {"message_id": "error", "error_code": "test_start", "error_description": "test_start is not allowed in runtest_state: None", "corresponding_msg": {"message_id": "test_start", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 3, "dut_id": ["1HF65006337020105R0000Z"]}}^
+[SYS][10:22:20:435]Console:TYPE=STATUS;FIX=ALL
+[RUN][10:22:20:452]CMD:TYPE=STATUS;FIX=ALL
+[SYS][10:22:20:455]Result:5555
+[STA][10:23:09:400]Start server
+[STA][10:23:09:400]Start server
+[SYS][10:23:10:317]Start in port 37001
+[INT][10:23:10:338]Plugin init success
+[SYS][10:23:12:167]Console:TYPE=STATUS;FIX=ALL
+[RUN][10:23:12:184]CMD:TYPE=STATUS;FIX=ALL
+[SYS][10:23:12:203]Result:00000000
+[SYS][10:23:15:601]Console:	TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][10:23:15:619]CMD:	TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][10:23:15:623]IP= {"message_id": "test_start","station_id": "0", "group_id": -, "dut_id": ["1HF65006337020105R0000A"]}^
+[ERR][10:23:15:639]   在 ShadowTM.SocketServer.Send(String send_mes, String ip, Object obj) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\SocketServer.cs:行号 158
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 283
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:23:22:411]Console:
+[RUN][10:23:22:432]CMD:
+[SYS][10:23:22:434]Result:null
+[SYS][10:23:22:595]Console:
+[RUN][10:23:22:614]CMD:
+[SYS][10:23:22:616]Result:null
+[SYS][10:23:27:187]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][10:23:27:205]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][10:23:27:207]IP= {"message_id": "test_start","station_id": "0", "group_id": -, "dut_id": ["1HF65006337020105R0000A"]}^
+[ERR][10:23:27:207]   在 ShadowTM.SocketServer.Send(String send_mes, String ip, Object obj) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\SocketServer.cs:行号 158
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 283
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[STA][10:23:48:634]Start server
+[STA][10:23:48:634]Start server
+[SYS][10:23:49:514]Start in port 37001
+[INT][10:23:49:535]Plugin init success
+[SYS][10:24:02:747]Console:TYPE=START;SN=1HF65006337020105R0000A,1HF65006337020105R0000B,1HF65006337020105R0000X,1HF65006337020105R0000C;FIX=01
+[RUN][10:24:02:770]CMD:TYPE=START;SN=1HF65006337020105R0000A,1HF65006337020105R0000B,1HF65006337020105R0000X,1HF65006337020105R0000C;FIX=01
+[TCP send][10:24:02:785]IP= {"message_id": "test_start","station_id": "0", "group_id": -, "dut_id": ["1HF65006337020105R0000A,1HF65006337020105R0000B,1HF65006337020105R0000X,1HF65006337020105R0000C"]}^
+[ERR][10:24:02:801]   在 ShadowTM.SocketServer.Send(String send_mes, String ip, Object obj) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\SocketServer.cs:行号 158
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 283
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[TCP recv][10:24:16:666]IP=127.0.0.1:62921 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[TCP send][10:24:16:832]IP=127.0.0.1:62921 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:24:17:103]IP=127.0.0.1:62921 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:24:17:763]IP=127.0.0.1:62921 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:24:17:870]IP=127.0.0.1:62921 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1}^
+[SYS][10:24:18:618]Console:TYPE=START;SN=1HF65006337020105R0000A,1HF65006337020105R0000B,1HF65006337020105R0000X,1HF65006337020105R0000C;FIX=01
+[RUN][10:24:18:634]CMD:TYPE=START;SN=1HF65006337020105R0000A,1HF65006337020105R0000B,1HF65006337020105R0000X,1HF65006337020105R0000C;FIX=01
+[TCP send][10:24:18:638]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A,1HF65006337020105R0000B,1HF65006337020105R0000X,1HF65006337020105R0000C"]}^
+[SYS][10:24:18:641]Result:PASS
+[TCP recv][10:24:18:953]IP=127.0.0.1:62921 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A,1HF65006337020105R0000B,1HF65006337020105R0000X,1HF65006337020105R0000C"], "ack_id": "test_start"}^
+[TCP recv][10:24:19:067]IP=127.0.0.1:62921 {"message_id": "error", "error_code": "test_start", "error_description": "Incorrect dut sn count: 4, 1", "corresponding_msg": {"message_id": "test_start", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A,1HF65006337020105R0000B,1HF65006337020105R0000X,1HF65006337020105R0000C"]}}^
+[SYS][10:29:12:314]Console:TYPE=START;SN=1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000X","1HF65006337020105R0000C;FIX=01
+[RUN][10:29:12:326]CMD:TYPE=START;SN=1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000X","1HF65006337020105R0000C;FIX=01
+[TCP send][10:29:12:329]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000X","1HF65006337020105R0000C"]}^
+[SYS][10:29:12:333]Result:PASS
+[TCP recv][10:29:12:541]IP=127.0.0.1:62921 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000X", "1HF65006337020105R0000C"], "ack_id": "test_start"}^
+[TCP recv][10:29:17:097]IP=127.0.0.1:62921 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:29:17:206]IP=127.0.0.1:62921 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:29:17:315]IP=127.0.0.1:62921 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000X", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][10:29:17:421]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000X","1HF65006337020105R0000C"]}^
+[TCP recv][10:29:17:530]IP=127.0.0.1:62921 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:29:17:638]IP=127.0.0.1:62921 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000X", "1HF65006337020105R0000C"], "ack_id": "test_start"}^
+[TCP recv][10:29:22:029]IP=127.0.0.1:62921 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:29:22:139]IP=127.0.0.1:62921 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:29:22:246]IP=127.0.0.1:62921 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000X", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:29:22:354]IP=127.0.0.1:62921 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:29:22:462]IP=127.0.0.1:62921 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][10:30:22:980]Console:TYPE=STATUS;FIX=ALL
+[RUN][10:30:22:990]CMD:TYPE=STATUS;FIX=ALL
+[SYS][10:30:22:993]Result:30000000
+[STA][10:30:45:217]Start server
+[STA][10:30:45:224]Start server
+[SYS][10:30:46:327]Start in port 37001
+[INT][10:30:46:352]Plugin init success
+[TCP recv][10:30:51:538]IP=127.0.0.1:63649 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[TCP send][10:30:51:720]IP=127.0.0.1:63649 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][10:30:51:968]IP=127.0.0.1:63649 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][10:30:52:722]IP=127.0.0.1:63649 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:30:52:831]IP=127.0.0.1:63649 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1}^
+[SYS][10:31:07:608]Console:	TYPE=START;SN=1HF65006337020105R0000Z;FIX=04
+[RUN][10:31:07:618]CMD:	TYPE=START;SN=1HF65006337020105R0000Z;FIX=04
+[ERR][10:31:07:643]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:31:19:611]Console:	TYPE=START;SN=1HF65006337020105R0000Z;FIX=01
+[RUN][10:31:19:623]CMD:	TYPE=START;SN=1HF65006337020105R0000Z;FIX=01
+[ERR][10:31:19:627]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:31:28:961]Console:	TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][10:31:28:973]CMD:	TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][10:31:28:977]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][10:31:28:980]Result:PASS
+[TCP recv][10:31:29:253]IP=127.0.0.1:63649 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][10:31:33:898]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:34:006]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:34:116]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][10:31:34:223]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[TCP recv][10:31:34:331]IP=127.0.0.1:63649 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:31:34:441]IP=127.0.0.1:63649 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][10:31:38:810]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:38:919]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:39:028]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:39:138]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:39:245]IP=127.0.0.1:63649 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][10:31:41:720]Console:	TYPE=START;SN=1HF65006337020105R0000C;FIX=01
+[RUN][10:31:41:741]CMD:	TYPE=START;SN=1HF65006337020105R0000C;FIX=01
+[TCP send][10:31:41:745]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000C","1HF65006337020105R0000D","1HF65006337020105R0000E","1HF65006337020105R0000F"]}^
+[SYS][10:31:41:748]Result:PASS
+[TCP recv][10:31:42:066]IP=127.0.0.1:63649 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000C", "1HF65006337020105R0000D", "1HF65006337020105R0000E", "1HF65006337020105R0000F"], "ack_id": "test_start"}^
+[TCP recv][10:31:46:294]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000C", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:46:402]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:46:511]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000E", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][10:31:46:619]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000C","1HF65006337020105R0000D","1HF65006337020105R0000E","1HF65006337020105R0000F"]}^
+[TCP recv][10:31:46:729]IP=127.0.0.1:63649 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:31:46:838]IP=127.0.0.1:63649 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000C", "1HF65006337020105R0000D", "1HF65006337020105R0000E", "1HF65006337020105R0000F"], "ack_id": "test_start"}^
+[TCP recv][10:31:50:953]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000C", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:51:061]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:51:168]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000E", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:51:277]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000F", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:31:51:384]IP=127.0.0.1:63649 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][10:31:51:743]Console:	TYPE=START;SN=1HF65006337020105R0000Z;FIX=01
+[RUN][10:31:51:757]CMD:	TYPE=START;SN=1HF65006337020105R0000Z;FIX=01
+[ERR][10:31:51:761]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:31:55:708]Console:	TYPE=START;SN=1HF65006337020105R0000F;FIX=01
+[RUN][10:31:55:727]CMD:	TYPE=START;SN=1HF65006337020105R0000F;FIX=01
+[TCP send][10:31:55:731]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000F","1HF65006337020105R00010","1HF65006337020105R00011","1HF65006337020105R00012"]}^
+[SYS][10:31:55:734]Result:PASS
+[TCP recv][10:31:56:038]IP=127.0.0.1:63649 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000F", "1HF65006337020105R00010", "1HF65006337020105R00011", "1HF65006337020105R00012"], "ack_id": "test_start"}^
+[TCP recv][10:32:00:272]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000F", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:32:00:380]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R00010", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:32:00:488]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R00011", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][10:32:00:595]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000F","1HF65006337020105R00010","1HF65006337020105R00011","1HF65006337020105R00012"]}^
+[TCP recv][10:32:00:705]IP=127.0.0.1:63649 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:32:00:814]IP=127.0.0.1:63649 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000F", "1HF65006337020105R00010", "1HF65006337020105R00011", "1HF65006337020105R00012"], "ack_id": "test_start"}^
+[TCP recv][10:32:04:920]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000F", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:32:05:027]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R00010", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:32:05:136]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R00011", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:32:05:245]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R00012", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:32:05:354]IP=127.0.0.1:63649 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][10:32:08:555]Console:	TYPE=START;SN=1HF65006337020105R0000T;FIX=01
+[RUN][10:32:08:573]CMD:	TYPE=START;SN=1HF65006337020105R0000T;FIX=01
+[ERR][10:32:08:577]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:32:14:039]Console:	TYPE=START;SN=1HF65006337020105R0000S;FIX=01
+[RUN][10:32:14:054]CMD:	TYPE=START;SN=1HF65006337020105R0000S;FIX=01
+[ERR][10:32:14:058]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:32:17:456]Console:	TYPE=START;SN=1HF65006337020105R0000g;FIX=01
+[RUN][10:32:17:477]CMD:	TYPE=START;SN=1HF65006337020105R0000g;FIX=01
+[ERR][10:32:17:481]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:32:19:978]Console:	TYPE=START;SN=1HF65006337020105R0000G;FIX=01
+[RUN][10:32:19:991]CMD:	TYPE=START;SN=1HF65006337020105R0000G;FIX=01
+[ERR][10:32:19:995]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:32:24:314]Console:	TYPE=START;SN=1HF65006337020105R0000Q;FIX=01
+[RUN][10:32:24:322]CMD:	TYPE=START;SN=1HF65006337020105R0000Q;FIX=01
+[ERR][10:32:24:325]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][10:40:36:150]Console:	TYPE=START;SN=1HF65006337020105R00011;FIX=01
+[RUN][10:40:36:165]CMD:	TYPE=START;SN=1HF65006337020105R00011;FIX=01
+[TCP send][10:40:36:165]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R00011","1HF65006337020105R00012","1HF65006337020105R00013","1HF65006337020105R00014"]}^
+[SYS][10:40:36:165]Result:PASS
+[TCP recv][10:40:36:436]IP=127.0.0.1:63649 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R00011", "1HF65006337020105R00012", "1HF65006337020105R00013", "1HF65006337020105R00014"], "ack_id": "test_start"}^
+[TCP recv][10:40:40:668]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R00011", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:40:40:771]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R00012", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:40:40:871]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R00013", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:40:40:973]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R00014", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][10:40:40:988]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R00011","1HF65006337020105R00012","1HF65006337020105R00013","1HF65006337020105R00014"]}^
+[TCP recv][10:40:41:078]IP=127.0.0.1:63649 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][10:40:41:186]IP=127.0.0.1:63649 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R00011", "1HF65006337020105R00012", "1HF65006337020105R00013", "1HF65006337020105R00014"], "ack_id": "test_start"}^
+[TCP recv][10:40:45:507]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R00011", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][10:40:45:616]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R00012", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:40:45:721]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R00013", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:40:45:830]IP=127.0.0.1:63649 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R00014", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][10:40:45:934]IP=127.0.0.1:63649 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[STA][14:29:14:433]Start server
+[STA][14:29:14:440]Start server
+[SYS][14:29:16:130]Start in port 37001
+[INT][14:29:16:152]Plugin init success
+[TCP recv][14:29:25:888]IP=127.0.0.1:54528 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[TCP send][14:29:26:073]IP=127.0.0.1:54528 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][14:29:26:320]IP=127.0.0.1:54528 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:29:26:965]IP=127.0.0.1:54528 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][14:29:27:073]IP=127.0.0.1:54528 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1}^
+[SYS][14:29:55:255]Console:TYPE=START;SN=1HF65006337020105R0000Y;FIX=01
+[RUN][14:29:55:272]CMD:TYPE=START;SN=1HF65006337020105R0000Y;FIX=01
+[ERR][14:29:55:375]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][14:30:17:248]Console:TYPE=START;SN=1HF65006337020105R0000Y;FIX=01
+[RUN][14:30:17:270]CMD:TYPE=START;SN=1HF65006337020105R0000Y;FIX=01
+[ERR][14:30:17:274]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[STA][14:31:11:683]Start server
+[STA][14:31:11:690]Start server
+[TCP recv][14:31:12:673]IP=127.0.0.1:54762 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[SYS][14:31:12:741]Start in port 37001
+[INT][14:31:12:768]Plugin init success
+[TCP send][14:31:12:861]IP=127.0.0.1:54762 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][14:31:12:999]IP=127.0.0.1:54762 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:31:13:109]IP=127.0.0.1:54762 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][14:31:15:843]Console:TYPE=START;SN=1HF65006337020105R0000Y;FIX=01
+[RUN][14:31:15:853]CMD:TYPE=START;SN=1HF65006337020105R0000Y;FIX=01
+[ERR][14:31:15:874]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][14:31:18:183]Console:TYPE=START;SN=1HF65006337020105R0000Y;FIX=02
+[RUN][14:31:18:194]CMD:TYPE=START;SN=1HF65006337020105R0000Y;FIX=02
+[ERR][14:31:18:198]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][14:31:19:667]Console:TYPE=START;SN=1HF65006337020105R0000Y;FIX=03
+[RUN][14:31:19:685]CMD:TYPE=START;SN=1HF65006337020105R0000Y;FIX=03
+[ERR][14:31:19:689]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[SYS][14:31:21:399]Console:TYPE=START;SN=1HF65006337020105R0000Y;FIX=04
+[RUN][14:31:21:411]CMD:TYPE=START;SN=1HF65006337020105R0000Y;FIX=04
+[ERR][14:31:21:415]   在 System.ParseNumbers.StringToInt(String s, Int32 radix, Int32 flags, Int32* currPos)
+   在 System.Convert.ToInt32(String value, Int32 fromBase)
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 263
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[STA][14:32:03:315]Start server
+[STA][14:32:03:322]Start server
+[SYS][14:32:04:383]Start in port 37001
+[INT][14:32:04:411]Plugin init success
+[SYS][14:32:52:024]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][14:32:52:032]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][14:32:52:052]IP= {"message_id": "test_start","station_id": "0", "group_id": -, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[ERR][14:32:52:068]   在 ShadowTM.SocketServer.Send(String send_mes, String ip, Object obj) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\SocketServer.cs:行号 158
+   在 ShadowTM.UserCommand.test_start(Int32 Holder_id) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 283
+   在 ShadowTM.UserCommand.ProcessCommand(String param, String IP, Object socket) 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\UserCommand.cs:行号 197
+   在 ShadowTM.ProcessCenter.ProcessQCommands() 位置 E:\C#\ShadowTM-Mars\ShadowTM-Sa\ProcessCenter.cs:行号 77
+[TCP recv][14:32:59:486]IP=127.0.0.1:54993 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[TCP send][14:32:59:642]IP=127.0.0.1:54993 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][14:32:59:920]IP=127.0.0.1:54993 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:33:00:676]IP=127.0.0.1:54993 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][14:33:01:632]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][14:33:01:646]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][14:33:01:649]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][14:33:01:653]Result:PASS
+[TCP recv][14:33:01:969]IP=127.0.0.1:54993 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][14:33:06:594]IP=127.0.0.1:54993 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][14:33:06:703]IP=127.0.0.1:54993 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:33:06:811]IP=127.0.0.1:54993 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][14:33:06:916]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[TCP recv][14:33:07:024]IP=127.0.0.1:54993 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][14:33:07:132]IP=127.0.0.1:54993 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][14:33:11:440]IP=127.0.0.1:54993 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][14:33:11:546]IP=127.0.0.1:54993 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:33:11:653]IP=127.0.0.1:54993 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:33:11:761]IP=127.0.0.1:54993 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:33:11:871]IP=127.0.0.1:54993 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][14:34:28:569]IP=127.0.0.1:55223 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[TCP send][14:34:28:678]IP=127.0.0.1:55223 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][14:34:29:002]IP=127.0.0.1:55223 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:34:29:539]IP=127.0.0.1:55223 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][14:34:29:645]IP=127.0.0.1:55223 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1}^
+[SYS][14:34:50:012]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][14:34:50:026]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][14:34:50:030]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][14:34:50:034]Result:PASS
+[TCP recv][14:34:50:334]IP=127.0.0.1:55223 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][14:34:54:958]IP=127.0.0.1:55223 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][14:34:55:066]IP=127.0.0.1:55223 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:34:55:175]IP=127.0.0.1:55223 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][14:34:55:280]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[TCP recv][14:34:55:388]IP=127.0.0.1:55223 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][14:34:55:494]IP=127.0.0.1:55223 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][14:34:59:687]IP=127.0.0.1:55223 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][14:34:59:794]IP=127.0.0.1:55223 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:34:59:902]IP=127.0.0.1:55223 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:35:00:011]IP=127.0.0.1:55223 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:35:00:118]IP=127.0.0.1:55223 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][14:40:11:192]IP=127.0.0.1:55827 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[TCP send][14:40:28:062]IP=127.0.0.1:55827 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][14:40:28:318]IP=127.0.0.1:55827 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:40:28:425]IP=127.0.0.1:55827 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][14:40:33:277]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][14:40:33:288]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][14:40:33:291]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][14:40:33:294]Result:PASS
+[TCP recv][14:40:33:597]IP=127.0.0.1:55827 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][14:40:38:225]IP=127.0.0.1:55827 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][14:40:38:332]IP=127.0.0.1:55827 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:40:38:440]IP=127.0.0.1:55827 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][14:40:38:545]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[TCP recv][14:40:38:547]IP=127.0.0.1:55827 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:40:38:653]IP=127.0.0.1:55827 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][14:40:38:762]IP=127.0.0.1:55827 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][14:40:43:069]IP=127.0.0.1:55827 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][14:40:43:178]IP=127.0.0.1:55827 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:40:43:287]IP=127.0.0.1:55827 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:40:43:396]IP=127.0.0.1:55827 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:40:43:502]IP=127.0.0.1:55827 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][14:40:56:997]Console:TYPE=STATUS;FIX=ALL
+[RUN][14:40:57:012]CMD:TYPE=STATUS;FIX=ALL
+[SYS][14:40:57:015]Result:35550000
+[TCP recv][14:43:25:819]IP=127.0.0.1:56226 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [8]}^
+[TCP send][14:43:25:925]IP=127.0.0.1:56226 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][14:43:26:247]IP=127.0.0.1:56226 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[STA][14:44:02:216]Start server
+[STA][14:44:02:224]Start server
+[TCP recv][14:44:02:507]IP=127.0.0.1:56302 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][14:44:03:242]Start in port 37001
+[INT][14:44:03:273]Plugin init success
+[TCP recv][14:44:08:898]IP=127.0.0.1:56380 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [8]}^
+[TCP send][14:44:09:038]IP=127.0.0.1:56380 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][14:44:09:332]IP=127.0.0.1:56380 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:44:10:093]IP=127.0.0.1:56380 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][14:44:12:058]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][14:44:12:078]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][14:44:12:083]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D","1HF65006337020105R0000E","1HF65006337020105R0000F","1HF65006337020105R00010","1HF65006337020105R00011"]}^
+[SYS][14:44:12:087]Result:PASS
+[TCP recv][14:44:12:354]IP=127.0.0.1:56380 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D", "1HF65006337020105R0000E", "1HF65006337020105R0000F", "1HF65006337020105R00010", "1HF65006337020105R00011"], "ack_id": "test_start"}^
+[TCP recv][14:44:22:168]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:22:273]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:22:381]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][14:44:22:488]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D","1HF65006337020105R0000E","1HF65006337020105R0000F","1HF65006337020105R00010","1HF65006337020105R00011"]}^
+[TCP recv][14:44:22:596]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 4, "dut_id": "1HF65006337020105R0000E", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:22:706]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 5, "dut_id": "1HF65006337020105R0000F", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:22:812]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 6, "dut_id": "1HF65006337020105R00010", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:22:920]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 7, "dut_id": "1HF65006337020105R00011", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:23:028]IP=127.0.0.1:56380 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][14:44:23:135]IP=127.0.0.1:56380 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D", "1HF65006337020105R0000E", "1HF65006337020105R0000F", "1HF65006337020105R00010", "1HF65006337020105R00011"], "ack_id": "test_start"}^
+[TCP recv][14:44:31:661]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:31:772]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:31:878]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:31:985]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:32:093]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 4, "dut_id": "1HF65006337020105R0000E", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:32:203]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 5, "dut_id": "1HF65006337020105R0000F", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:32:314]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 6, "dut_id": "1HF65006337020105R00010", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:32:422]IP=127.0.0.1:56380 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 7, "dut_id": "1HF65006337020105R00011", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:44:32:531]IP=127.0.0.1:56380 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][14:46:19:253]IP=127.0.0.1:56679 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[TCP send][14:46:19:363]IP=127.0.0.1:56679 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][14:46:19:688]IP=127.0.0.1:56679 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:46:23:371]IP=127.0.0.1:56679 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][14:46:29:774]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][14:46:29:794]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][14:46:29:799]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D","1HF65006337020105R0000E","1HF65006337020105R0000F","1HF65006337020105R00010","1HF65006337020105R00011"]}^
+[SYS][14:46:29:802]Result:PASS
+[TCP recv][14:46:30:088]IP=127.0.0.1:56679 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D", "1HF65006337020105R0000E", "1HF65006337020105R0000F", "1HF65006337020105R00010", "1HF65006337020105R00011"], "ack_id": "test_start"}^
+[TCP recv][14:46:30:197]IP=127.0.0.1:56679 {"message_id": "error", "error_code": "test_start", "error_description": "Incorrect dut sn count: 4, 8", "corresponding_msg": {"message_id": "test_start", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D", "1HF65006337020105R0000E", "1HF65006337020105R0000F", "1HF65006337020105R00010", "1HF65006337020105R00011"]}}^
+[TCP recv][14:46:38:426]IP=127.0.0.1:56790 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[TCP send][14:46:38:534]IP=127.0.0.1:56790 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][14:46:38:860]IP=127.0.0.1:56790 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:46:39:511]IP=127.0.0.1:56790 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[STA][14:46:53:868]Start server
+[STA][14:46:53:877]Start server
+[SYS][14:46:54:935]Start in port 37001
+[INT][14:46:54:963]Plugin init success
+[TCP recv][14:47:04:659]IP=127.0.0.1:56950 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[TCP send][14:47:04:844]IP=127.0.0.1:56950 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][14:47:05:089]IP=127.0.0.1:56950 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][14:47:05:737]IP=127.0.0.1:56950 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][14:47:09:065]Console:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[RUN][14:47:09:082]CMD:TYPE=START;SN=1HF65006337020105R0000A;FIX=01
+[TCP send][14:47:09:086]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][14:47:09:090]Result:PASS
+[TCP recv][14:47:09:318]IP=127.0.0.1:56950 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][14:47:13:768]IP=127.0.0.1:56950 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][14:47:13:876]IP=127.0.0.1:56950 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:47:13:984]IP=127.0.0.1:56950 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP send][14:47:14:094]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[TCP recv][14:47:14:094]IP=127.0.0.1:56950 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:47:14:203]IP=127.0.0.1:56950 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][14:47:14:313]IP=127.0.0.1:56950 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][14:47:18:648]IP=127.0.0.1:56950 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][14:47:18:754]IP=127.0.0.1:56950 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:47:18:864]IP=127.0.0.1:56950 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:47:18:974]IP=127.0.0.1:56950 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "FAIL", "extra_info": "", "next_step": ""}^
+[TCP recv][14:47:19:082]IP=127.0.0.1:56950 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][14:47:46:260]Console:TYPE=STATUS;FIX=ALL
+[RUN][14:47:46:270]CMD:TYPE=STATUS;FIX=ALL
+[SYS][14:47:46:274]Result:3555

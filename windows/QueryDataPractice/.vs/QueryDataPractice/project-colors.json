@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e3a55bb-c8a2-48d6-91dd-1cfe115227b3": {
+      "ProjectGuid": "2e3a55bb-c8a2-48d6-91dd-1cfe115227b3",
+      "DisplayName": "QueryDataPractice",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

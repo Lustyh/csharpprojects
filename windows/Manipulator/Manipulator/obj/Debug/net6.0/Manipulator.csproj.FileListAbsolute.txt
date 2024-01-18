@@ -1,0 +1,15 @@
+E:\C#\windows\Manipulator\Manipulator\bin\Debug\net6.0\Manipulator.exe
+E:\C#\windows\Manipulator\Manipulator\bin\Debug\net6.0\Manipulator.deps.json
+E:\C#\windows\Manipulator\Manipulator\bin\Debug\net6.0\Manipulator.runtimeconfig.json
+E:\C#\windows\Manipulator\Manipulator\bin\Debug\net6.0\Manipulator.dll
+E:\C#\windows\Manipulator\Manipulator\bin\Debug\net6.0\ref\Manipulator.dll
+E:\C#\windows\Manipulator\Manipulator\bin\Debug\net6.0\Manipulator.pdb
+E:\C#\windows\Manipulator\Manipulator\obj\Debug\net6.0\Manipulator.csproj.AssemblyReference.cache
+E:\C#\windows\Manipulator\Manipulator\obj\Debug\net6.0\Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\windows\Manipulator\Manipulator\obj\Debug\net6.0\Manipulator.AssemblyInfoInputs.cache
+E:\C#\windows\Manipulator\Manipulator\obj\Debug\net6.0\Manipulator.AssemblyInfo.cs
+E:\C#\windows\Manipulator\Manipulator\obj\Debug\net6.0\Manipulator.csproj.CoreCompileInputs.cache
+E:\C#\windows\Manipulator\Manipulator\obj\Debug\net6.0\Manipulator.dll
+E:\C#\windows\Manipulator\Manipulator\obj\Debug\net6.0\ref\Manipulator.dll
+E:\C#\windows\Manipulator\Manipulator\obj\Debug\net6.0\Manipulator.pdb
+E:\C#\windows\Manipulator\Manipulator\obj\Debug\net6.0\Manipulator.genruntimeconfig.cache

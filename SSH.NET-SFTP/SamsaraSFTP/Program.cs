@@ -91,8 +91,11 @@ namespace SamsaraSFTP
                     tb.Clear();
                     tb.Columns.Clear();
                     current_row = 0;
-                    tb.Columns.Add("SN", typeof(string));
+                    tb.Columns.Add("PO", typeof(string));
                     tb.Columns.Add("WO", typeof(string));
+                    tb.Columns.Add("SN", typeof(string));
+                    tb.Columns.Add("DATE", typeof(string));
+                    tb.Columns.Add("Fixture_ID", typeof(string));
                     if (!Directory.Exists(dir_station)) continue;
                     string[] fixtures = Directory.GetDirectories(dir_station);
                     List<string> station_files = new List<string>();
@@ -124,9 +127,8 @@ namespace SamsaraSFTP
                     }
                     //Console.WriteLine(template);
                     if (template.Length == 0) continue;
-                    List<string> titles = new List<string>();
-                    titles.Add("SN");
-                    titles.Add("WO");
+                    List<string> titles = new List<string>() { "PO", "WO", "SN", "DATE", "Fixture_ID" }; //hard define not belong csv file
+                    List<string> redundant = new List<string>() { "LineID", "OPID", "SN", "Slot", "Start_Time", "Cycle_Time", "FixtureID", "Result" };  //No Need in csv log file
                     using (StreamReader reader = new StreamReader(template))
                     {
                         using (CsvReader t = new CsvReader(reader, CultureInfo.InvariantCulture))
@@ -136,11 +138,21 @@ namespace SamsaraSFTP
                             {
                                 try
                                 {
+
                                     string key = string.Format("{0}", r.Description);
-                                    if (!titles.Contains(key))
+                                    if (!titles.Contains(key) && !redundant.Contains(key))
                                     {
                                         titles.Add(string.Format("{0}", r.Description));
+                                        titles.Add(string.Format("{0}_UPPER", r.Description));
+                                        titles.Add(string.Format("{0}_LOWER", r.Description));
+                                        titles.Add(string.Format("{0}_RESULT", r.Description));
                                         tb.Columns.Add(string.Format("{0}", r.Description), typeof(string));
+                                        if (r.Description != "Result" )//& r.Description != "save_result_in_sfcs")
+                                        {
+                                            tb.Columns.Add(string.Format("{0}_UPPER", r.Description), typeof(string));
+                                            tb.Columns.Add(string.Format("{0}_LOWER", r.Description), typeof(string));
+                                            tb.Columns.Add(string.Format("{0}_RESULT", r.Description), typeof(string));
+                                        }
                                     }
                                 }
                                 catch (Exception x)
@@ -150,98 +162,21 @@ namespace SamsaraSFTP
                             }
                         }
                     }
-                    // Add Lower Limit 
-                    using (StreamReader reader = new StreamReader(template))
-                    {
-                        using (CsvReader t = new CsvReader(reader, CultureInfo.InvariantCulture))
-                        {
-                            var records = t.GetRecords<dynamic>();
-                            tb.Rows.Add(tb.NewRow());
-                            current_row++;
-                            foreach (var r in records)
-                            {
-                                try
-                                {
-                                    string title = string.Format("{0}", r.Description);
-                                    int i = titles.FindIndex(d => d == title);
-                                    string v = string.Format("{0}", r.LowLimit);
-                                    if (title == "SN")
-                                    {
-                                        v = "Lower Limit";
-                                    }
-                                    if (title == "WO")
-                                    {
-                                        v = string.Empty;
-                                    }
-                                    if (title == "Check SN" || title == "Check MBSN" || title == "SN check" || title == "MAC check" || title == "Product check" || title == "Variant check") // skip to show the separate value
-                                    {
-                                        v = string.Empty;
-                                    }
 
-                                    if (v.Length == 0)
-                                    {
-                                        v = string.Format("{0}", string.Empty);
-                                    }
-                                    tb.Rows[current_row - 1][0] = "Lower Limit";
-                                    tb.Rows[current_row - 1][i] = v;
-                                }
-                                catch (Exception x)
-                                {
-                                    
-                                }
-                            }
-                        }
-                    }
-                    // Add High Limit
-                    using (StreamReader reader = new StreamReader(template))
-                    {
-                        using (CsvReader t = new CsvReader(reader, CultureInfo.InvariantCulture))
-                        {
-                            var records = t.GetRecords<dynamic>();
-                            tb.Rows.Add(tb.NewRow());
-                            current_row++;
-                            foreach (var r in records)
-                            {
-                                try
-                                {
-                                    string title = string.Format("{0}", r.Description);
-                                    int i = titles.FindIndex(d => d == title);
-                                    string v = string.Format("{0}", r.HighLimit);
-                                    if (title == "SN")
-                                    {
-                                        v = "High Limit";
-                                    }
-                                    if (title == "WO")
-                                    {
-                                        v = string.Empty;
-                                    }
-                                    if (v.Length == 0)
-                                    {
-                                        v = string.Format("{0}", string.Empty);
-                                    }
-                                    tb.Rows[current_row - 1][0] = "Upper Limit";
-                                    tb.Rows[current_row - 1][i] = v;
-                                }
-                                catch (Exception x)
-                                {
-                                    
-                                }
-                            }
-                        }
-                    }
                     foreach (string f in station_files)
                     {
                         using (StreamReader reader = new StreamReader(f))
                         {
                             using (CsvReader t = new CsvReader(reader, CultureInfo.InvariantCulture))
                             {
-                                var records = t.GetRecords<dynamic>();
+                                var records = t.GetRecords<dynamic>().ToList();
                                 tb.Rows.Add(tb.NewRow());
                                 current_row++;
                                 foreach (var r in records)
                                 {
                                     try
                                     {
+                                        tb.Rows[current_row - 1][3] = date; // write the date time
                                         string title = string.Format("{0}", r.Description);
                                         int i = titles.FindIndex(d => d == title);
                                         string v = string.Format("{0}", r.Value);
@@ -257,15 +192,26 @@ namespace SamsaraSFTP
                                                 wos = wo;
                                             }
                                         }
+                                        if (r.Description == "FixtureID")
+                                        {
+                                            int fixid = titles.FindIndex(d => d == "Fixture_ID");
+                                            tb.Rows[current_row - 1][fixid] = r.Value;
+                                        }
                                         if (v.Length == 0)
                                         {
                                             v = string.Format("{0}", r.ErrorCode);
                                         }
                                         tb.Rows[current_row - 1][i] = v;
+                                        if (i >= 5 && i <= titles.Count)
+                                        {
+                                            tb.Rows[current_row - 1][i + 1] = r.HighLimit;
+                                            tb.Rows[current_row - 1][i + 2] = r.LowLimit;
+                                            tb.Rows[current_row - 1][i + 3] = r.ErrorCode;
+                                        }
                                     }
                                     catch (Exception x)
                                     {
-                                        Console.WriteLine(x.Message);
+                                        //Console.WriteLine(x.Message);
                                     }
                                 }
                             }
@@ -275,14 +221,14 @@ namespace SamsaraSFTP
                     Console.WriteLine(xlsx_name);
                     MiniExcel.SaveAs(xlsx_name, tb);
 
-                    if (cfg == "single")
-                    {
-                        Upload(xlsx_name, destin[0]);
-                    }
-                    else
-                    {
-                        Upload(xlsx_name, destin[1]);
-                    }
+                    //if (cfg == "single")
+                    //{
+                    //    Upload(xlsx_name, destin[0]);
+                    //}
+                    //else
+                    //{
+                    //    Upload(xlsx_name, destin[1]);
+                    //}
 
                     Console.WriteLine(xlsx_name);
                 }

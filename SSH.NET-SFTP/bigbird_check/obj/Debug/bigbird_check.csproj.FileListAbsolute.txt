@@ -20,3 +20,13 @@ E:\C#\SSH.NET-SFTP\bigbird_check\obj\Debug\bigbird_check.csproj.CopyComplete
 E:\C#\SSH.NET-SFTP\bigbird_check\obj\Debug\bigbird_check.exe
 E:\C#\SSH.NET-SFTP\bigbird_check\obj\Debug\bigbird_check.pdb
 E:\C#\SSH.NET-SFTP\bigbird_check\obj\Debug\bigbird_check.csproj.AssemblyReference.cache
+E:\C#\SSH.NET-SFTP1.0.0.4\SSH.NET-SFTP\bigbird_check\bin\Debug\bigbird_check.exe.config
+E:\C#\SSH.NET-SFTP1.0.0.4\SSH.NET-SFTP\bigbird_check\bin\Debug\bigbird_check.exe
+E:\C#\SSH.NET-SFTP1.0.0.4\SSH.NET-SFTP\bigbird_check\bin\Debug\bigbird_check.pdb
+E:\C#\SSH.NET-SFTP1.0.0.4\SSH.NET-SFTP\bigbird_check\bin\Debug\Renci.SshNet.dll
+E:\C#\SSH.NET-SFTP1.0.0.4\SSH.NET-SFTP\bigbird_check\bin\Debug\Renci.SshNet.xml
+E:\C#\SSH.NET-SFTP1.0.0.4\SSH.NET-SFTP\bigbird_check\obj\Debug\bigbird_check.csproj.SuggestedBindingRedirects.cache
+E:\C#\SSH.NET-SFTP1.0.0.4\SSH.NET-SFTP\bigbird_check\obj\Debug\bigbird_check.csproj.CoreCompileInputs.cache
+E:\C#\SSH.NET-SFTP1.0.0.4\SSH.NET-SFTP\bigbird_check\obj\Debug\bigbird_check.csproj.CopyComplete
+E:\C#\SSH.NET-SFTP1.0.0.4\SSH.NET-SFTP\bigbird_check\obj\Debug\bigbird_check.exe
+E:\C#\SSH.NET-SFTP1.0.0.4\SSH.NET-SFTP\bigbird_check\obj\Debug\bigbird_check.pdb

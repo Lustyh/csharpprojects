@@ -1,0 +1,188 @@
+[Delete log][08:47:58:485]remove file:ShadowTM-20240116.log
+[Delete log][08:47:58:489]remove file:ShadowTM-20240117.log
+[Delete log][08:47:58:493]remove file:Shopfloor-20240116.log
+[Delete log][08:47:58:516]remove file:Shopfloor-20240117.log
+[STA][08:47:58:522]Start server
+[STA][08:47:58:526]Start server
+[TCP recv][08:47:59:231]IP=127.0.0.1:64771 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][08:48:10:268]Start server
+[STA][08:48:10:272]Start server
+[TCP recv][08:48:10:665]IP=127.0.0.1:64861 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][08:48:19:354]Start server
+[STA][08:48:19:359]Start server
+[TCP recv][08:48:19:704]IP=127.0.0.1:64896 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][08:48:30:435]Start server
+[STA][08:48:30:439]Start server
+[TCP recv][08:48:30:732]IP=127.0.0.1:64912 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][08:50:06:252]Start server
+[STA][08:50:06:258]Start server
+[TCP recv][08:50:06:865]IP=127.0.0.1:64930 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][08:50:10:816]Start server
+[STA][08:50:10:821]Start server
+[TCP recv][08:50:11:214]IP=127.0.0.1:65045 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][08:50:25:433]Start server
+[STA][08:50:25:437]Start server
+[TCP recv][08:50:25:916]IP=127.0.0.1:65060 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][08:50:35:679]Start server
+[STA][08:50:35:686]Start server
+[TCP recv][08:50:36:267]IP=127.0.0.1:65080 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][08:50:49:918]Start server
+[STA][08:50:49:924]Start server
+[TCP recv][08:50:50:290]IP=127.0.0.1:65091 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][08:50:54:285]Start server
+[STA][08:50:54:294]Start server
+[TCP recv][08:50:54:432]IP=127.0.0.1:65112 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[SYS][08:50:55:965]Start in port 37001
+[INT][08:50:55:991]Plugin init success
+[STA][08:50:58:494]Start server
+[STA][08:50:58:501]Start server
+[TCP recv][08:50:58:852]IP=127.0.0.1:65127 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[STA][08:51:04:918]Start server
+[STA][08:51:04:924]Start server
+[TCP recv][08:51:05:529]IP=127.0.0.1:65140 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[SYS][08:51:07:810]Start in port 37001
+[STA][08:51:16:747]Start server
+[STA][08:51:16:754]Start server
+[TCP recv][08:51:17:273]IP=127.0.0.1:65151 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[SYS][08:51:19:603]Start in port 37001
+[STA][08:53:51:322]Start server
+[STA][08:53:51:329]Start server
+[TCP recv][08:53:52:039]IP=127.0.0.1:65175 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[SYS][08:53:55:421]Start in port 37001
+[STA][08:54:08:271]Start server
+[STA][08:54:08:276]Start server
+[SYS][08:54:09:373]Start in port 37001
+[INT][08:54:09:397]Plugin init success
+[TCP recv][08:54:10:378]IP=127.0.0.1:65521 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[TCP send][08:54:10:547]IP=127.0.0.1:65521 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][08:54:10:812]IP=127.0.0.1:65521 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][08:54:13:621]IP=127.0.0.1:65521 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][08:54:20:057]IP=127.0.0.1:49180 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default_copy", "slot_num_by_group": [4]}^
+[TCP send][08:54:20:164]IP=127.0.0.1:49180 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][08:54:20:489]IP=127.0.0.1:49180 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][08:54:21:250]IP=127.0.0.1:49180 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][08:55:42:489]Console:'TYPE=START;SN=1HF65006337020105R0000A;FIX=01;GROUP=0'
+[RUN][08:55:42:508]CMD:'TYPE=START;SN=1HF65006337020105R0000A;FIX=01;GROUP=0'
+[TCP send][08:55:42:513]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][08:55:42:518]Result:PASS
+[TCP recv][08:55:42:752]IP=127.0.0.1:49180 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][08:55:47:437]IP=127.0.0.1:49180 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][08:55:47:546]IP=127.0.0.1:49180 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][08:55:47:654]IP=127.0.0.1:49180 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][08:55:47:761]IP=127.0.0.1:49180 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][08:55:47:869]IP=127.0.0.1:49180 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][08:55:55:013]IP=127.0.0.1:49338 {"message_id": "station_online", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "test_mode": "LOCAL", "test_profile": "default", "slot_num_by_group": [4, 4]}^
+[TCP send][08:55:55:121]IP=127.0.0.1:49338 {"message_id": "station_verify_result","station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK"}^
+[TCP recv][08:55:55:445]IP=127.0.0.1:49338 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "result": "OK", "ack_id": "station_verify_result"}^
+[TCP recv][08:55:55:985]IP=127.0.0.1:49338 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[TCP recv][08:55:56:093]IP=127.0.0.1:49338 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1}^
+[SYS][08:55:57:509]Console:'TYPE=START;SN=1HF65006337020105R0000A;FIX=01;GROUP=0'
+[RUN][08:55:57:522]CMD:'TYPE=START;SN=1HF65006337020105R0000A;FIX=01;GROUP=0'
+[TCP send][08:55:57:527]IP=127.0.0.1 {"message_id": "test_start","station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A","1HF65006337020105R0000B","1HF65006337020105R0000C","1HF65006337020105R0000D"]}^
+[SYS][08:55:57:531]Result:PASS
+[TCP recv][08:55:57:833]IP=127.0.0.1:49338 {"message_id": "ack", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "dut_id": ["1HF65006337020105R0000A", "1HF65006337020105R0000B", "1HF65006337020105R0000C", "1HF65006337020105R0000D"], "ack_id": "test_start"}^
+[TCP recv][08:56:02:476]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 0, "dut_id": "1HF65006337020105R0000A", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][08:56:02:583]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 1, "dut_id": "1HF65006337020105R0000B", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][08:56:02:692]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 2, "dut_id": "1HF65006337020105R0000C", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][08:56:02:800]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0, "slot_id": 3, "dut_id": "1HF65006337020105R0000D", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][08:56:02:909]IP=127.0.0.1:49338 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 0}^
+[SYS][09:03:12:184]Console:msg10 = 'TYPE=STATUS;FIX=ALL'
+[RUN][09:03:12:199]CMD:msg10 = 'TYPE=STATUS;FIX=ALL'
+[SYS][09:03:12:204]Result:4555
+[TCP recv][09:03:28:854]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:28:963]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:29:071]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:29:177]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:29:286]IP=127.0.0.1:49338 {"message_id": "station_ready", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1}^
+[SYS][09:03:29:469]Console:msg10 = 'TYPE=STATUS;FIX=ALL'
+[RUN][09:03:29:485]CMD:msg10 = 'TYPE=STATUS;FIX=ALL'
+[SYS][09:03:29:489]Result:4455
+[TCP recv][09:03:38:713]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:38:821]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:38:929]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:39:036]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:48:694]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:48:803]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:48:913]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:49:019]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:58:678]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:58:786]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:58:896]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:03:59:003]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:08:691]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:08:798]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:08:907]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:09:016]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:18:701]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:18:810]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:18:918]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:19:027]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:28:709]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:28:820]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:28:928]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:29:037]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:38:714]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:38:823]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:38:929]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:39:036]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:48:712]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:48:821]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:48:929]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:49:037]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:58:710]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:58:819]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:58:927]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:04:59:036]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:08:686]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:08:796]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:08:903]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:09:012]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:18:693]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:18:803]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:18:912]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:19:021]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:28:756]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:28:863]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:28:970]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:29:079]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:38:743]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:38:852]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:38:961]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:39:069]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:48:722]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:48:831]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:48:939]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:49:048]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:58:694]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:58:802]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:58:911]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:05:59:020]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:08:750]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:08:856]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:08:965]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:09:074]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:18:705]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:18:813]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:18:922]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:19:031]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:28:763]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:28:871]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:28:979]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:29:088]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:38:704]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:38:812]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:38:921]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:39:030]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:48:668]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:48:777]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:48:883]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:48:989]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:58:687]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:58:795]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:58:903]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:06:59:011]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:07:08:700]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:07:08:809]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 1, "dut_id": "2", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:07:08:917]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 2, "dut_id": "3", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:07:09:025]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 3, "dut_id": "4", "result": "PASS", "extra_info": "", "next_step": ""}^
+[TCP recv][09:07:18:907]IP=127.0.0.1:49338 {"message_id": "test_complete", "project_id": "D4R", "station_id": "D4R_F4-L39_FATP-HDMI_01", "group_id": 1, "slot_id": 0, "dut_id": "1", "result": "PASS", "extra_info": "", "next_step": ""}^

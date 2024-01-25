@@ -21,6 +21,7 @@ namespace ShadowTM
         public string Fail_Fix = "";
         public string upload_cli = "OK";
         public bool   new_dev = true;
+        public int    group_id = 0;
     }
 
     class Roboot
@@ -35,8 +36,10 @@ namespace ShadowTM
     class UserCommand
     {
         public static List<Roboot> Roboots = new List<Roboot>();
+        public static List<int> slot_num_by_group = new List<int>();
         public static int holder_count = 1;
         public static int fix_count = 1;
+        public static int group_count = 1;
         public static string test_type = "";
         public static List<HolderStatus> holders = new List<HolderStatus>();
 
@@ -46,14 +49,15 @@ namespace ShadowTM
         /// <param name="num">治具数</param>
         /// <param name="fix_holder">每台治具的holder数</param>
         /// <param name="test_Mode">测试模式{single_up, async_test, multiple_up}</param>
-        public static void Init(int num, int fix_holder, string test_Mode)
+        public static void Init(int num, int fix_holder, int group_num, string test_Mode)
         {
             
             fix_count = num;
             holder_count = fix_holder;
+            group_count = group_num;
             test_type = test_Mode;
-            Console.WriteLine(num * fix_holder);
-            for (int i = 0; i < num * fix_holder; i++)
+            Console.WriteLine(num * fix_holder * group_num);
+            for (int i = 0; i < num * fix_holder * group_num; i++)
             {
                 holders.Add(new HolderStatus());
             }
@@ -174,25 +178,27 @@ namespace ShadowTM
                 {
                     string[] args = param.Split(';');
                     int hold_id = int.Parse(args[2].Substring(4));
+                    Console.WriteLine("hold_id:" + hold_id.ToString());
                     string SN = args[1].Substring(3);
                     if (SN.StartsWith("BWIP"))
                         SN = SN.Substring(1);
-
+                    Console.WriteLine(hold_id * holder_count - holder_count);
+                    Console.WriteLine(holders[hold_id * holder_count - holder_count].Fix_ID);
                     if (SN == Roboots[0].SN) //new dut
                     {
-                        holders[hold_id - 1].SN = SN;
-                        holders[hold_id - 1].status = 0;
-                        holders[hold_id - 1].Fail_Count = Roboots[0].Fail_Count;
+                        holders[hold_id * holder_count - holder_count].SN = SN;
+                        holders[hold_id * holder_count - holder_count].status = 0;
+                        holders[hold_id * holder_count - holder_count].Fail_Count = Roboots[0].Fail_Count;
                     }
-                    else if (SN == holders[hold_id - 1].SN) //same dut in same slot
+                    else if (SN == holders[hold_id * holder_count - holder_count].SN) //same dut in same slot
                     {
-                        holders[hold_id - 1].status = 0;
+                        holders[hold_id * holder_count - holder_count].status = 0;
                     }
                     else
                     {
-                        holders[hold_id - 1].SN = SN;
-                        holders[hold_id - 1].status = 0;
-                        holders[hold_id - 1].Fail_Count = 0;
+                        holders[hold_id * holder_count - holder_count].SN = SN;
+                        holders[hold_id * holder_count - holder_count].status = 0;
+                        holders[hold_id * holder_count - holder_count].Fail_Count = 0;
                     }
                     test_start(hold_id);
                     return "PASS";
@@ -253,10 +259,10 @@ namespace ShadowTM
         public static void test_start(int Holder_id)
         {
             string list_sn = "";
-            string station_id = holders[Holder_id - 1].Fix_ID;
+            string station_id = holders[Holder_id * holder_count - holder_count].Fix_ID;
             if (PluginSF.test_mode == "multiple_up")
             {
-                string sn = holders[Holder_id - 1].SN;
+                string sn = holders[Holder_id * holder_count - holder_count].SN;
                 string sn_head = sn.Substring(0, sn.Length - 5);
                 string sn_vari = sn.Substring(sn.Length - 5);
 
@@ -266,7 +272,7 @@ namespace ShadowTM
                 {
                     string nSN = sn_head + (base_num + j).ToString("X").PadLeft(5, '0');
                     holders[Holder_id + j - 1].SN = nSN;
-                    holders[Holder_id + j - 1].status = 5;
+                    //holders[Holder_id + j - 1].status = 5;
                     list_sn += "\"" + nSN + "\",";
                 }
                 list_sn = list_sn.Substring(0, list_sn.Length - 1);
@@ -279,9 +285,19 @@ namespace ShadowTM
                     list_sn = "\"\"";
                 }
             }
-            string response = "{\"message_id\": \"test_start\",\"station_id\": \"" + station_id + "\", \"group_id\": " + holders[Holder_id - 1].slot.ToString() + ", \"dut_id\": [" + list_sn + "]}^";
-            SocketServer.Send(response, holders[Holder_id - 1].IP, holders[Holder_id - 1].obj);
-            holders[Holder_id - 1].status = 5;
+
+            // 用余数获取group_index. 
+            // 生成一个Group_List 表示每个治具总共group 且列表应该为递减。 {1 , 0} 用group_index 获得group_id
+            // 如果group总数为2， 那么余数余数只有两种情况 1 或 0。 得0则为group0，1与之相反
+
+            List<int> Group_List = Enumerable.Range(0, slot_num_by_group.Count() + 1)
+                .Select(i => slot_num_by_group.Count() - 1 - i)
+                .ToList();
+            int group_index = Holder_id % slot_num_by_group.Count();
+            Console.WriteLine(group_index);
+            string response = "{\"message_id\": \"test_start\",\"station_id\": \"" + station_id + "\", \"group_id\": " + Group_List[group_index].ToString() + ", \"dut_id\": [" + list_sn + "]}^";
+            SocketServer.Send(response, holders[Holder_id * holder_count - holder_count].IP, holders[Holder_id * holder_count - holder_count].obj);
+            holders[Holder_id * holder_count - holder_count].status = 5;
         }
 
         /// <summary>
@@ -296,9 +312,12 @@ namespace ShadowTM
             string group_id = jObject.GetValue("group_id").ToString();
             string dut_id = jObject.GetValue("dut_id").ToString();
             string test_result = jObject.GetValue("result").ToString();
-
+            //Console.WriteLine(holders.Count);
             for (int i = 0; i < holders.Count; i++)
             {
+                // 
+                //Console.WriteLine("group_id: " + group_id);
+                //Console.WriteLine("holders[i].slot: " + holders[i].slot);
                 if (station_id == holders[i].Fix_ID && group_id == holders[i].slot)
                 {
                     if (test_result.ToUpper() != "PASS")
@@ -340,7 +359,7 @@ namespace ShadowTM
             string group_id = jObject.GetValue("group_id").ToString();
             return "n/a";
         }
-        
+
         /// <summary>
         /// online API  From Clifford to central controller
         /// </summary>
@@ -352,7 +371,8 @@ namespace ShadowTM
         {
             string project_id = jObject.GetValue("project_id").ToString();
             string station_id = jObject.GetValue("station_id").ToString();
-            string slots = jObject.GetValue("slot_num_by_group").ToString();
+            slot_num_by_group = jObject.GetValue("slot_num_by_group").ToObject<List<int>>();
+            
             if (IP.Contains(":"))
             {
                 IP = IP.Split(':')[0];
@@ -364,18 +384,22 @@ namespace ShadowTM
             if (int.TryParse(fixture_fullno, out fix_no))
             {
                 fix_no = (int.Parse(fixture_fullno) - 1) % fix_count;
-                for (int i = 0; i < holder_count; i++)
+                Console.WriteLine("fix_no: " + fix_no.ToString());
+                for (int i = 0; i < holder_count * group_count; i++)
                 {
-                    holders[fix_no * holder_count + i].Fix_ID = station_id;
-                    holders[fix_no * holder_count + i].IP = IP;
-                    holders[fix_no * holder_count + i].slot = i.ToString();
-                    holders[fix_no * holder_count + i].status = 0;
-                    holders[fix_no * holder_count + i].SN = "";
-                    holders[fix_no * holder_count + i].Fail_Fix = "";
-                    holders[fix_no * holder_count + i].Fail_Count = 0;
-                    holders[fix_no * holder_count + i].upload_cli = "OK";
-                    holders[fix_no * holder_count + i].obj = socket;
-                    holders[fix_no * holder_count + i].new_dev = false;
+                    //Console.WriteLine(i);
+                    Console.WriteLine(station_id);
+                    Console.WriteLine(fix_no * holder_count * group_count + i);
+                    holders[fix_no * holder_count * group_count + i].Fix_ID = station_id;
+                    holders[fix_no * holder_count * group_count + i].IP = IP;
+                    holders[fix_no * holder_count * group_count + i].slot = i.ToString();
+                    holders[fix_no * holder_count * group_count + i].status = 0;
+                    holders[fix_no * holder_count * group_count + i].SN = "";
+                    holders[fix_no * holder_count * group_count + i].Fail_Fix = "";
+                    holders[fix_no * holder_count * group_count + i].Fail_Count = 0;
+                    holders[fix_no * holder_count * group_count + i].upload_cli = "OK";
+                    holders[fix_no * holder_count * group_count + i].obj = socket;
+                    holders[fix_no * holder_count * group_count + i].new_dev = false;
                 }
                 return "{\"message_id\": \"station_verify_result\",\"station_id\": \"" + station_id + "\", \"result\": \"OK\"}^";
             }

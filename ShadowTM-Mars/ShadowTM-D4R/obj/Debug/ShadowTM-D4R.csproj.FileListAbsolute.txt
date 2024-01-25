@@ -1,0 +1,8 @@
+E:\C#\ShadowTM-Mars\ShadowTM-D4R\obj\Debug\ShadowTM-D4R.csproj.SuggestedBindingRedirects.cache
+E:\C#\ShadowTM-Mars\ShadowTM-D4R\obj\Debug\ShadowTM-D4R.csproj.CoreCompileInputs.cache
+E:\C#\ShadowTM-Mars\ShadowTM-D4R\obj\Debug\ShadowTM-D4R.csproj.CopyComplete
+E:\C#\ShadowTM-Mars\ShadowTM-D4R\bin\Debug\ShadowTM-D4R.exe.config
+E:\C#\ShadowTM-Mars\ShadowTM-D4R\bin\Debug\ShadowTM-D4R.exe
+E:\C#\ShadowTM-Mars\ShadowTM-D4R\bin\Debug\ShadowTM-D4R.pdb
+E:\C#\ShadowTM-Mars\ShadowTM-D4R\obj\Debug\ShadowTM-D4R.exe
+E:\C#\ShadowTM-Mars\ShadowTM-D4R\obj\Debug\ShadowTM-D4R.pdb
